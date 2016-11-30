@@ -1,36 +1,26 @@
 <system>
 	<name>HN Peg</name>
 	<rightascension>21 44 31</rightascension>
-	<declination>+14 46 19</declination>
-	<distance errorminus="0.3" errorplus="0.3">18.4</distance>
+	<declination>+14 46 18</declination>
+	<distance errorminus="0.29" errorplus="0.28">18.39</distance>
 	<star>
-		<mass>1</mass>
-		<magV>6</magV>
-		<magB errorminus="0.01" errorplus="0.01">6.53</magB>
-		<magR>6.16</magR>
-		<magI>5.3</magI>
-		<magJ>4.79</magJ>
-		<magH>4.60</magH>
-		<magK errorminus="0.04" errorplus="0.04">4.56</magK>
+		<name>HN Peg</name>
+		<mass>1.0</mass>
+		<magV errorminus="0.020" errorplus="0.020">6.0</magV>
+		<magB errorminus="0.020" errorplus="0.020">6.540</magB>
+		<magJ errorminus="0.035" errorplus="0.035">4.793</magJ>
+		<magH errorminus="0.036" errorplus="0.036">4.598</magH>
+		<magK errorminus="0.038" errorplus="0.038">4.559</magK>
+		<age>0.2</age>
 		<spectraltype>G0V</spectraltype>
 		<planet>
 			<name>HN Peg b</name>
-			<list>Confirmed planets</list>
-			<mass errorminus="9" errorplus="9">22</mass>
-			<radius errorminus="0.06" errorplus="0.14">1.05</radius>
-			<separation errorminus="0.4" errorplus="0.4" unit="arcsec">43.2</separation>
-			<separation errorminus="15" errorplus="15" unit="AU">795</separation>
-			<positionangle errorminus="0.6" errorplus="0.6">254.4</positionangle>
-			<spectraltype>T2.5</spectraltype>
-			<magJ errorminus="0.03" errorplus="0.03">15.86</magJ>
-			<magH errorminus="0.03" errorplus="0.03">15.40</magH>
-			<magK errorminus="0.03" errorplus="0.03">15.12</magK>
-			<temperature errorminus="70" errorplus="70">1130</temperature>
+			<mass errorminus="9.4" errorplus="9.4" type="Mass">16.0</mass>
+			<radius errorminus="0.06" errorplus="0.06">1.1</radius>
+			<semimajoraxis errorminus="15.0" errorplus="15.0">795.0</semimajoraxis>
 			<discoverymethod>imaging</discoverymethod>
-			<lastupdate>11/04/23</lastupdate>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 		</planet>
-		<name>HN Peg</name>
-		<temperature>5940.0</temperature>
 	</star>
 </system>

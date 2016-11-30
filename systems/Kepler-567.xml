@@ -2,23 +2,26 @@
 	<name>Kepler-567</name>
 	<rightascension>19 50 41</rightascension>
 	<declination>+48 18 08</declination>
+	<distance errorminus="28.95" errorplus="34.35">568.00</distance>
 	<star>
 		<name>Kepler-567</name>
-		<temperature errorminus="92.6" errorplus="106.1">5148.0</temperature>
 		<mass errorminus="0.04" errorplus="0.04">0.84</mass>
 		<radius errorminus="0.04" errorplus="0.04">0.79</radius>
-		<metallicity errorminus="0.15" errorplus="0.14">0.00</metallicity>
+		<magV>14.687</magV>
+		<magJ errorminus="0.026" errorplus="0.026">13.267</magJ>
+		<magH errorminus="0.017" errorplus="0.017">12.789</magH>
+		<magK errorminus="0.029" errorplus="0.029">12.724</magK>
+		<temperature errorminus="92.59" errorplus="106.09">5148.0</temperature>
+		<age errorminus="3.000" errorplus="5.650">4.680</age>
+		<metallicity errorminus="0.152" errorplus="0.142">0.0</metallicity>
 		<planet>
 			<name>Kepler-567 b</name>
-			<discoverymethod>transit</discoverymethod>
-			<list>Confirmed planets</list>
-			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
-			<istransiting>1</istransiting>
-			<new>1</new>
-			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000041490" errorplus="0.000041490">16.542973750</period>
 			<radius errorminus="0.011" errorplus="0.013">0.201</radius>
+			<period errorminus="4.149e-05" errorplus="4.149e-05">16.54297375</period>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".001830" errorplus="0.001830" unit="JD">2455002.648880</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>
 </system>

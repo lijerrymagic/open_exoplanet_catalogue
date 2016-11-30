@@ -1,0 +1,19 @@
+<system>
+	<name>OGLE 2005-BLG-169L</name>
+	<rightascension>18 06 05</rightascension>
+	<declination>-30 43 57</declination>
+	<distance errorminus="400.00" errorplus="400.00">4100.00</distance>
+	<star>
+		<name>OGLE 2005-BLG-169L</name>
+		<mass errorminus="0.02" errorplus="0.02">0.69</mass>
+		<spectraltype>K5</spectraltype>
+		<planet>
+			<name>OGLE 2005-BLG-169L b</name>
+			<mass errorminus="0.00283" errorplus="0.00283" type="Mass">0.04436</mass>
+			<semimajoraxis errorminus="0.300000" errorplus="0.300000">3.500000</semimajoraxis>
+			<discoverymethod>microlensing</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2006</discoveryyear>
+		</planet>
+	</star>
+</system>

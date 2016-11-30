@@ -1,0 +1,31 @@
+<system>
+	<name>K2-14</name>
+	<rightascension>11 52 13</rightascension>
+	<declination>+02 35 39</declination>
+	<distance errorminus="8.00" errorplus="8.00">219.00</distance>
+	<star>
+		<name>K2-14</name>
+		<name>EPIC 201635569</name>
+		<mass errorminus="0.01" errorplus="0.01">0.47</mass>
+		<radius errorminus="0.01" errorplus="0.01">0.45</radius>
+		<magV errorminus="0.070" errorplus="0.070">16.310</magV>
+		<magB errorminus="0.160" errorplus="0.160">17.736</magB>
+		<magJ errorminus="0.027" errorplus="0.027">13.416</magJ>
+		<magH errorminus="0.021" errorplus="0.021">12.772</magH>
+		<magK errorminus="0.031" errorplus="0.031">12.611</magK>
+		<temperature errorminus="16.0" errorplus="17.0">3789.0</temperature>
+		<metallicity errorminus="0.04" errorplus="0.03">-0.37</metallicity>
+		<planet>
+			<name>K2-14 b</name>
+			<name>EPIC 201635569 b</name>
+			<radius errorminus="0.037" errorplus="0.037">0.429</radius>
+			<period errorminus="0.00019" errorplus="0.00019">8.36802</period>
+			<semimajoraxis errorminus="0.0006" errorplus="0.0006">0.0627</semimajoraxis>
+			<temperature errorminus="8" errorplus="8">488</temperature>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".001300" errorplus="0.001300" unit="BJD">2456811.451300</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2015</discoveryyear>
+		</planet>
+	</star>
+</system>

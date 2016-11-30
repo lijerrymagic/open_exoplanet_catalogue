@@ -1,24 +1,27 @@
 <system>
 	<name>Kepler-960</name>
-	<rightascension>18 45 50</rightascension>
+	<rightascension>18 45 49</rightascension>
 	<declination>+46 44 47</declination>
+	<distance errorminus="13.29" errorplus="11.93">298.00</distance>
 	<star>
 		<name>Kepler-960</name>
-		<temperature errorminus="40.5" errorplus="41.3">4755.0</temperature>
 		<mass errorminus="0.04" errorplus="0.03">0.77</mass>
 		<radius errorminus="0.03" errorplus="0.02">0.72</radius>
-		<metallicity errorminus="0.16" errorplus="0.16">0.02</metallicity>
+		<magV>13.884</magV>
+		<magJ errorminus="0.023" errorplus="0.023">12.272</magJ>
+		<magH errorminus="0.022" errorplus="0.022">11.729</magH>
+		<magK errorminus="0.011" errorplus="0.011">11.618</magK>
+		<temperature errorminus="40.53" errorplus="41.26">4755.0</temperature>
+		<age errorminus="1.990" errorplus="6.100">3.630</age>
+		<metallicity errorminus="0.163" errorplus="0.157">0.02</metallicity>
 		<planet>
 			<name>Kepler-960 b</name>
-			<discoverymethod>transit</discoverymethod>
-			<list>Confirmed planets</list>
-			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
-			<istransiting>1</istransiting>
-			<new>1</new>
-			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000001670" errorplus="0.000001670">3.126862230</period>
 			<radius errorminus="0.022" errorplus="0.006">0.204</radius>
+			<period errorminus="1.67e-06" errorplus="1.67e-06">3.12686223</period>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000456" errorplus="0.000456" unit="JD">2454966.724506</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>
 </system>

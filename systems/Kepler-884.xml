@@ -2,23 +2,26 @@
 	<name>Kepler-884</name>
 	<rightascension>19 30 20</rightascension>
 	<declination>+49 55 23</declination>
+	<distance errorminus="14.26" errorplus="15.95">420.00</distance>
 	<star>
 		<name>Kepler-884</name>
-		<temperature errorminus="52.6" errorplus="62.9">5715.0</temperature>
-		<mass errorminus="0.03" errorplus="0.03">1.00</mass>
+		<mass errorminus="0.03" errorplus="0.03">1.0</mass>
 		<radius errorminus="0.03" errorplus="0.03">0.94</radius>
-		<metallicity errorminus="0.09" errorplus="0.09">0.05</metallicity>
+		<magV>13.069</magV>
+		<magJ errorminus="0.021" errorplus="0.021">11.931</magJ>
+		<magH errorminus="0.017" errorplus="0.017">11.595</magH>
+		<magK errorminus="0.018" errorplus="0.018">11.547</magK>
+		<temperature errorminus="52.56" errorplus="62.9">5715.0</temperature>
+		<age errorminus="0.934" errorplus="1.660">2.450</age>
+		<metallicity errorminus="0.088" errorplus="0.088">0.05</metallicity>
 		<planet>
 			<name>Kepler-884 b</name>
+			<radius errorminus="0.004" errorplus="0.004">0.11</radius>
+			<period errorminus="1.359e-05" errorplus="1.359e-05">5.69919514</period>
 			<discoverymethod>transit</discoverymethod>
-			<list>Confirmed planets</list>
+			<transittime errorminus=".001950" errorplus="0.001950" unit="JD">2454969.587540</transittime>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
-			<istransiting>1</istransiting>
-			<new>1</new>
-			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000013590" errorplus="0.000013590">5.699195140</period>
-			<radius errorminus="0.004" errorplus="0.004">0.110</radius>
 		</planet>
 	</star>
 </system>

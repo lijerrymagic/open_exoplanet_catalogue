@@ -1,24 +1,27 @@
 <system>
 	<name>Kepler-1346</name>
-	<rightascension>19 27 22</rightascension>
+	<rightascension>19 27 21</rightascension>
 	<declination>+45 10 45</declination>
+	<distance errorminus="152.85" errorplus="399.75">1123.00</distance>
 	<star>
 		<name>Kepler-1346</name>
-		<temperature errorminus="160.7" errorplus="118.4">6133.0</temperature>
 		<mass errorminus="0.08" errorplus="0.15">1.14</mass>
 		<radius errorminus="0.15" errorplus="0.43">1.21</radius>
-		<metallicity errorminus="0.15" errorplus="0.14">0.04</metallicity>
+		<magV>14.497</magV>
+		<magJ errorminus="0.029" errorplus="0.029">13.392</magJ>
+		<magH errorminus="0.032" errorplus="0.032">13.093</magH>
+		<magK errorminus="0.036" errorplus="0.036">13.107</magK>
+		<temperature errorminus="160.7" errorplus="118.39">6133.0</temperature>
+		<age errorminus="1.360" errorplus="1.220">3.090</age>
+		<metallicity errorminus="0.154" errorplus="0.135">0.04</metallicity>
 		<planet>
 			<name>Kepler-1346 b</name>
+			<radius errorminus="0.019" errorplus="0.05">0.141</radius>
+			<period errorminus="1.161e-05" errorplus="1.161e-05">3.40165668</period>
 			<discoverymethod>transit</discoverymethod>
-			<list>Confirmed planets</list>
+			<transittime errorminus=".002870" errorplus="0.002870" unit="JD">2454965.060950</transittime>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
-			<istransiting>1</istransiting>
-			<new>1</new>
-			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000011610" errorplus="0.000011610">3.401656680</period>
-			<radius errorminus="0.019" errorplus="0.050">0.141</radius>
 		</planet>
 	</star>
 </system>

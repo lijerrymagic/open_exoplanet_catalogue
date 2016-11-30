@@ -1,32 +1,33 @@
 <system>
 	<name>HD 30856</name>
-	<rightascension>04 50 14</rightascension>
-	<declination>-24 21 36</declination>
-	<distance>118</distance>
+	<rightascension>04 50 17</rightascension>
+	<declination>-24 22 08</declination>
+	<distance errorminus="14.62" errorplus="11.78">121.07</distance>
 	<star>
-		<mass>1.35</mass>
-		<radius>4.2</radius>
+		<name>HD 30856</name>
+		<mass errorminus="0.094" errorplus="0.094">1.35</mass>
+		<radius errorminus="0.1" errorplus="0.1">4.2</radius>
 		<magV>8.07</magV>
-		<magB errorminus="0.016" errorplus="0.016">8.872</magB>
+		<magB errorminus="0.016" errorplus="0.016">8.870</magB>
 		<magJ errorminus="0.024" errorplus="0.024">6.255</magJ>
 		<magH errorminus="0.034" errorplus="0.034">5.798</magH>
 		<magK errorminus="0.026" errorplus="0.026">5.657</magK>
-		<metallicity>-0.06</metallicity>
-		<spectraltype>K0</spectraltype>
+		<temperature errorminus="44.0" errorplus="44.0">4982.0</temperature>
+		<age errorminus="1.0" errorplus="1.0">3.8</age>
+		<metallicity errorminus="0.03" errorplus="0.03">-0.06</metallicity>
+		<spectraltype>K0III</spectraltype>
 		<planet>
 			<name>HD 30856 b</name>
-			<list>Confirmed planets</list>
-			<mass>1.8</mass>
-			<period>912</period>
-			<semimajoraxis>2.00</semimajoraxis>
-			<eccentricity>0</eccentricity>
-			<description>The star HD 30856 hosts a Jupiter-like planet. It was discovered as part of a Doppler survey at the Keck Observatory.</description>
+			<mass errorminus="0.2" errorplus="0.2" type="Msini">1.8</mass>
+			<period errorminus="41.0" errorplus="41.0">912.0</period>
+			<semimajoraxis errorminus="0.08" errorplus="0.08">2.0</semimajoraxis>
+			<eccentricity errorminus="inf" errorplus="nan">0.24</eccentricity>
+			<periastron errorminus="60.0" errorplus="60.0">180.0</periastron>
+			<periastrontime errorminus="150.0" errorplus="150.0">2455260.0</periastrontime>
+			<maximumrvtime errorminus="150.0" errorplus="150.0">2455260.0</maximumrvtime>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/07/24</lastupdate>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-			<temperature>317.2</temperature>
 		</planet>
-		<name>HD 30856</name>
-		<temperature>4982.0</temperature>
 	</star>
 </system>

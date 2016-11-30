@@ -1,24 +1,27 @@
 <system>
 	<name>Kepler-472</name>
-	<rightascension>19 46 06</rightascension>
+	<rightascension>19 46 05</rightascension>
 	<declination>+39 14 59</declination>
+	<distance errorminus="7.26" errorplus="7.62">302.00</distance>
 	<star>
 		<name>Kepler-472</name>
-		<temperature errorminus="84.6" errorplus="82.8">4996.0</temperature>
 		<mass errorminus="0.03" errorplus="0.03">0.85</mass>
 		<radius errorminus="0.01" errorplus="0.02">0.78</radius>
-		<metallicity errorminus="0.10" errorplus="0.09">0.16</metallicity>
+		<magV>13.698</magV>
+		<magJ errorminus="0.022" errorplus="0.022">12.063</magJ>
+		<magH errorminus="0.023" errorplus="0.023">11.565</magH>
+		<magK errorminus="0.014" errorplus="0.014">11.461</magK>
+		<temperature errorminus="84.63" errorplus="82.76">4996.0</temperature>
+		<age errorminus="1.140" errorplus="1.940">2.690</age>
+		<metallicity errorminus="0.098" errorplus="0.093">0.16</metallicity>
 		<planet>
 			<name>Kepler-472 b</name>
-			<discoverymethod>transit</discoverymethod>
-			<list>Confirmed planets</list>
-			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
-			<istransiting>1</istransiting>
-			<new>1</new>
-			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000001840" errorplus="0.000001840">4.176255510</period>
 			<radius errorminus="0.025" errorplus="0.012">0.287</radius>
+			<period errorminus="1.84e-06" errorplus="1.84e-06">4.17625551</period>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000361" errorplus="0.000361" unit="JD">2454966.090341</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>
 </system>

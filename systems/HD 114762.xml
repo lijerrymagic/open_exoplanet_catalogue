@@ -1,46 +1,35 @@
 <system>
 	<name>HD 114762</name>
 	<rightascension>13 12 19</rightascension>
-	<declination>+17 31 01</declination>
-	<distance>39.46</distance>
-	<binary>
-		<separation unit="arcsec">3.26</separation>
-		<separation unit="AU">129</separation>
-		<positionangle>30</positionangle>
-		<star>
-			<name>HD 114762 A</name>
-			<mass>0.84</mass>
-			<radius>1.24</radius>
-			<magV>7.3</magV>
-			<magB>7.85</magB>
-			<magR>7.0</magR>
-			<magI>6.8</magI>
-			<magJ>6.14</magJ>
-			<magH>5.89</magH>
-			<magK>5.81</magK>
-			<metallicity>-0.71</metallicity>
-			<spectraltype>F9V</spectraltype>
-			<planet>
-				<name>HD 114762 b</name>
-				<name>HD 114762 A b</name>
-				<list>Confirmed planets</list>
-				<list>Planets in binary systems, S-type</list>
-				<mass>10.98</mass>
-				<period>83.9151</period>
-				<semimajoraxis>0.353</semimajoraxis>
-				<eccentricity>0.3354</eccentricity>
-				<discoverymethod>RV</discoverymethod>
-				<lastupdate>11/06/09</lastupdate>
-				<discoveryyear>1992</discoveryyear>
-				<temperature>486.8</temperature>
-			</planet>
-			<name>HD 114762</name>
-			<temperature>5934.0</temperature>
-		</star>
-		<star>
-			<name>HD 114762 B</name>
-			<spectraltype>M6V</spectraltype>
-			<mass>0.1</mass>
-		</star>
-	</binary>
+	<declination>+17 31 00</declination>
+	<distance errorminus="2.52" errorplus="2.24">40.57</distance>
+	<star>
+		<name>HD 114762</name>
+		<mass errorminus="0.01" errorplus="0.01">0.84</mass>
+		<radius errorminus="0.1" errorplus="0.1">1.24</radius>
+		<magV errorminus="0.013" errorplus="0.013">7.3</magV>
+		<magB errorminus="0.018" errorplus="0.018">7.818</magB>
+		<magJ errorminus="0.025" errorplus="0.025">6.145</magJ>
+		<magH errorminus="0.017" errorplus="0.017">5.888</magH>
+		<magK errorminus="0.024" errorplus="0.024">5.813</magK>
+		<temperature errorminus="80.0" errorplus="80.0">5934.0</temperature>
+		<age errorminus="3.9" errorplus="3.9">11.8</age>
+		<metallicity errorminus="0.08" errorplus="0.08">-0.71</metallicity>
+		<spectraltype>F9V</spectraltype>
+		<planet>
+			<name>HD 114762 b</name>
+			<mass errorminus="0.09" errorplus="0.09" type="Msini">10.98</mass>
+			<radius>1.110</radius>
+			<period errorminus="0.003" errorplus="0.003">83.9151</period>
+			<semimajoraxis errorminus="0.001" errorplus="0.001">0.353</semimajoraxis>
+			<eccentricity errorminus="0.0048" errorplus="0.0048">0.3354</eccentricity>
+			<periastron errorminus="1.01" errorplus="1.01">201.28</periastron>
+			<periastrontime errorminus="0.186" errorplus="0.186">2449889.106</periastrontime>
+			<maximumrvtime errorminus="0.186" errorplus="0.186">2449889.106</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<transittime errorminus="0.242" errorplus="0.242">2455326.665</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>1989</discoveryyear>
+		</planet>
+	</star>
 </system>

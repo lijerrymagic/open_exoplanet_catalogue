@@ -1,40 +1,32 @@
 <system>
 	<name>Kepler-7</name>
-	<rightascension>19 14 20</rightascension>
-	<declination>+41 05 23</declination>
+	<rightascension>19 14 19</rightascension>
+	<declination>+41 05 22</declination>
 	<star>
-		<spectraltype>G0</spectraltype>
-		<magB>13.4</magB>
-		<magR>12.7</magR>
+		<name>Kepler-7</name>
+		<mass errorminus="0.03" errorplus="0.03">1.36</mass>
+		<radius errorminus="0.02" errorplus="0.02">2.02</radius>
+		<magV>12.885</magV>
 		<magJ errorminus="0.020" errorplus="0.020">11.833</magJ>
 		<magH errorminus="0.022" errorplus="0.022">11.601</magH>
 		<magK errorminus="0.020" errorplus="0.020">11.535</magK>
-		<mass errorminus="0.09" errorplus="0.09">1.32</mass>
-		<radius errorminus="0.07" errorplus="0.07">1.96</radius>
-		<metallicity errorminus="0.10" errorplus="0.10">0.10</metallicity>
+		<temperature errorminus="44.0" errorplus="44.0">5933.0</temperature>
+		<age errorminus="1.0" errorplus="1.0">3.5</age>
+		<metallicity errorminus="0.03" errorplus="0.03">0.11</metallicity>
 		<planet>
 			<name>Kepler-7 b</name>
-			<name>2MASS J19141956+4105233 b</name>
-			<name>KIC 5780885 b</name>
-			<name>KOI-97.01</name>
-			<name>KOI-97 b</name>
-			<list>Confirmed planets</list>
-			<mass errorminus="0.04" errorplus="0.04">0.44</mass>
-			<radius errorminus="0.01" errorplus="0.01">1.62</radius>
-			<period>4.885525</period>
-			<semimajoraxis>0.06246</semimajoraxis>
-			<eccentricity>0.1</eccentricity>
-			<inclination>85.18</inclination>
-			<transittime errorminus="0.00020" errorplus="0.00023" unit="BJD">2454967.27674</transittime>
+			<mass errorminus="0.042" errorplus="0.041" type="Mass">0.433</mass>
+			<radius errorminus="0.015" errorplus="0.015">1.614</radius>
+			<period errorminus="4e-05" errorplus="4e-05">4.885525</period>
+			<semimajoraxis errorminus="0.00046" errorplus="0.00046">0.06246</semimajoraxis>
+			<eccentricity errorminus="0.1" errorplus="0.1">0.1</eccentricity>
+			<periastron errorminus="2.8" errorplus="2.8">357.1</periastron>
+			<inclination errorminus="0.076" errorplus="0.076">85.18</inclination>
+			<temperature errorminus="10" errorplus="10">1586.0</temperature>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>15/12/03</lastupdate>
+			<transittime errorminus="0.0002" errorplus="0.0002" unit="BJD">2454967.27599</transittime>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-			<temperature>1486.8</temperature>
-			<istransiting>1</istransiting>
 		</planet>
-		<name>Kepler-7</name>
-		<name>KOI-97</name>
-		<name>KIC 5780885</name>
-		<temperature errorminus="75" errorplus="75">6027</temperature>
 	</star>
 </system>

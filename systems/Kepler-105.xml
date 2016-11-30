@@ -1,65 +1,41 @@
 <system>
 	<name>Kepler-105</name>
-	<name>KOI-115</name>
-	<name>KIC 9579641</name>
 	<rightascension>19 11 32</rightascension>
 	<declination>+46 16 34</declination>
-	<distance>488.45</distance>
 	<star>
+		<name>Kepler-105</name>
+		<mass errorminus="0.12" errorplus="0.12">1.28</mass>
+		<radius errorminus="0.24" errorplus="0.24">1.16</radius>
+		<magV>12.791</magV>
 		<magJ errorminus="0.021" errorplus="0.021">11.811</magJ>
 		<magH errorminus="0.020" errorplus="0.020">11.555</magH>
 		<magK errorminus="0.013" errorplus="0.013">11.503</magK>
-		<name>Kepler-105</name>
-		<name>KOI-115</name>
-		<name>KIC 9579641</name>
-		<temperature errorminus="100" errorplus="100">5873</temperature>
-		<radius errorminus="0.245" errorplus="0.245">1.160</radius>
-		<mass errorminus="0.0930" errorplus="0.0930">1.1800</mass>
+		<temperature errorminus="100.0" errorplus="100.0">5873.0</temperature>
+		<metallicity errorminus="0.47" errorplus="0.47">-0.22</metallicity>
 		<planet>
 			<name>Kepler-105 b</name>
-			<name>KOI-115 b</name>
-			<name>KOI-115.01</name>
-			<name>KIC 9579641 b</name>
-			<name>KIC 9579641.01</name>
-			<radius errorminus="0.05468" errorplus="0.05468">0.25972</radius>
-			<period errorminus="0.000004" errorplus="0.000004">5.412200</period>
-			<transittime errorminus="0.0004200" errorplus="0.0004200">2454966.1424900</transittime>
-			<list>Confirmed planets</list>
-			<description>Kepler-105 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-105 b are still unknown, the object is highly unlikely to be a false positive.</description>
-			<discoveryyear>2014</discoveryyear>
-			<lastupdate>16/01/13</lastupdate>
+			<radius errorminus="0.136" errorplus="0.136">0.429</radius>
+			<period errorminus="0.00002000" errorplus="0.00002000">5.41220000</period>
+			<semimajoraxis errorminus="0.003000" errorplus="0.003000">0.066000</semimajoraxis>
+			<eccentricity errorminus="0.470000" errorplus="0.050000">0.470000</eccentricity>
+			<periastron errorminus="272.1600" errorplus="16.0400">272.1600</periastron>
+			<inclination errorminus="3.880" errorplus="1.870">85.940</inclination>
+			<temperature errorminus="228" errorplus="228">1418</temperature>
 			<discoverymethod>transit</discoverymethod>
-			<istransiting>1</istransiting>
+			<transittime unit="BJD">2454966.142400</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2013</discoveryyear>
 		</planet>
 		<planet>
 			<name>Kepler-105 c</name>
-			<name>KOI-115 c</name>
-			<name>KOI-115.02</name>
-			<name>KIC 9579641 c</name>
-			<name>KIC 9579641.02</name>
-			<radius errorminus="0.03098" errorplus="0.03098">0.14672</radius>
-			<period errorminus="0.000017" errorplus="0.000017">7.125939</period>
-			<transittime errorminus="0.0014100" errorplus="0.0014100">2454972.0042100</transittime>
-			<mass errorminus="0.002781" errorplus="0.002904">0.014483</mass>
-			<list>Confirmed planets</list>
-			<description>Kepler-105 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-105 c are still unknown, the object is highly unlikely to be a false positive. TTV measurements indicate it is likely to be rocky.</description>
+			<mass errorminus="0.003" errorplus="0.003" type="TTV">0.014</mass>
+			<radius errorminus="0.006" errorplus="0.006">0.117</radius>
+			<period errorminus="1.7e-05" errorplus="1.7e-05">7.125939</period>
+			<semimajoraxis>0.072</semimajoraxis>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000600" errorplus="0.000600" unit="BJD">2456464.599200</transittime>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>16/01/13</lastupdate>
-			<discoverymethod>transit</discoverymethod>
-			<istransiting>1</istransiting>
-		</planet>
-		<planet>
-			<name>KOI-115.03</name>
-			<period>3.43632</period>
-			<radius errorminus="0.00013" errorplus="0.00013">0.00230</radius>
-			<transittime errorminus="0.00896" errorplus="0.00896" unit="BJD">2454965.66285</transittime>
-			<inclination>88.81</inclination>
-			<discoverymethod>transit</discoverymethod>
-			<discoveryyear>2013</discoveryyear>
-			<description>KOI-115.03 is an unconfirmed transiting planet orbiting Kepler-105.</description>
-			<lastupdate>16/01/13</lastupdate>
-			<istransiting>1</istransiting>
-			<list>Controversial</list>
 		</planet>
 	</star>
 </system>

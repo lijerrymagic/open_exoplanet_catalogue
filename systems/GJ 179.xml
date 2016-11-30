@@ -1,0 +1,32 @@
+<system>
+	<name>GJ 179</name>
+	<rightascension>04 52 05</rightascension>
+	<declination>+06 28 36</declination>
+	<distance errorminus="0.62" errorplus="0.56">12.12</distance>
+	<star>
+		<name>GJ 179</name>
+		<mass errorminus="0.03" errorplus="0.03">0.357</mass>
+		<radius errorminus="0.02" errorplus="0.02">0.38</radius>
+		<magV errorminus="0.025" errorplus="0.025">11.96</magV>
+		<magB errorminus="0.044" errorplus="0.044">13.520</magB>
+		<magJ errorminus="0.024" errorplus="0.024">7.814</magJ>
+		<magH errorminus="0.045" errorplus="0.045">7.209</magH>
+		<magK errorminus="0.018" errorplus="0.018">6.942</magK>
+		<temperature errorminus="100.0" errorplus="100.0">3370.0</temperature>
+		<metallicity errorminus="0.1" errorplus="0.1">0.3</metallicity>
+		<spectraltype>M3.5</spectraltype>
+		<planet>
+			<name>GJ 179 b</name>
+			<mass errorminus="0.07" errorplus="0.07" type="Msini">0.82</mass>
+			<period errorminus="59.0" errorplus="59.0">2288.0</period>
+			<semimajoraxis errorminus="0.04" errorplus="0.04">2.41</semimajoraxis>
+			<eccentricity errorminus="0.08" errorplus="0.08">0.21</eccentricity>
+			<periastron errorminus="24.0" errorplus="24.0">153.0</periastron>
+			<periastrontime errorminus="104.0" errorplus="104.0">2455140.0</periastrontime>
+			<maximumrvtime errorminus="104.0" errorplus="104.0">2455140.0</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2010</discoveryyear>
+		</planet>
+	</star>
+</system>

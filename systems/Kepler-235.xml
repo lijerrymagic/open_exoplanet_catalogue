@@ -1,83 +1,56 @@
 <system>
 	<name>Kepler-235</name>
-	<name>KOI-812</name>
-	<name>KIC 4139816</name>
 	<rightascension>19 04 18</rightascension>
 	<declination>+39 16 41</declination>
-	<distance>525.48</distance>
 	<star>
+		<name>Kepler-235</name>
+		<mass>0.59</mass>
+		<radius errorminus="0.02" errorplus="0.02">0.55</radius>
+		<magV>15.954</magV>
 		<magJ errorminus="0.026" errorplus="0.026">13.952</magJ>
 		<magH errorminus="0.023" errorplus="0.023">13.278</magH>
-		<magK errorminus="0.03" errorplus="0.03">13.12</magK>
-		<name>Kepler-235</name>
-		<name>KOI-812</name>
-		<name>KIC 4139816</name>
-		<temperature errorminus="100" errorplus="100">4255</temperature>
-		<radius errorminus=".021" errorplus="0.021">0.554</radius>
-		<mass errorminus="0.0180" errorplus="0.0180">0.5810</mass>
+		<magK errorminus="0.030" errorplus="0.030">13.116</magK>
+		<temperature errorminus="100.0" errorplus="100.0">4255.0</temperature>
+		<metallicity>0.087</metallicity>
+		<planet>
+			<name>Kepler-235 c</name>
+			<radius errorminus="0.007" errorplus="0.007">0.114</radius>
+			<period errorminus="5.5e-05" errorplus="5.5e-05">7.824904</period>
+			<semimajoraxis>0.065</semimajoraxis>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".004550" errorplus="0.004550" unit="BJD">2454969.555670</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2014</discoveryyear>
+		</planet>
 		<planet>
 			<name>Kepler-235 b</name>
-			<name>KOI-812 b</name>
-			<name>KOI-812.01</name>
-			<name>KIC 4139816 b</name>
-			<name>KIC 4139816.01</name>
-			<radius errorminus="0.00911" errorplus="0.00911">0.20322</radius>
-			<period errorminus=".000005" errorplus="0.000005">3.340222</period>
-			<transittime errorminus="0.0008400" errorplus="0.0008400">2455004.9778700</transittime>
-			<list>Confirmed planets</list>
-			<description>Kepler-235 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-235 b are still unknown, the object is highly unlikely to be a false positive.</description>
-			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<radius errorminus="0.009" errorplus="0.009">0.199</radius>
+			<period errorminus="5e-06" errorplus="5e-06">3.340222</period>
+			<semimajoraxis>0.037</semimajoraxis>
 			<discoverymethod>transit</discoverymethod>
-			<istransiting>1</istransiting>
+			<transittime errorminus=".000840" errorplus="0.000840" unit="BJD">2455004.977870</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
 			<name>Kepler-235 d</name>
-			<name>KOI-812 d</name>
-			<name>KOI-812.02</name>
-			<name>KIC 4139816 d</name>
-			<name>KIC 4139816.02</name>
-			<radius errorminus="0.00911" errorplus="0.00911">0.18682</radius>
-			<period errorminus=".000099" errorplus="0.000099">20.060548</period>
-			<transittime errorminus="0.0027600" errorplus="0.0027600">2454980.4614900</transittime>
-			<list>Confirmed planets</list>
-			<description>Kepler-235 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-235 d are still unknown, the object is highly unlikely to be a false positive.</description>
-			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<radius errorminus="0.009" errorplus="0.009">0.183</radius>
+			<period errorminus="9.9e-05" errorplus="9.9e-05">20.060548</period>
+			<semimajoraxis>0.122</semimajoraxis>
 			<discoverymethod>transit</discoverymethod>
-			<istransiting>1</istransiting>
+			<transittime errorminus=".002760" errorplus="0.002760" unit="BJD">2454980.461490</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
 			<name>Kepler-235 e</name>
-			<name>KOI-812 e</name>
-			<name>KOI-812.03</name>
-			<name>KIC 4139816 e</name>
-			<name>KIC 4139816.03</name>
-			<radius errorminus="0.02643" errorplus="0.02643">0.20231</radius>
-			<period errorminus=".000425" errorplus="0.000425">46.183669</period>
-			<transittime errorminus="0.0050100" errorplus="0.0050100">2454998.2393200</transittime>
-			<list>Confirmed planets</list>
-			<description>Kepler-235 e has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-235 e are still unknown, the object is highly unlikely to be a false positive.</description>
-			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<radius errorminus="0.026" errorplus="0.026">0.198</radius>
+			<period errorminus="0.000425" errorplus="0.000425">46.183669</period>
+			<semimajoraxis>0.213</semimajoraxis>
 			<discoverymethod>transit</discoverymethod>
-			<istransiting>1</istransiting>
-		</planet>
-		<planet>
-			<name>Kepler-235 c</name>
-			<name>KOI-812 c</name>
-			<name>KOI-812.04</name>
-			<name>KIC 4139816 c</name>
-			<name>KIC 4139816.04</name>
-			<radius errorminus="0.00729" errorplus="0.00729">0.11665</radius>
-			<period errorminus=".000055" errorplus="0.000055">7.824904</period>
-			<transittime errorminus="0.0045500" errorplus="0.0045500">2454969.5556700</transittime>
-			<list>Confirmed planets</list>
-			<description>Kepler-235 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-235 c are still unknown, the object is highly unlikely to be a false positive.</description>
+			<transittime errorminus=".005010" errorplus="0.005010" unit="BJD">2454998.239320</transittime>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
-			<discoverymethod>transit</discoverymethod>
-			<istransiting>1</istransiting>
 		</planet>
 	</star>
 </system>

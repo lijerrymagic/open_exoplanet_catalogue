@@ -1,31 +1,46 @@
 <system>
 	<name>HD 219828</name>
-	<rightascension>23 18 47</rightascension>
-	<declination>+18 38 45</declination>
-	<distance>81.1</distance>
+	<rightascension>23 18 46</rightascension>
+	<declination>+18 38 44</declination>
+	<distance>77.90</distance>
 	<star>
-		<mass>1.24</mass>
-		<radius>1.7</radius>
-		<magV>8.04</magV>
-		<magB errorminus="0.02" errorplus="0.02">8.68</magB>
+		<name>HD 219828</name>
+		<mass errorminus="0.10" errorplus="0.10">1.24</mass>
+		<radius errorminus="0.16" errorplus="0.16">1.7</radius>
+		<magV errorminus="0.015" errorplus="0.015">8.04</magV>
+		<magB errorminus="0.020" errorplus="0.020">8.676</magB>
 		<magJ errorminus="0.021" errorplus="0.021">6.871</magJ>
 		<magH errorminus="0.024" errorplus="0.024">6.614</magH>
 		<magK errorminus="0.018" errorplus="0.018">6.530</magK>
-		<metallicity>0.19</metallicity>
+		<temperature errorminus="18.0" errorplus="18.0">5891.0</temperature>
+		<age errorminus="1.2" errorplus="1.2">5.8</age>
+		<metallicity errorminus="0.03" errorplus="0.03">0.19</metallicity>
 		<spectraltype>G0IV</spectraltype>
 		<planet>
-			<name>HD 219828 b</name>
-			<list>Confirmed planets</list>
-			<mass>0.066</mass>
-			<period>3.8335</period>
-			<semimajoraxis>0.052</semimajoraxis>
-			<eccentricity>0.0</eccentricity>
+			<name>HD 219828 c</name>
+			<mass errorminus="0.85" errorplus="0.85" type="Radial Velocity">15.1</mass>
+			<period errorminus="75.0" errorplus="75.0">4791.0</period>
+			<semimajoraxis>5.96</semimajoraxis>
+			<eccentricity errorminus="0.0032" errorplus="0.0032">0.8118</eccentricity>
+			<periastron errorminus="0.28" errorplus="0.28">145.77</periastron>
+			<periastrontime errorminus="1.2" errorplus="1.2">2454180.7</periastrontime>
+			<maximumrvtime errorminus="1.2" errorplus="1.2">2454180.7</maximumrvtime>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/21</lastupdate>
-			<discoveryyear>2007</discoveryyear>
-			<temperature>1485.2</temperature>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2016</discoveryyear>
 		</planet>
-		<name>HD 219828</name>
-		<temperature>5891.0</temperature>
+		<planet>
+			<name>HD 219828 b</name>
+			<mass errorminus="0.0044" errorplus="0.0044" type="Radial Velocity">0.0661</mass>
+			<period errorminus="9.6e-05" errorplus="9.6e-05">3.834887</period>
+			<semimajoraxis>0.045</semimajoraxis>
+			<eccentricity errorminus="0.036" errorplus="0.036">0.059</eccentricity>
+			<periastron errorminus="38.0" errorplus="38.0">255.0</periastron>
+			<periastrontime errorminus="0.036" errorplus="0.036">2455998.78</periastrontime>
+			<maximumrvtime errorminus="0.036" errorplus="0.036">2455998.78</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2007</discoveryyear>
+		</planet>
 	</star>
 </system>

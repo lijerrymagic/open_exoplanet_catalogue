@@ -1,24 +1,27 @@
 <system>
 	<name>Kepler-661</name>
-	<rightascension>18 54 51</rightascension>
-	<declination>+47 51 48</declination>
+	<rightascension>18 54 50</rightascension>
+	<declination>+47 51 47</declination>
+	<distance errorminus="35.29" errorplus="25.54">558.00</distance>
 	<star>
 		<name>Kepler-661</name>
-		<temperature errorminus="57.1" errorplus="56.8">4483.0</temperature>
-		<mass errorminus="0.04" errorplus="0.03">0.70</mass>
+		<mass errorminus="0.04" errorplus="0.03">0.7</mass>
 		<radius errorminus="0.04" errorplus="0.03">0.67</radius>
-		<metallicity errorminus="0.15" errorplus="0.16">-0.05</metallicity>
+		<magV>15.784</magV>
+		<magJ errorminus="0.027" errorplus="0.027">14.001</magJ>
+		<magH errorminus="0.026" errorplus="0.026">13.37</magH>
+		<magK errorminus="0.042" errorplus="0.042">13.231</magK>
+		<temperature errorminus="57.11" errorplus="56.76">4483.0</temperature>
+		<age errorminus="2.460" errorplus="5.920">4.270</age>
+		<metallicity errorminus="0.154" errorplus="0.164">-0.05</metallicity>
 		<planet>
 			<name>Kepler-661 b</name>
-			<discoverymethod>transit</discoverymethod>
-			<list>Confirmed planets</list>
-			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
-			<istransiting>1</istransiting>
-			<new>1</new>
-			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000005360" errorplus="0.000005360">6.029301320</period>
 			<radius errorminus="0.019" errorplus="0.011">0.274</radius>
+			<period errorminus="5.36e-06" errorplus="5.36e-06">6.02930132</period>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000702" errorplus="0.000702" unit="JD">2455004.603290</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>
 </system>

@@ -1,65 +1,71 @@
 <system>
 	<name>KOI-1781</name>
 	<name>Kepler-411</name>
-	<rightascension>19 10 25.34</rightascension>
-	<declination>+49 31 23.7</declination>
+	<rightascension>19 10 25</rightascension>
+	<declination>+49 31 23</declination>
 	<star>
-		<name>KOI-1781</name>
 		<name>Kepler-411</name>
-		<name>KIC 11551692</name>
-		<temperature errorminus="51" errorplus="46">4974</temperature>
 		<mass errorminus="0.10" errorplus="0.04">0.83</mass>
 		<radius errorminus="0.06" errorplus="0.07">0.79</radius>
+		<magV>12.231</magV>
 		<magJ errorminus="0.022" errorplus="0.022">10.641</magJ>
 		<magH errorminus="0.028" errorplus="0.028">10.161</magH>
 		<magK errorminus="0.023" errorplus="0.023">10.062</magK>
+		<temperature errorminus="51.00" errorplus="46.00">4974.00</temperature>
+		<metallicity errorminus="0.480" errorplus="0.370">0.230</metallicity>
 		<planet>
-			<name>KOI-1781 b</name>
-			<name>KOI-1781.02</name>
+			<name>Kepler-411 c</name>
+			<radius errorminus="0.006" errorplus="0.011">0.292</radius>
+			<period errorminus="0.00000298" errorplus="0.00000298">7.83442788</period>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000297" errorplus="0.000297" unit="JD">2454968.222776</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+		<planet>
 			<name>Kepler-411 b</name>
-			<name>KIC 11551692 b</name>
-			<list>Confirmed planets</list>
 			<radius errorminus="0.018" errorplus="0.018">0.168</radius>
-			<period errorminus="0.00001" errorplus="0.0001">3.00516</period>
+			<period errorminus="0.00001000" errorplus="0.00001000">3.00516000</period>
+			<semimajoraxis errorminus="0.001000" errorplus="0.001000">0.038000</semimajoraxis>
+			<eccentricity errorminus=".000000" errorplus="0.350000">0.000000</eccentricity>
+			<periastron errorminus=".0000" errorplus="246.9500">0.0000</periastron>
+			<inclination errorminus="1.830" errorplus="1.730">88.270</inclination>
+			<temperature errorminus="46" errorplus="46">1040</temperature>
+			<discoverymethod>transit</discoverymethod>
+			<transittime unit="BJD">2454970.102700</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2013</discoveryyear>
+		</planet>
+	</star>
+	<star>
+		<name>KOI-1781</name>
+		<mass errorminus="0.1" errorplus="0.04">0.83</mass>
+		<radius errorminus="0.06" errorplus="0.07">0.79</radius>
+		<magV>12.5</magV>
+		<temperature errorminus="51.0" errorplus="46.0">4974.0</temperature>
+		<metallicity errorminus="0.48" errorplus="0.37">0.23</metallicity>
+		<planet>
+			<name>Kepler-411 b</name>
+			<name>KOI-1781 b</name>
+			<radius errorminus="0.02" errorplus="0.02">0.168</radius>
+			<period errorminus="1e-05" errorplus="1e-05">3.00516</period>
 			<semimajoraxis errorminus="0.001" errorplus="0.001">0.038</semimajoraxis>
+			<eccentricity errorminus="0.0" errorplus="0.35">0.0</eccentricity>
+			<periastron errorminus="250.0" errorplus="0.0">360.0</periastron>
 			<inclination errorminus="1.83" errorplus="1.73">88.27</inclination>
-			<transittime unit="BJD">2454970.1027</transittime>
-			<eccentricity upperlimit="0.35">0.00</eccentricity>
-			<description>The KOI-1781 system was discovered by the Kepler spacecraft. A subsequent analysis has confirmed the planetary nature of this planet.</description>
-			<lastupdate>14/01/06</lastupdate>
+			<temperature>1040.0</temperature>
 			<discoverymethod>transit</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2013</discoveryyear>
-			<istransiting>1</istransiting>
 		</planet>
 		<planet>
-			<name>KOI-1781.01</name>
-			<list>Controversial</list>
-			<radius errorminus="0.050" errorplus="0.050">0.289</radius>
-			<period errorminus="0.00001" errorplus="0.00001">7.83445</period>
-			<semimajoraxis errorminus="0.002" errorplus="0.002">0.073</semimajoraxis>
-			<inclination errorminus="1.08" errorplus="0.49">89.03</inclination>
-			<transittime unit="BJD">2454968.2206</transittime>
-			<eccentricity upperlimit="0.66">0.00</eccentricity>
-			<description>The KOI-1781 system was discovered by the Kepler spacecraft. The second and third planets in this system have not been confirmed.</description>
-			<lastupdate>14/01/06</lastupdate>
+			<name>Kepler-411 c</name>
+			<name>KOI-1781 c</name>
+			<radius errorminus="0.006" errorplus="0.011">0.292</radius>
+			<period errorminus="2.98e-06" errorplus="2.98e-06">7.83442788</period>
 			<discoverymethod>transit</discoverymethod>
-			<discoveryyear>2013</discoveryyear>
-			<istransiting>1</istransiting>
-		</planet>
-		<planet>
-			<name>KOI-1781.03</name>
-			<list>Controversial</list>
-			<radius errorminus="0.028" errorplus="0.028">0.233</radius>
-			<period errorminus="0.00013" errorplus="0.00020">58.02125</period>
-			<semimajoraxis errorminus="0.007" errorplus="0.007">0.276</semimajoraxis>
-			<inclination errorminus="0.16" errorplus="0.35">89.63</inclination>
-			<transittime unit="BJD">2454984.8476</transittime>
-			<eccentricity upperlimit="0.38">0.00</eccentricity>
-			<description>The KOI-1781 system was discovered by the Kepler spacecraft. The second and third planets in this system have not been confirmed.</description>
-			<lastupdate>14/01/06</lastupdate>
-			<discoverymethod>transit</discoverymethod>
-			<discoveryyear>2013</discoveryyear>
-			<istransiting>1</istransiting>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>
 </system>

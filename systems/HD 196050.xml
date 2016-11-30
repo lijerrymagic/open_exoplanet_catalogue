@@ -1,53 +1,33 @@
 <system>
 	<name>HD 196050</name>
 	<rightascension>20 37 51</rightascension>
-	<declination>-60 38 04</declination>
-	<distance>46.93</distance>
-	<binary>
-		<separation unit="arcsec">10.9</separation>
-		<separation unit="AU">511</separation>
-		<positionangle>175</positionangle>
-		<star>
-			<name>HD 196050 A</name>
-			<name>HIP 101806</name>
-			<mass>1.17</mass>
-			<radius>1.29</radius>
-			<magV>7.5</magV>
-			<magB errorminus="0.02" errorplus="0.02">8.16</magB>
-			<age>3.55</age>
-			<metallicity>0.23</metallicity>
-			<spectraltype>G3 V</spectraltype>
-			<planet>
-				<name>HD 196050 A b</name>
-				<name>HD 196050 b</name>
-				<name>HIP 101806 b</name>
-				<list>Confirmed planets</list>
-				<mass>2.83</mass>
-				<period>1316.24</period>
-				<semimajoraxis>2.47</semimajoraxis>
-				<eccentricity>0.21</eccentricity>
-				<discoverymethod>RV</discoverymethod>
-				<lastupdate>12/12/04</lastupdate>
-				<discoveryyear>2002</discoveryyear>
-				<list>Planets in binary systems, S-type</list>
-				<temperature>186.7</temperature>
-			</planet>
-			<temperature>5874.0</temperature>
-		</star>
-		<binary>
-			<semimajoraxis>19.7</semimajoraxis>
-			<star>
-				<name>HD 196050 Ba</name>
-				<mass>0.29</mass>
-				<spectraltype>M3</spectraltype>
-				<age>3.55</age>
-			</star>
-			<star>
-				<name>HD 196050 Bb</name>
-				<mass>0.19</mass>
-				<spectraltype>M3.5</spectraltype>
-				<age>3.55</age>
-			</star>
-		</binary>
-	</binary>
+	<declination>-60 38 03</declination>
+	<distance errorminus="2.09" errorplus="1.92">46.93</distance>
+	<star>
+		<name>HD 196050</name>
+		<mass>1.17</mass>
+		<radius>1.29</radius>
+		<magV>7.5</magV>
+		<magB>8.170</magB>
+		<magJ errorminus="0.021" errorplus="0.021">6.378</magJ>
+		<magH errorminus="0.033" errorplus="0.033">6.118</magH>
+		<magK errorminus="0.027" errorplus="0.027">6.034</magK>
+		<temperature>5874.0</temperature>
+		<age>3.17</age>
+		<metallicity>0.23</metallicity>
+		<spectraltype>G3 V</spectraltype>
+		<planet>
+			<name>HD 196050 b</name>
+			<mass errorminus="0.26000" errorplus="0.26000" type="Msini">2.83</mass>
+			<period errorminus="21.00000000" errorplus="21.00000000">1316.24</period>
+			<semimajoraxis errorminus="0.150000" errorplus="0.150000">2.47</semimajoraxis>
+			<eccentricity errorminus="0.038000" errorplus="0.038000">0.21</eccentricity>
+			<periastron errorminus="12.0000" errorplus="12.0000">223.0</periastron>
+			<periastrontime errorminus="56.000000" errorplus="56.000000">51033.0</periastrontime>
+			<maximumrvtime errorminus="56.000000" errorplus="56.000000">51033.0</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2002</discoveryyear>
+		</planet>
+	</star>
 </system>

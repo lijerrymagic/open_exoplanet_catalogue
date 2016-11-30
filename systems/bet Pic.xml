@@ -1,0 +1,27 @@
+<system>
+	<name>bet Pic</name>
+	<rightascension>05 47 17</rightascension>
+	<declination>-51 03 59</declination>
+	<distance errorminus="0.19" errorplus="0.19">19.28</distance>
+	<star>
+		<name>bet Pic</name>
+		<mass errorminus="0.17" errorplus="0.18">1.76</mass>
+		<magV>3.850</magV>
+		<magB>4.020</magB>
+		<magJ errorminus="0.236" errorplus="0.236">3.669</magJ>
+		<magH errorminus="0.200" errorplus="0.200">3.544</magH>
+		<magK errorminus="0.222" errorplus="0.222">3.526</magK>
+		<spectraltype>A5 V</spectraltype>
+		<planet>
+			<name>bet Pic b</name>
+			<period errorminus="730.00000000" errorplus="7300.00000000">7665.00000000</period>
+			<semimajoraxis errorminus="0.500000" errorplus="5.300000">9.100000</semimajoraxis>
+			<eccentricity errorminus="0.060000" errorplus="0.320000">0.080000</eccentricity>
+			<periastron errorminus="94.0000" errorplus="93.0000">-8.0000</periastron>
+			<inclination errorminus="0.700" errorplus="0.700">88.900</inclination>
+			<discoverymethod>imaging</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2008</discoveryyear>
+		</planet>
+	</star>
+</system>

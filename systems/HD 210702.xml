@@ -1,37 +1,32 @@
 <system>
 	<name>HD 210702</name>
-	<rightascension>22 11 51.33086</rightascension>
-	<declination>+16 02 25.9903</declination>
-	<distance errorminus="1.2" errorplus="1.2">54.9</distance>
+	<rightascension>22 11 51</rightascension>
+	<declination>+16 02 26</declination>
+	<distance errorminus="2.41" errorplus="2.22">55.93</distance>
 	<star>
 		<name>HD 210702</name>
-		<name>HIP 109577</name>
-		<name>TYC 1681-1751-1</name>
-		<name>SAO 107729</name>
-		<name>HR 8461</name>
-		<name>BD+15 4592</name>
-		<name>2MASS J22115133+1602260</name>
-		<mass lowerlimit="1.50" upperlimit="1.84">1.68</mass>
-		<radius lowerlimit="4.8" upperlimit="5.5">5.1</radius>
-		<magV>5.939</magV>
-		<magB>6.885</magB>
+		<mass errorminus="0.18" errorplus="0.18">1.68</mass>
+		<radius errorminus="0.4" errorplus="0.3">5.1</radius>
+		<magV>5.93</magV>
+		<magB>6.900</magB>
 		<magJ errorminus="0.320" errorplus="0.320">4.508</magJ>
 		<magH errorminus="0.226" errorplus="0.226">3.995</magH>
 		<magK errorminus="0.294" errorplus="0.294">3.984</magK>
-		<metallicity>0.12</metallicity>
-		<spectraltype>K1 IV</spectraltype>
-		<temperature errorminus="25" errorplus="25">4967</temperature>
+		<temperature errorminus="44.0" errorplus="44.0">5010.0</temperature>
+		<age errorminus="1.0" errorplus="1.0">1.4</age>
+		<metallicity errorminus="0.04" errorplus="0.04">0.12</metallicity>
+		<spectraltype>K1IV</spectraltype>
 		<planet>
 			<name>HD 210702 b</name>
-			<list>Confirmed planets</list>
-			<mass type="msini">1.9</mass>
+			<mass type="Msini">1.9</mass>
 			<period errorminus="1.1" errorplus="1.1">354.8</period>
 			<semimajoraxis>1.2</semimajoraxis>
-			<eccentricity errorminus="0.052" errorplus="0.052">0.094</eccentricity>
-			<periastron errorminus="47" errorplus="47">126</periastron>
-			<periastrontime errorminus="45" errorplus="45">2452205</periastrontime>
+			<eccentricity errorminus="0.08" errorplus="0.08">0.152</eccentricity>
+			<periastron errorminus="30.0" errorplus="30.0">301.0</periastron>
+			<periastrontime errorminus="45.0" errorplus="45.0">2452205.0</periastrontime>
+			<maximumrvtime errorminus="45.0" errorplus="45.0">2452205.0</maximumrvtime>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/11/02</lastupdate>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 		</planet>
 	</star>

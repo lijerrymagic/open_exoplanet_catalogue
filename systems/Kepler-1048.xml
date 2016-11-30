@@ -1,24 +1,27 @@
 <system>
 	<name>Kepler-1048</name>
-	<rightascension>18 47 36</rightascension>
-	<declination>+42 09 57</declination>
+	<rightascension>18 47 35</rightascension>
+	<declination>+42 09 56</declination>
+	<distance errorminus="20.68" errorplus="16.88">415.00</distance>
 	<star>
 		<name>Kepler-1048</name>
-		<temperature errorminus="62.4" errorplus="59.4">4651.0</temperature>
 		<mass errorminus="0.04" errorplus="0.03">0.75</mass>
-		<radius errorminus="0.03" errorplus="0.03">0.70</radius>
-		<metallicity errorminus="0.16" errorplus="0.15">0.01</metallicity>
+		<radius errorminus="0.03" errorplus="0.03">0.7</radius>
+		<magV>14.832</magV>
+		<magJ errorminus="0.021" errorplus="0.021">13.131</magJ>
+		<magH errorminus="0.023" errorplus="0.023">12.539</magH>
+		<magK errorminus="0.015" errorplus="0.015">12.447</magK>
+		<temperature errorminus="62.38" errorplus="59.42">4651.0</temperature>
+		<age errorminus="2.260" errorplus="5.930">3.980</age>
+		<metallicity errorminus="0.16" errorplus="0.149">0.01</metallicity>
 		<planet>
 			<name>Kepler-1048 b</name>
-			<discoverymethod>transit</discoverymethod>
-			<list>Confirmed planets</list>
-			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
-			<istransiting>1</istransiting>
-			<new>1</new>
-			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000024150" errorplus="0.000024150">6.921010210</period>
 			<radius errorminus="0.007" errorplus="0.008">0.144</radius>
+			<period errorminus="2.415e-05" errorplus="2.415e-05">6.92101021</period>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".003100" errorplus="0.003100" unit="JD">2454968.644810</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>
 </system>

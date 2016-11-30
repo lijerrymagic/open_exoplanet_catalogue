@@ -1,0 +1,52 @@
+<system>
+	<name>K2-8</name>
+	<rightascension>11 19 10</rightascension>
+	<declination>-00 17 03</declination>
+	<star>
+		<name>K2-8</name>
+		<name>EPIC 201445392</name>
+		<mass errorminus="0.04" errorplus="0.03">0.79</mass>
+		<radius errorminus="0.02" errorplus="0.03">0.74</radius>
+		<magV errorminus="0.030" errorplus="0.030">14.384</magV>
+		<magB errorminus="0.020" errorplus="0.020">14.029</magB>
+		<magJ errorminus="0.026" errorplus="0.026">12.829</magJ>
+		<magH errorminus="0.030" errorplus="0.030">12.318</magH>
+		<magK errorminus="0.030" errorplus="0.030">12.245</magK>
+		<temperature errorminus="58.0" errorplus="38.0">4890.0</temperature>
+		<metallicity errorminus="0.13" errorplus="0.11">-0.01</metallicity>
+		<spectraltype>K3 V</spectraltype>
+		<planet>
+			<name>K2-8 b</name>
+			<radius errorminus="0.063" errorplus="0.063">0.319</radius>
+			<period errorminus="0.00086" errorplus="0.00086">10.35239</period>
+			<semimajoraxis errorminus="0.0012" errorplus="0.0012">0.0856</semimajoraxis>
+			<inclination errorminus="1.370" errorplus="2.560">86.420</inclination>
+			<temperature errorminus="18" errorplus="18">631.0</temperature>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".003000" errorplus="0.003000" unit="BJD-TDB">2456813.611400</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2015</discoveryyear>
+		</planet>
+		<planet>
+			<name>K2-8 c</name>
+			<radius errorminus="0.029" errorplus="0.029">0.215</radius>
+			<period errorminus="0.00041000" errorplus="0.00041000">5.06416000</period>
+			<semimajoraxis errorminus="0.000900" errorplus="0.000900">0.053200</semimajoraxis>
+			<inclination errorminus="2.480" errorplus="2.480">86.700</inclination>
+			<temperature errorminus="23" errorplus="23">801</temperature>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".003300" errorplus="0.003300" unit="BJD-TDB">2456813.070700</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+		<planet>
+			<name>EPIC 201445392 c</name>
+			<radius errorminus="0.029" errorplus="0.029">0.215</radius>
+			<period errorminus="0.00041" errorplus="0.00041">2.50856</period>
+			<temperature>801.0</temperature>
+			<discoverymethod>transit</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2015</discoveryyear>
+		</planet>
+	</star>
+</system>

@@ -1,27 +1,32 @@
 <system>
 	<name>HD 27894</name>
 	<rightascension>04 20 47</rightascension>
-	<declination>-59 24 39</declination>
-	<distance>42.37</distance>
+	<declination>-59 24 38</declination>
+	<distance errorminus="1.70" errorplus="1.57">42.37</distance>
 	<star>
+		<name>HD 27894</name>
 		<mass>0.8</mass>
-		<magV>9.36</magV>
-		<magB>10.42</magB>
-		<metallicity>0.3</metallicity>
+		<magV errorminus="0.021" errorplus="0.021">9.36</magV>
+		<magB errorminus="0.038" errorplus="0.038">10.392</magB>
+		<magJ errorminus="0.019" errorplus="0.019">7.639</magJ>
+		<magH errorminus="0.027" errorplus="0.027">7.174</magH>
+		<magK errorminus="0.026" errorplus="0.026">7.071</magK>
+		<temperature errorminus="81.0" errorplus="81.0">4875.0</temperature>
+		<age>3.9</age>
+		<metallicity errorminus="0.07" errorplus="0.07">0.3</metallicity>
 		<spectraltype>K2 V</spectraltype>
 		<planet>
 			<name>HD 27894 b</name>
-			<list>Confirmed planets</list>
-			<mass>0.62</mass>
-			<period>17.991</period>
+			<mass type="Msini">0.62</mass>
+			<period errorminus="0.007" errorplus="0.007">17.991</period>
 			<semimajoraxis>0.122</semimajoraxis>
-			<eccentricity>0.049</eccentricity>
+			<eccentricity errorminus="0.008" errorplus="0.008">0.049</eccentricity>
+			<periastron errorminus="9.7" errorplus="9.7">132.9</periastron>
+			<periastrontime errorminus="0.48" errorplus="0.48">53275.46</periastrontime>
+			<maximumrvtime errorminus="0.48" errorplus="0.48">53275.46</maximumrvtime>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/25</lastupdate>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2005</discoveryyear>
-			<temperature>548.8</temperature>
 		</planet>
-		<name>HD 27894</name>
-		<temperature>4875.0</temperature>
 	</star>
 </system>

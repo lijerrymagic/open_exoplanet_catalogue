@@ -2,23 +2,26 @@
 	<name>Kepler-644</name>
 	<rightascension>19 41 54</rightascension>
 	<declination>+43 29 35</declination>
+	<distance errorminus="275.94" errorplus="515.33">1413.00</distance>
 	<star>
 		<name>Kepler-644</name>
-		<temperature errorminus="238.6" errorplus="156.0">6747.0</temperature>
 		<mass errorminus="0.17" errorplus="0.22">1.49</mass>
 		<radius errorminus="0.35" errorplus="0.67">1.81</radius>
-		<metallicity errorminus="0.15" errorplus="0.14">0.08</metallicity>
+		<magV>13.949</magV>
+		<magJ errorminus="0.021" errorplus="0.021">12.921</magJ>
+		<magH errorminus="0.024" errorplus="0.024">12.725</magH>
+		<magK errorminus="0.022" errorplus="0.022">12.574</magK>
+		<temperature errorminus="238.58" errorplus="156.03">6747.0</temperature>
+		<age errorminus="0.320" errorplus="0.520">1.620</age>
+		<metallicity errorminus="0.149" errorplus="0.14">0.08</metallicity>
 		<planet>
 			<name>Kepler-644 b</name>
-			<discoverymethod>transit</discoverymethod>
-			<list>Confirmed planets</list>
-			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
-			<istransiting>1</istransiting>
-			<new>1</new>
-			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000004230" errorplus="0.000004230">3.173917100</period>
 			<radius errorminus="0.054" errorplus="0.103">0.281</radius>
+			<period errorminus="4.23e-06" errorplus="4.23e-06">3.1739171</period>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".001040" errorplus="0.001040" unit="JD">2455003.924350</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>
 </system>

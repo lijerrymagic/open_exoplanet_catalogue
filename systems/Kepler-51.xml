@@ -1,76 +1,69 @@
 <system>
 	<name>Kepler-51</name>
-	<name>KOI-620</name>
-	<rightascension>19 45 55.146</rightascension>
-	<declination>+49 56 15.66</declination>
+	<rightascension>19 45 55</rightascension>
+	<declination>+49 56 16</declination>
 	<star>
 		<name>Kepler-51</name>
-		<name>KOI-620</name>
-		<name>KIC 11773022</name>
-		<name>2MASS J19455514+4956156</name>
+		<mass errorminus="0.12" errorplus="0.12">1.0</mass>
+		<radius errorminus="0.50" errorplus="0.50">0.91</radius>
+		<magV>15.0</magV>
 		<magJ errorminus="0.023" errorplus="0.023">13.562</magJ>
 		<magH errorminus="0.023" errorplus="0.023">13.219</magH>
 		<magK errorminus="0.037" errorplus="0.037">13.197</magK>
-		<radius errorminus="0.04" errorplus="0.04">0.88</radius>
-		<mass errorminus="0.12" errorplus="0.12">1.04</mass>
-		<age errorminus="2.3" errorplus="2.3">0.3</age>
-		<temperature errorminus="107" errorplus="107">6018</temperature>
+		<temperature errorminus="107.00" errorplus="107.00">5803.0</temperature>
+		<age errorminus="2.300" errorplus="2.300">0.300</age>
+		<metallicity>-0.079</metallicity>
 		<planet>
 			<name>Kepler-51 b</name>
-			<name>KOI-620.01</name>
-			<name>KOI-620 b</name>
-			<name>KIC 11773022 b</name>
-			<list>Confirmed planets</list>
-			<mass errorminus="0.0025" errorplus="0.0047">0.0066</mass>
-			<radius errorminus="0.027" errorplus="0.027">0.633</radius>
-			<period errorminus="0.0002" errorplus="0.0002">45.1540</period>
-			<transittime errorminus="0.0004" errorplus="0.0004" unit="BJD">2455714.5977</transittime>
+			<mass errorminus="0.00251706887329705" errorplus="0.00471950413743196" type="Mass">0.0066073057924</mass>
+			<radius errorminus="0.026764255088331" errorplus="0.026764255088331">0.633420703757</radius>
+			<period errorminus="7.2e-05" errorplus="7.2e-05">45.1555023</period>
 			<semimajoraxis errorminus="0.0097" errorplus="0.0097">0.2514</semimajoraxis>
 			<eccentricity errorminus="0.01" errorplus="0.01">0.04</eccentricity>
-			<inclination>89.8</inclination>
-			<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 45.16 days for 5.7799 hours. Periodic transit timing variations confirm its planetary nature and indicate that it has a very low density.</description>
+			<temperature errorminus="11" errorplus="11">543.0</temperature>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>15/12/12</lastupdate>
+			<transittime errorminus="0.00062" errorplus="0.00062" unit="BJD">2454992.10435</transittime>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2012</discoveryyear>
-			<istransiting>1</istransiting>
 		</planet>
 		<planet>
 			<name>Kepler-51 c</name>
-			<name>KOI-620.03</name>
-			<name>KOI-620 c</name>
-			<name>KIC 11773022 c</name>
-			<list>Confirmed planets</list>
-			<mass errorminus="0.0013" errorplus="0.0013">0.0126</mass>
-			<radius errorminus="0.152" errorplus="0.250">0.803</radius>
-			<period errorminus="0.002" errorplus="0.003">85.312</period>
-			<transittime errorminus="0.003" errorplus="0.003" unit="BJD">2455725.509</transittime>
+			<mass errorminus="0.00125853443664852" errorplus="0.00125853443664852" type="Mass">0.0125853443665</mass>
+			<radius errorminus="0.151664112167209" errorplus="0.249799714157756">0.80292765265</radius>
+			<period errorminus="0.00096" errorplus="0.00096">85.3128662</period>
 			<semimajoraxis errorminus="0.015" errorplus="0.015">0.384</semimajoraxis>
 			<eccentricity errorminus="0.009" errorplus="0.013">0.014</eccentricity>
-			<inclination>89.4</inclination>
-			<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 85.31 days for 2.7849 hours. Periodic transit timing variations confirm its planetary nature and indicate that it has a very low density.</description>
+			<temperature errorminus="9" errorplus="9">439.0</temperature>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>15/12/12</lastupdate>
+			<transittime errorminus="0.0022" errorplus="0.0022" unit="BJD">2455128.32095</transittime>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2012</discoveryyear>
-			<istransiting>1</istransiting>
 		</planet>
 		<planet>
 			<name>Kepler-51 d</name>
-			<name>KOI-620 d</name>
-			<name>KOI-620.02</name>
-			<name>KIC 11773022 d</name>
-			<name>KIC 11773022.02</name>
+			<mass errorminus="0.00300" errorplus="0.00300" type="Mass">0.02400</mass>
 			<radius errorminus="0.045" errorplus="0.045">0.865</radius>
-			<period errorminus="0.002" errorplus="0.005">130.194</period>
-			<transittime errorminus="0.0004" errorplus="0.0004" unit="BJD">2455695.9323</transittime>
-			<semimajoraxis errorminus="0.020" errorplus="0.020">0.509</semimajoraxis>
-			<mass errorminus="0.0035" errorplus="0.0035">0.0239</mass>
-			<inclination>89.9</inclination>
-			<list>Confirmed planets</list>
-			<description>Kepler-51 d has been discovered by the Kepler spacecraft. Its mass has been determined by analysis of transit timing variations, indicating that it is a very low density planet.</description>
-			<discoveryyear>2014</discoveryyear>
-			<lastupdate>15/12/12</lastupdate>
+			<period errorminus="0.00200000" errorplus="0.00500000">130.19400000</period>
+			<semimajoraxis errorminus="0.020000" errorplus="0.020000">0.509000</semimajoraxis>
+			<eccentricity errorminus="0.008000" errorplus="0.011000">0.008000</eccentricity>
+			<temperature errorminus="8" errorplus="8">381</temperature>
 			<discoverymethod>transit</discoverymethod>
-			<istransiting>1</istransiting>
+			<transittime errorminus=".000400" errorplus="0.000400" unit="BJD">2455695.932300</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2014</discoveryyear>
+		</planet>
+		<planet>
+			<name>KOI-620.02</name>
+			<mass errorminus="0.00346096970078344" errorplus="0.00346096970078344">0.0239121542963</mass>
+			<radius errorminus="0.0446070918138849" errorplus="0.0446070918138849">0.865377581189</radius>
+			<period errorminus="0.005" errorplus="0.002">130.194</period>
+			<semimajoraxis errorminus="0.02" errorplus="0.02">0.509</semimajoraxis>
+			<eccentricity errorminus="0.008" errorplus="0.011">0.008</eccentricity>
+			<temperature>381.0</temperature>
+			<discoverymethod>TTV</discoverymethod>
+			<transittime errorminus="0.0004" errorplus="0.0004">2455695.9323</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>
 </system>

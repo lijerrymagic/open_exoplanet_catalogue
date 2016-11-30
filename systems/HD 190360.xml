@@ -1,0 +1,46 @@
+<system>
+	<name>HD 190360</name>
+	<rightascension>20 03 37</rightascension>
+	<declination>+29 53 48</declination>
+	<distance errorminus="0.16" errorplus="0.16">15.89</distance>
+	<star>
+		<name>HD 190360</name>
+		<mass>1.04</mass>
+		<radius errorminus="0.033" errorplus="0.033">1.2</radius>
+		<magV>5.71</magV>
+		<magB>6.420</magB>
+		<magJ errorminus="0.226" errorplus="0.226">4.554</magJ>
+		<magH errorminus="0.252" errorplus="0.252">4.239</magH>
+		<magK errorminus="0.027" errorplus="0.027">4.076</magK>
+		<temperature errorminus="80.0" errorplus="80.0">5588.0</temperature>
+		<age>12.11</age>
+		<metallicity errorminus="0.08" errorplus="0.08">0.24</metallicity>
+		<spectraltype>G6 IV</spectraltype>
+		<planet>
+			<name>HD 190360 b</name>
+			<mass errorminus="0.15" errorplus="0.15" type="Radial Velocity">1.495</mass>
+			<period errorminus="7.7" errorplus="7.7">2867.9</period>
+			<semimajoraxis errorminus="0.2" errorplus="0.2">3.92</semimajoraxis>
+			<eccentricity errorminus="0.017" errorplus="0.017">0.343</eccentricity>
+			<periastron errorminus="32.0" errorplus="32.0">14.7</periastron>
+			<periastrontime errorminus="19.0" errorplus="19.0">2459271.0</periastrontime>
+			<maximumrvtime errorminus="19.0" errorplus="19.0">2459271.0</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2003</discoveryyear>
+		</planet>
+		<planet>
+			<name>HD 190360 c</name>
+			<mass errorminus="0.00994" errorplus="0.00994" type="Radial Velocity">0.06381</mass>
+			<period errorminus="0.0016" errorplus="0.0016">17.1186</period>
+			<semimajoraxis errorminus="0.002" errorplus="0.002">0.128</semimajoraxis>
+			<eccentricity errorminus="0.07" errorplus="0.07">0.107</eccentricity>
+			<periastron errorminus="280.0" errorplus="39.0">305.8</periastron>
+			<periastrontime errorminus="2.9" errorplus="1.5">2455570.3</periastrontime>
+			<maximumrvtime errorminus="2.9" errorplus="1.5">2455570.3</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2005</discoveryyear>
+		</planet>
+	</star>
+</system>

@@ -1,24 +1,27 @@
 <system>
 	<name>Kepler-1449</name>
-	<rightascension>19 12 56</rightascension>
+	<rightascension>19 12 55</rightascension>
 	<declination>+50 34 04</declination>
+	<distance errorminus="136.23" errorplus="278.12">1321.00</distance>
 	<star>
 		<name>Kepler-1449</name>
-		<temperature errorminus="97.4" errorplus="98.8">5979.0</temperature>
 		<mass errorminus="0.06" errorplus="0.07">1.08</mass>
-		<radius errorminus="0.11" errorplus="0.23">1.10</radius>
-		<metallicity errorminus="0.17" errorplus="0.14">0.04</metallicity>
+		<radius errorminus="0.11" errorplus="0.23">1.1</radius>
+		<magV>15.050</magV>
+		<magJ errorminus="0.034" errorplus="0.034">13.994</magJ>
+		<magH errorminus="0.040" errorplus="0.040">13.686</magH>
+		<magK errorminus="0.042" errorplus="0.042">13.64</magK>
+		<temperature errorminus="97.37" errorplus="98.77">5979.0</temperature>
+		<age errorminus="1.790" errorplus="1.890">3.470</age>
+		<metallicity errorminus="0.169" errorplus="0.143">0.04</metallicity>
 		<planet>
 			<name>Kepler-1449 b</name>
+			<radius errorminus="0.016" errorplus="0.033">0.15</radius>
+			<period errorminus="0.0001447" errorplus="0.0001447">13.2274528</period>
 			<discoverymethod>transit</discoverymethod>
-			<list>Confirmed planets</list>
+			<transittime errorminus=".008860" errorplus="0.008860" unit="JD">2454970.721970</transittime>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
-			<istransiting>1</istransiting>
-			<new>1</new>
-			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000144700" errorplus="0.000144700">13.227452800</period>
-			<radius errorminus="0.016" errorplus="0.033">0.150</radius>
 		</planet>
 	</star>
 </system>

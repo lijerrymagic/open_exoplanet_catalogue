@@ -1,0 +1,31 @@
+<system>
+	<name>WASP-94 B</name>
+	<rightascension>20 55 09</rightascension>
+	<declination>-34 08 07</declination>
+	<distance errorminus="20.00" errorplus="20.00">180.00</distance>
+	<star>
+		<name>WASP-94 B</name>
+		<mass errorminus="0.09" errorplus="0.09">1.24</mass>
+		<radius errorminus="0.12" errorplus="0.12">1.35</radius>
+		<magV>10.5</magV>
+		<magJ errorminus="0.023" errorplus="0.023">9.498</magJ>
+		<magH errorminus="0.025" errorplus="0.025">9.266</magH>
+		<magK errorminus="0.021" errorplus="0.021">9.188</magK>
+		<temperature errorminus="90.0" errorplus="90.0">6040.0</temperature>
+		<age>4.000</age>
+		<metallicity errorminus="0.14" errorplus="0.14">0.23</metallicity>
+		<spectraltype>F9</spectraltype>
+		<planet>
+			<name>WASP-94 B b</name>
+			<mass errorminus="0.029" errorplus="0.028" type="Msini">0.618</mass>
+			<period errorminus="0.00024" errorplus="0.00024">2.00839</period>
+			<semimajoraxis errorminus="0.0005" errorplus="0.0006">0.0335</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<periastrontime errorminus="0.022000" errorplus="0.023000">2456574.359000</periastrontime>
+			<maximumrvtime errorminus="0.022000" errorplus="0.023000">2456574.359000</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2014</discoveryyear>
+		</planet>
+	</star>
+</system>

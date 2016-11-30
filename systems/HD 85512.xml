@@ -2,32 +2,33 @@
 	<name>HD 85512</name>
 	<rightascension>09 51 07</rightascension>
 	<declination>-43 30 10</declination>
-	<distance>11.15</distance>
+	<distance errorminus="0.10" errorplus="0.10">11.15</distance>
 	<star>
+		<name>HD 85512</name>
 		<mass>0.69</mass>
 		<magV>7.67</magV>
-		<magB>8.83</magB>
-		<magR>6.934</magR>
-		<magI>6.319</magI>
+		<magB>8.826</magB>
 		<magJ errorminus="0.018" errorplus="0.018">5.451</magJ>
-		<magH>4.998</magH>
+		<magH errorminus="0.026" errorplus="0.026">4.998</magH>
 		<magK errorminus="0.021" errorplus="0.021">4.717</magK>
-		<metallicity>-0.33</metallicity>
+		<temperature errorminus="102.0" errorplus="102.0">4715.0</temperature>
+		<age errorminus="0.61" errorplus="0.61">5.61</age>
+		<metallicity errorminus="0.03" errorplus="0.03">-0.33</metallicity>
 		<spectraltype>K5V</spectraltype>
 		<planet>
 			<name>HD 85512 b</name>
-			<list>Confirmed planets</list>
-			<mass>0.011</mass>
-			<period>58.43</period>
-			<semimajoraxis>0.26</semimajoraxis>
-			<eccentricity>0.11</eccentricity>
-			<description>The planet HD 85512 b could be potentially habitable if the planet exhibits more than 50 percent cloud coverage (Kaltenegger et al 2011).</description>
+			<mass errorminus="0.0016" errorplus="0.0016" type="Msin(i)/sin(i)">0.011</mass>
+			<period errorminus="0.13" errorplus="0.13">58.43</period>
+			<semimajoraxis errorminus="0.005" errorplus="0.005">0.26</semimajoraxis>
+			<eccentricity errorminus="0.1" errorplus="0.1">0.11</eccentricity>
+			<periastron errorminus="0.58" errorplus="0.58">178.0</periastron>
+			<periastrontime>2455239.7088868</periastrontime>
+			<maximumrvtime>2455239.7088868</maximumrvtime>
+			<inclination>90.000</inclination>
+			<temperature>298</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/08/18</lastupdate>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-			<temperature>297.4</temperature>
 		</planet>
-		<name>HD 85512</name>
-		<temperature>4715.0</temperature>
 	</star>
 </system>

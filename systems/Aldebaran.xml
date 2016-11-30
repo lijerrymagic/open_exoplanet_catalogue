@@ -1,0 +1,28 @@
+<system>
+	<name>Aldebaran</name>
+	<declination>+16 30 33</declination>
+	<star>
+		<name>Aldebaran</name>
+		<name>alf Tau</name>
+		<mass errorminus="0.11" errorplus="0.11">1.13</mass>
+		<radius errorminus="0.1" errorplus="0.1">45.1</radius>
+		<magV>0.85</magV>
+		<temperature errorminus="70.0" errorplus="70.0">4055.0</temperature>
+		<age errorminus="2.4" errorplus="2.4">6.6</age>
+		<metallicity errorminus="0.05" errorplus="0.05">-0.27</metallicity>
+		<spectraltype>K5III</spectraltype>
+		<planet>
+			<name>Aldebaran b</name>
+			<mass errorminus="0.53" errorplus="0.53" type="Radial Velocity">6.47</mass>
+			<period errorminus="0.9" errorplus="0.9">628.96</period>
+			<semimajoraxis errorminus="0.27" errorplus="0.27">1.46</semimajoraxis>
+			<eccentricity errorminus="0.05" errorplus="0.05">0.1</eccentricity>
+			<periastron errorminus="29.0" errorplus="29.0">287.0</periastron>
+			<periastrontime errorminus="50.0" errorplus="50.0">2451297.0</periastrontime>
+			<maximumrvtime errorminus="50.0" errorplus="50.0">2451297.0</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>1998</discoveryyear>
+		</planet>
+	</star>
+</system>

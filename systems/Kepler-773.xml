@@ -2,23 +2,26 @@
 	<name>Kepler-773</name>
 	<rightascension>19 23 32</rightascension>
 	<declination>+38 03 27</declination>
+	<distance errorminus="24.38" errorplus="28.74">528.00</distance>
 	<star>
 		<name>Kepler-773</name>
-		<temperature errorminus="65.3" errorplus="76.7">5850.0</temperature>
 		<mass errorminus="0.03" errorplus="0.04">1.04</mass>
 		<radius errorminus="0.04" errorplus="0.05">1.01</radius>
-		<metallicity errorminus="0.09" errorplus="0.09">0.05</metallicity>
+		<magV>13.333</magV>
+		<magJ errorminus="0.022" errorplus="0.022">12.216</magJ>
+		<magH errorminus="0.019" errorplus="0.019">11.908</magH>
+		<magK errorminus="0.020" errorplus="0.020">11.888</magK>
+		<temperature errorminus="65.3" errorplus="76.73">5850.0</temperature>
+		<age errorminus="1.200" errorplus="1.830">2.820</age>
+		<metallicity errorminus="0.086" errorplus="0.088">0.05</metallicity>
 		<planet>
 			<name>Kepler-773 b</name>
-			<discoverymethod>transit</discoverymethod>
-			<list>Confirmed planets</list>
-			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
-			<istransiting>1</istransiting>
-			<new>1</new>
-			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000007140" errorplus="0.000007140">3.749100060</period>
 			<radius errorminus="0.006" errorplus="0.008">0.128</radius>
+			<period errorminus="7.14e-06" errorplus="7.14e-06">3.74910006</period>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".001520" errorplus="0.001520" unit="JD">2454968.109210</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>
 </system>

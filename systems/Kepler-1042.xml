@@ -1,24 +1,27 @@
 <system>
 	<name>Kepler-1042</name>
-	<rightascension>19 14 41</rightascension>
+	<rightascension>19 14 40</rightascension>
 	<declination>+39 49 26</declination>
+	<distance errorminus="48.91" errorplus="32.13">659.00</distance>
 	<star>
 		<name>Kepler-1042</name>
-		<temperature errorminus="79.6" errorplus="86.9">4815.0</temperature>
 		<mass errorminus="0.05" errorplus="0.04">0.75</mass>
 		<radius errorminus="0.05" errorplus="0.03">0.72</radius>
-		<metallicity errorminus="0.20" errorplus="0.15">-0.10</metallicity>
+		<magV>15.629</magV>
+		<magJ errorminus="0.023" errorplus="0.023">14.022</magJ>
+		<magH errorminus="0.027" errorplus="0.027">13.44</magH>
+		<magK errorminus="0.035" errorplus="0.035">13.368</magK>
+		<temperature errorminus="79.62" errorplus="86.89">4815.0</temperature>
+		<age errorminus="2.950" errorplus="6.130">4.790</age>
+		<metallicity errorminus="0.195" errorplus="0.153">-0.1</metallicity>
 		<planet>
 			<name>Kepler-1042 b</name>
+			<radius errorminus="0.014" errorplus="0.01">0.195</radius>
+			<period errorminus="3.028e-05" errorplus="3.028e-05">10.13202575</period>
 			<discoverymethod>transit</discoverymethod>
-			<list>Confirmed planets</list>
+			<transittime errorminus=".002750" errorplus="0.002750" unit="JD">2454965.910200</transittime>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
-			<istransiting>1</istransiting>
-			<new>1</new>
-			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000030280" errorplus="0.000030280">10.132025750</period>
-			<radius errorminus="0.014" errorplus="0.010">0.195</radius>
 		</planet>
 	</star>
 </system>

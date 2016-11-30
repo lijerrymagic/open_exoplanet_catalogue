@@ -1,24 +1,27 @@
 <system>
 	<name>Kepler-1552</name>
 	<rightascension>19 26 42</rightascension>
-	<declination>+38 52 30</declination>
+	<declination>+38 52 29</declination>
+	<distance errorminus="19.66" errorplus="19.67">618.00</distance>
 	<star>
 		<name>Kepler-1552</name>
-		<temperature errorminus="75.4" errorplus="85.4">5202.0</temperature>
 		<mass errorminus="0.04" errorplus="0.03">0.85</mass>
 		<radius errorminus="0.02" errorplus="0.02">0.78</radius>
-		<metallicity errorminus="0.11" errorplus="0.10">-0.07</metallicity>
+		<magV>14.838</magV>
+		<magJ errorminus="0.023" errorplus="0.023">13.504</magJ>
+		<magH errorminus="0.023" errorplus="0.023">13.005</magH>
+		<magK errorminus="0.030" errorplus="0.030">12.881</magK>
+		<temperature errorminus="75.4" errorplus="85.4">5202.0</temperature>
+		<age errorminus="1.560" errorplus="2.230">3.310</age>
+		<metallicity errorminus="0.108" errorplus="0.105">-0.07</metallicity>
 		<planet>
 			<name>Kepler-1552 b</name>
+			<radius errorminus="0.009" errorplus="0.01">0.22</radius>
+			<period errorminus="0.001546" errorplus="0.001546">184.771853</period>
 			<discoverymethod>transit</discoverymethod>
-			<list>Confirmed planets</list>
+			<transittime errorminus=".006520" errorplus="0.006520" unit="JD">2455050.361550</transittime>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
-			<istransiting>1</istransiting>
-			<new>1</new>
-			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.001546000" errorplus="0.001546000">184.771853000</period>
-			<radius errorminus="0.009" errorplus="0.010">0.220</radius>
 		</planet>
 	</star>
 </system>

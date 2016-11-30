@@ -1,34 +1,31 @@
 <system>
 	<name>OGLE-TR-132</name>
 	<rightascension>10 50 34</rightascension>
-	<declination>-61 57 25</declination>
-	<distance>1500</distance>
+	<declination>-61 57 24</declination>
+	<distance errorminus="250.00" errorplus="250.00">2500.00</distance>
 	<star>
-		<mass errorminus="0.13" errorplus="0.13">1.19</mass>
-		<radius errorminus="0.10" errorplus="0.10">1.35</radius>
-		<metallicity>0.37</metallicity>
+		<name>OGLE-TR-132</name>
+		<mass errorminus="0.03" errorplus="0.03">1.26</mass>
+		<radius errorminus="0.08" errorplus="0.08">1.34</radius>
+		<magV>15.720</magV>
+		<magB>15.72</magB>
+		<temperature errorminus="59.0" errorplus="59.0">6210.0</temperature>
+		<age errorminus="1.100" errorplus="1.500">1.200</age>
+		<metallicity errorminus="0.07" errorplus="0.07">0.37</metallicity>
 		<spectraltype>F</spectraltype>
-		<magI>15.72</magI>
-		<magJ errorminus="0.049" errorplus="0.049">15.252</magJ>
-		<magH errorminus="0.067" errorplus="0.067">14.861</magH>
-		<magK errorminus="0.146" errorplus="0.146">14.990</magK>
 		<planet>
 			<name>OGLE-TR-132 b</name>
-			<list>Confirmed planets</list>
-			<mass>1.17</mass>
-			<radius errorminus="0.074" errorplus="0.074">1.227</radius>
-			<period>1.689868</period>
-			<semimajoraxis errorminus="0.002" errorplus="0.002">0.030</semimajoraxis>
+			<mass errorminus="0.14" errorplus="0.14" type="Mass">1.17</mass>
+			<radius errorminus="0.07" errorplus="0.07">1.23</radius>
+			<period errorminus="3e-06" errorplus="3e-06">1.689868</period>
+			<semimajoraxis errorminus="0.0008" errorplus="0.0008">0.0306</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
-			<inclination>83.4</inclination>
-			<transittime errorminus="0.00053" errorplus="0.00053" unit="BJD">2453142.59199</transittime>
+			<inclination errorminus="1.3" errorplus="1.3">83.4</inclination>
+			<temperature errorminus="108" errorplus="77">2013</temperature>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>10/12/16</lastupdate>
+			<transittime errorminus="0.0003" errorplus="0.0003">2453142.5912</transittime>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2004</discoveryyear>
-			<temperature>1812.0</temperature>
-			<istransiting>1</istransiting>
 		</planet>
-		<name>OGLE-TR-132</name>
-		<temperature>6210.0</temperature>
 	</star>
 </system>

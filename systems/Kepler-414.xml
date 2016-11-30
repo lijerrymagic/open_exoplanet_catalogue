@@ -1,0 +1,32 @@
+<system>
+	<name>Kepler-414</name>
+	<rightascension>19 51 50</rightascension>
+	<declination>+48 14 39</declination>
+	<star>
+		<name>Kepler-414</name>
+		<mass>0.89</mass>
+		<radius>0.95</radius>
+		<magV>13.338</magV>
+		<magJ errorminus="0.024" errorplus="0.024">12.087</magJ>
+		<magH errorminus="0.015" errorplus="0.015">11.750</magH>
+		<magK errorminus="0.020" errorplus="0.020">11.698</magK>
+		<planet>
+			<name>Kepler-414 b</name>
+			<mass errorminus="0.00900" errorplus="0.01100" type="Mass">0.01100</mass>
+			<radius errorminus="0.012" errorplus="0.028">0.153</radius>
+			<period>4.70000000</period>
+			<discoverymethod>Transit Timing Variations</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2014</discoveryyear>
+		</planet>
+		<planet>
+			<name>Kepler-414 c</name>
+			<mass errorminus="0.03300" errorplus="0.03900" type="Mass">0.09400</mass>
+			<radius errorminus="0.022" errorplus="0.048">0.269</radius>
+			<period>7.17100000</period>
+			<discoverymethod>Transit Timing Variations</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2014</discoveryyear>
+		</planet>
+	</star>
+</system>

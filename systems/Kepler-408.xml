@@ -1,0 +1,29 @@
+<system>
+	<name>Kepler-408</name>
+	<rightascension>18 59 08</rightascension>
+	<declination>+48 25 23</declination>
+	<star>
+		<name>Kepler-408</name>
+		<name>KOI-1612</name>
+		<mass errorminus="0.07" errorplus="0.07">1.08</mass>
+		<radius errorminus="0.03" errorplus="0.03">1.23</radius>
+		<magV>9.0</magV>
+		<magJ errorminus="0.021" errorplus="0.021">7.784</magJ>
+		<magH errorminus="0.021" errorplus="0.021">7.539</magH>
+		<magK errorminus="0.018" errorplus="0.018">7.486</magK>
+		<temperature errorminus="74.0" errorplus="74.0">6104.0</temperature>
+		<age>6.68</age>
+		<metallicity errorminus="0.1" errorplus="0.1">-0.2</metallicity>
+		<planet>
+			<name>Kepler-408 b</name>
+			<name>KOI-1612.01</name>
+			<mass type="Radial Velocity">0.02</mass>
+			<radius errorminus="0.0003" errorplus="0.0003">0.073</radius>
+			<period>2.56502</period>
+			<discoverymethod>transit</discoverymethod>
+			<transittime unit="BJD">2454965.67928</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2013</discoveryyear>
+		</planet>
+	</star>
+</system>

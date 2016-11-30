@@ -1,0 +1,32 @@
+<system>
+	<name>ome Ser</name>
+	<rightascension>15 50 17</rightascension>
+	<declination>+02 11 47</declination>
+	<distance errorminus="5.05" errorplus="4.48">80.64</distance>
+	<star>
+		<name>ome Ser</name>
+		<mass errorminus="0.29" errorplus="0.21">2.17</mass>
+		<radius errorminus="0.82" errorplus="0.88">12.3</radius>
+		<magV>5.21</magV>
+		<magB>6.250</magB>
+		<magJ errorminus="0.294" errorplus="0.294">3.622</magJ>
+		<magH errorminus="0.220" errorplus="0.220">3.026</magH>
+		<magK errorminus="0.224" errorplus="0.224">2.929</magK>
+		<temperature errorminus="10.0" errorplus="10.0">4770.0</temperature>
+		<metallicity errorminus="0.02" errorplus="0.02">-0.24</metallicity>
+		<spectraltype>G8 III</spectraltype>
+		<planet>
+			<name>ome Ser b</name>
+			<mass type="Msini">1.7</mass>
+			<period errorminus="0.51" errorplus="0.52">277.02</period>
+			<semimajoraxis>1.1</semimajoraxis>
+			<eccentricity errorminus="0.069" errorplus="0.079">0.106</eccentricity>
+			<periastron errorminus="52.0" errorplus="34.0">132.0</periastron>
+			<periastrontime errorminus="38.0" errorplus="27.0">2450022.0</periastrontime>
+			<maximumrvtime errorminus="38.0" errorplus="27.0">2450022.0</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2013</discoveryyear>
+		</planet>
+	</star>
+</system>

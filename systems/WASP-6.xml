@@ -1,37 +1,33 @@
 <system>
 	<name>WASP-6</name>
-	<rightascension>23 12 38</rightascension>
+	<rightascension>23 12 37</rightascension>
 	<declination>-22 40 26</declination>
-	<distance>307</distance>
 	<star>
-		<mass>0.888</mass>
-		<radius>0.87</radius>
+		<name>WASP-6</name>
+		<mass errorminus="0.08" errorplus="0.08">0.888</mass>
+		<radius errorminus="0.036" errorplus="0.036">0.87</radius>
 		<magV>12.4</magV>
-		<magR>11.9</magR>
-		<magB errorminus="0.35" errorplus="0.35">12.90</magB>
 		<magJ errorminus="0.026" errorplus="0.026">10.769</magJ>
 		<magH errorminus="0.025" errorplus="0.025">10.445</magH>
 		<magK errorminus="0.025" errorplus="0.025">10.325</magK>
-		<metallicity>-0.2</metallicity>
+		<temperature errorminus="100.0" errorplus="100.0">5450.0</temperature>
+		<age errorminus="7.0" errorplus="7.0">11.0</age>
+		<metallicity errorminus="0.09" errorplus="0.09">-0.2</metallicity>
 		<spectraltype>G8</spectraltype>
 		<planet>
 			<name>WASP-6 b</name>
-			<name>2MASS J23123773-2240261 b</name>
-			<list>Confirmed planets</list>
-			<mass>0.503</mass>
-			<radius>1.224</radius>
-			<period>3.361006</period>
-			<semimajoraxis>0.0421</semimajoraxis>
-			<eccentricity>0.054</eccentricity>
-			<inclination>88.47</inclination>
-			<transittime errorminus="0.00010" errorplus="0.00015" unit="BJD">2454596.43341</transittime>
+			<mass errorminus="0.038" errorplus="0.019" type="Mass">0.503</mass>
+			<radius errorminus="0.052" errorplus="0.051">1.224</radius>
+			<period errorminus="3.5e-06" errorplus="3.5e-06">3.361006</period>
+			<semimajoraxis errorminus="0.0013" errorplus="0.0013">0.0421</semimajoraxis>
+			<eccentricity errorminus="0.015" errorplus="0.015">0.054</eccentricity>
+			<periastron errorminus="0.22" errorplus="0.22">1.7</periastron>
+			<inclination errorminus="0.47" errorplus="0.47">88.47</inclination>
+			<temperature errorminus="16" errorplus="16">1184</temperature>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>12/04/08</lastupdate>
+			<transittime errorminus=".000110" errorplus="0.000110" unit="BJD/TDB">2454425.021800</transittime>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2008</discoveryyear>
-			<temperature>1092.2</temperature>
-			<istransiting>1</istransiting>
 		</planet>
-		<name>WASP-6</name>
-		<temperature>5450.0</temperature>
 	</star>
 </system>

@@ -1,24 +1,27 @@
 <system>
 	<name>Kepler-808</name>
-	<rightascension>19 26 23</rightascension>
+	<rightascension>19 26 22</rightascension>
 	<declination>+48 26 44</declination>
+	<distance errorminus="16.85" errorplus="11.19">321.00</distance>
 	<star>
 		<name>Kepler-808</name>
-		<temperature errorminus="57.3" errorplus="51.4">4653.0</temperature>
 		<mass errorminus="0.05" errorplus="0.03">0.76</mass>
 		<radius errorminus="0.04" errorplus="0.02">0.71</radius>
-		<metallicity errorminus="0.21" errorplus="0.15">0.05</metallicity>
+		<magV>14.285</magV>
+		<magJ errorminus="0.022" errorplus="0.022">12.555</magJ>
+		<magH errorminus="0.019" errorplus="0.019">12.011</magH>
+		<magK errorminus="0.022" errorplus="0.022">11.879</magK>
+		<temperature errorminus="57.3" errorplus="51.38">4653.0</temperature>
+		<age errorminus="0.630" errorplus="4.120">1.950</age>
+		<metallicity errorminus="0.207" errorplus="0.154">0.05</metallicity>
 		<planet>
 			<name>Kepler-808 b</name>
+			<radius errorminus="0.007" errorplus="0.005">0.13</radius>
+			<period errorminus="3.5e-07" errorplus="3.5e-07">0.63133235</period>
 			<discoverymethod>transit</discoverymethod>
-			<list>Confirmed planets</list>
+			<transittime errorminus=".000442" errorplus="0.000442" unit="JD">2454966.944034</transittime>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
-			<istransiting>1</istransiting>
-			<new>1</new>
-			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000000350" errorplus="0.000000350">0.631332350</period>
-			<radius errorminus="0.007" errorplus="0.005">0.130</radius>
 		</planet>
 	</star>
 </system>

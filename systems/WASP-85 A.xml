@@ -1,0 +1,31 @@
+<system>
+	<name>WASP-85 A</name>
+	<rightascension>11 43 38</rightascension>
+	<declination>+06 33 49</declination>
+	<star>
+		<name>WASP-85 A</name>
+		<mass errorminus="0.08" errorplus="0.08">1.09</mass>
+		<radius errorminus="0.02" errorplus="0.02">0.94</radius>
+		<magV errorminus="0.076" errorplus="0.076">10.720</magV>
+		<magB errorminus="0.091" errorplus="0.091">11.427</magB>
+		<magJ errorminus="0.033" errorplus="0.033">9.275</magJ>
+		<magH errorminus="0.036" errorplus="0.036">8.925</magH>
+		<magK errorminus="0.026" errorplus="0.026">8.733</magK>
+		<temperature errorminus="27.00" errorplus="27.00">6112.00</temperature>
+		<spectraltype>G5 V</spectraltype>
+		<planet>
+			<name>WASP-85 A b</name>
+			<mass errorminus="0.06500" errorplus="0.06500" type="Mass">1.26500</mass>
+			<radius errorminus="0.030" errorplus="0.030">1.240</radius>
+			<period errorminus="0.00000044" errorplus="0.00000044">2.65567770</period>
+			<semimajoraxis errorminus="0.001000" errorplus="0.001000">0.039000</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="0.030" errorplus="0.110">89.690</inclination>
+			<temperature errorminus="6" errorplus="6">1452</temperature>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000014" errorplus="0.000014" unit="BJD">2456847.472856</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

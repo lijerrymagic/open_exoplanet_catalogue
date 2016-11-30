@@ -1,0 +1,44 @@
+<system>
+	<name>HIP 65407</name>
+	<rightascension>13 24 21</rightascension>
+	<declination>+48 53 06</declination>
+	<distance errorminus="4.60" errorplus="4.60">55.50</distance>
+	<star>
+		<name>HIP 65407</name>
+		<mass errorminus="0.07" errorplus="0.07">0.93</mass>
+		<magV errorminus="0.020" errorplus="0.020">9.42</magV>
+		<magB errorminus="0.029" errorplus="0.029">10.200</magB>
+		<magJ errorminus="0.020" errorplus="0.020">7.963</magJ>
+		<magH errorminus="0.017" errorplus="0.017">7.648</magH>
+		<magK errorminus="0.017" errorplus="0.017">7.578</magK>
+		<temperature errorminus="50.0" errorplus="50.0">5460.0</temperature>
+		<metallicity errorminus="0.04" errorplus="0.04">0.25</metallicity>
+		<spectraltype>K0</spectraltype>
+		<planet>
+			<name>HIP 65407 b</name>
+			<mass errorminus="0.032" errorplus="0.032" type="Radial Velocity">0.428</mass>
+			<period errorminus="0.019" errorplus="0.019">28.125</period>
+			<semimajoraxis errorminus="0.05" errorplus="0.05">0.177</semimajoraxis>
+			<eccentricity errorminus="0.07" errorplus="0.07">0.14</eccentricity>
+			<periastron errorminus="150.0" errorplus="150.0">50.0</periastron>
+			<periastrontime errorminus="2.5" errorplus="2.5">2456990.8</periastrontime>
+			<maximumrvtime errorminus="2.5" errorplus="2.5">2456990.8</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+		<planet>
+			<name>HIP 65407 c</name>
+			<mass errorminus="0.054" errorplus="0.054" type="Radial Velocity">0.784</mass>
+			<period errorminus="0.08" errorplus="0.08">67.3</period>
+			<semimajoraxis errorminus="0.008" errorplus="0.008">0.316</semimajoraxis>
+			<eccentricity errorminus="0.04" errorplus="0.04">0.12</eccentricity>
+			<periastron errorminus="25.0" errorplus="25.0">341.0</periastron>
+			<periastrontime errorminus="6.0" errorplus="6.0">2457047.0</periastrontime>
+			<maximumrvtime errorminus="6.0" errorplus="6.0">2457047.0</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

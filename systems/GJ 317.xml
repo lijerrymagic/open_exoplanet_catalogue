@@ -1,0 +1,44 @@
+<system>
+	<name>GJ 317</name>
+	<rightascension>08 40 59</rightascension>
+	<declination>-23 27 23</declination>
+	<distance errorminus="0.22" errorplus="0.22">15.10</distance>
+	<star>
+		<name>GJ 317</name>
+		<mass errorminus="0.05" errorplus="0.05">0.42</mass>
+		<magV errorminus="0.014" errorplus="0.014">12.0</magV>
+		<magB errorminus="0.044" errorplus="0.044">13.470</magB>
+		<magJ errorminus="0.027" errorplus="0.027">6.41</magJ>
+		<magH errorminus="0.071" errorplus="0.071">5.9</magH>
+		<magK errorminus="0.020" errorplus="0.020">5.59</magK>
+		<temperature errorminus="50.0" errorplus="50.0">3510.0</temperature>
+		<age>5.000</age>
+		<metallicity errorminus="0.2" errorplus="0.2">0.36</metallicity>
+		<spectraltype>M3.5</spectraltype>
+		<planet>
+			<name>GJ 317 b</name>
+			<mass errorminus="0.411" errorplus="0.683" type="Radial Velocity">2.56</mass>
+			<period errorminus="2.0" errorplus="2.0">692.0</period>
+			<semimajoraxis errorminus="0.050000" errorplus="0.050000">1.148</semimajoraxis>
+			<eccentricity errorminus="0.05" errorplus="0.05">0.11</eccentricity>
+			<periastron errorminus="10.0" errorplus="10.0">340.0</periastron>
+			<periastrontime errorminus="35.0" errorplus="35.0">2451656.7</periastrontime>
+			<maximumrvtime errorminus="35.0" errorplus="35.0">2451656.7</maximumrvtime>
+			<inclination errorminus="10.0" errorplus="10.0">45.0</inclination>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2007</discoveryyear>
+		</planet>
+		<planet>
+			<name>GJ 317 c</name>
+			<mass errorminus="0.0" errorplus="0.0" type="Radial Velocity">2.0</mass>
+			<period errorminus="nan" errorplus="inf">7300.0</period>
+			<semimajoraxis errorminus="20.0" errorplus="10.0">30.0</semimajoraxis>
+			<eccentricity errorminus="0.2" errorplus="0.2">0.81</eccentricity>
+			<periastron>210.0</periastron>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2007</discoveryyear>
+		</planet>
+	</star>
+</system>

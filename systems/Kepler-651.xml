@@ -1,24 +1,27 @@
 <system>
 	<name>Kepler-651</name>
-	<rightascension>19 09 20</rightascension>
-	<declination>+46 12 13</declination>
+	<rightascension>19 09 19</rightascension>
+	<declination>+46 12 12</declination>
+	<distance errorminus="23.32" errorplus="24.70">537.00</distance>
 	<star>
 		<name>Kepler-651</name>
-		<temperature errorminus="54.3" errorplus="64.2">5522.0</temperature>
 		<mass errorminus="0.04" errorplus="0.03">0.92</mass>
 		<radius errorminus="0.03" errorplus="0.04">0.87</radius>
-		<metallicity errorminus="0.12" errorplus="0.11">-0.04</metallicity>
+		<magV>13.940</magV>
+		<magJ errorminus="0.021" errorplus="0.021">12.719</magJ>
+		<magH errorminus="0.019" errorplus="0.019">12.397</magH>
+		<magK errorminus="0.018" errorplus="0.018">12.27</magK>
+		<temperature errorminus="54.3" errorplus="64.16">5522.0</temperature>
+		<age errorminus="1.870" errorplus="2.900">3.550</age>
+		<metallicity errorminus="0.115" errorplus="0.107">-0.04</metallicity>
 		<planet>
 			<name>Kepler-651 b</name>
+			<radius errorminus="0.012" errorplus="0.02">0.211</radius>
+			<period errorminus="3.88e-05" errorplus="3.88e-05">21.38521506</period>
 			<discoverymethod>transit</discoverymethod>
-			<list>Confirmed planets</list>
+			<transittime errorminus=".001410" errorplus="0.001410" unit="JD">2455011.781170</transittime>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
-			<istransiting>1</istransiting>
-			<new>1</new>
-			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000038800" errorplus="0.000038800">21.385215060</period>
-			<radius errorminus="0.012" errorplus="0.020">0.211</radius>
 		</planet>
 	</star>
 </system>

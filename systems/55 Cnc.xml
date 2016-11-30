@@ -1,0 +1,92 @@
+<system>
+	<name>55 Cnc</name>
+	<rightascension>08 52 35</rightascension>
+	<declination>+28 20 02</declination>
+	<distance errorminus="0.13" errorplus="0.13">12.53</distance>
+	<star>
+		<name>55 Cnc</name>
+		<mass errorminus="0.015" errorplus="0.015">0.905</mass>
+		<radius errorminus="0.01" errorplus="0.01">0.943</radius>
+		<magV errorminus="0.010" errorplus="0.010">5.95</magV>
+		<magB errorminus="0.010" errorplus="0.010">6.830</magB>
+		<magJ errorminus="0.244" errorplus="0.244">4.768</magJ>
+		<magH errorminus="0.234" errorplus="0.234">4.265</magH>
+		<magK errorminus="0.036" errorplus="0.036">4.015</magK>
+		<temperature errorminus="24.0" errorplus="24.0">5196.0</temperature>
+		<age errorminus="2.5" errorplus="2.5">10.2</age>
+		<metallicity errorminus="0.04" errorplus="0.04">0.31</metallicity>
+		<spectraltype>K0IV-V</spectraltype>
+		<planet>
+			<name>55 Cnc b</name>
+			<mass errorminus="0.012" errorplus="0.012" type="Mass">0.8</mass>
+			<period errorminus="0.0001" errorplus="0.0001">14.651</period>
+			<semimajoraxis errorminus="0.0006" errorplus="0.0006">0.1134</semimajoraxis>
+			<eccentricity errorminus="0.008" errorplus="0.008">0.0159</eccentricity>
+			<periastron errorminus="53.0000" errorplus="53.0000">164.0</periastron>
+			<periastrontime errorminus="2.2" errorplus="2.2">2453035.0</periastrontime>
+			<maximumrvtime errorminus="2.2" errorplus="2.2">2453035.0</maximumrvtime>
+			<inclination>90.000</inclination>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>1996</discoveryyear>
+		</planet>
+		<planet>
+			<name>55 Cnc c</name>
+			<mass errorminus="0.008" errorplus="0.008" type="Mass">0.169</mass>
+			<period errorminus="0.007" errorplus="0.007">44.3446</period>
+			<semimajoraxis errorminus="0.0017" errorplus="0.0017">0.2403</semimajoraxis>
+			<eccentricity errorminus="0.031000" errorplus="0.031000">0.053</eccentricity>
+			<periastron errorminus="11.0" errorplus="11.0">57.4</periastron>
+			<periastrontime errorminus="3.3" errorplus="3.3">2449989.3385</periastrontime>
+			<maximumrvtime errorminus="3.3" errorplus="3.3">2449989.3385</maximumrvtime>
+			<inclination>90.000</inclination>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2002</discoveryyear>
+		</planet>
+		<planet>
+			<name>55 Cnc e</name>
+			<mass errorminus="0.0012878946042" errorplus="0.00137264299634" type="Mass">0.0262621097297</mass>
+			<radius errorminus="0.00713713469022159" errorplus="0.00713713469022159">0.177536225419</radius>
+			<period errorminus="2.8e-06" errorplus="2.8e-06">0.7365417</period>
+			<semimajoraxis errorminus="0.00011" errorplus="0.00011">0.0156</semimajoraxis>
+			<eccentricity errorminus="inf" errorplus="nan">0.06</eccentricity>
+			<periastron errorminus="130.0" errorplus="130.0">170.0</periastron>
+			<periastrontime errorminus="0.0001" errorplus="0.0001">2449999.83643</periastrontime>
+			<maximumrvtime errorminus="0.0001" errorplus="0.0001">2449999.83643</maximumrvtime>
+			<inclination errorminus="2.8" errorplus="2.1">85.4</inclination>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.0018" errorplus="0.0018" unit="BJD-TDB">2455962.0697</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2004</discoveryyear>
+		</planet>
+		<planet>
+			<name>55 Cnc f</name>
+			<mass errorminus="0.04" errorplus="0.04" type="Mass">0.144</mass>
+			<period errorminus="1.1" errorplus="1.1">260.7</period>
+			<semimajoraxis errorminus="0.006" errorplus="0.006">0.781</semimajoraxis>
+			<eccentricity errorminus="0.075000" errorplus="0.075000">0.0002</eccentricity>
+			<periastron errorminus="60.0" errorplus="60.0">205.0</periastron>
+			<periastrontime errorminus="1.1" errorplus="1.1">2450080.9108</periastrontime>
+			<maximumrvtime errorminus="1.1" errorplus="1.1">2450080.9108</maximumrvtime>
+			<inclination>90.000</inclination>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2007</discoveryyear>
+		</planet>
+		<planet>
+			<name>55 Cnc d</name>
+			<mass errorminus="0.4573" errorplus="0.6223" type="Mass">4.802</mass>
+			<period errorminus="230.0" errorplus="230.0">5218.0</period>
+			<semimajoraxis errorminus="0.06" errorplus="0.06">5.76</semimajoraxis>
+			<eccentricity errorminus="0.03" errorplus="0.03">0.025</eccentricity>
+			<periastron errorminus="32.0" errorplus="32.0">181.3</periastron>
+			<periastrontime errorminus="230.0" errorplus="230.0">2452500.6</periastrontime>
+			<maximumrvtime errorminus="230.0" errorplus="230.0">2452500.6</maximumrvtime>
+			<inclination errorminus="6.8" errorplus="6.8">53.0</inclination>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2002</discoveryyear>
+		</planet>
+	</star>
+</system>

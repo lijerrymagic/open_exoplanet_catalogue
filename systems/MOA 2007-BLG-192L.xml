@@ -1,0 +1,18 @@
+<system>
+	<name>MOA 2007-BLG-192L</name>
+	<rightascension>18 08 03</rightascension>
+	<declination>-27 09 00</declination>
+	<distance errorminus="400.00" errorplus="400.00">1000.00</distance>
+	<star>
+		<name>MOA 2007-BLG-192L</name>
+		<mass errorminus="0.02" errorplus="0.03">0.06</mass>
+		<planet>
+			<name>MOA 2007-BLG-192L b</name>
+			<mass errorminus="0.00500" errorplus="0.01500" type="Mass">0.01000</mass>
+			<semimajoraxis errorminus="0.160000" errorplus="0.220000">0.620000</semimajoraxis>
+			<discoverymethod>microlensing</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2008</discoveryyear>
+		</planet>
+	</star>
+</system>

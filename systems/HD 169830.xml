@@ -2,40 +2,45 @@
 	<name>HD 169830</name>
 	<rightascension>18 27 49</rightascension>
 	<declination>-29 49 00</declination>
-	<distance errorminus="1.16" errorplus="1.24">36.32</distance>
+	<distance errorminus="1.24" errorplus="1.16">36.32</distance>
 	<star>
+		<name>HD 169830</name>
 		<mass>1.4</mass>
 		<radius>1.84</radius>
-		<age>2.3</age>
-		<magV>5.9</magV>
-		<magB>6.386</magB>
-		<metallicity errorminus="0.05" errorplus="0.05">0.21</metallicity>
+		<magV errorminus="0.010" errorplus="0.010">5.9</magV>
+		<magB errorminus="0.014" errorplus="0.014">6.407</magB>
+		<magJ errorminus="0.018" errorplus="0.018">4.974</magJ>
+		<magH errorminus="0.022" errorplus="0.022">4.778</magH>
+		<magK errorminus="0.024" errorplus="0.024">4.688</magK>
+		<temperature>6266.0</temperature>
+		<age>4.95</age>
+		<metallicity>0.21</metallicity>
 		<spectraltype>F8 V</spectraltype>
-		<temperature errorminus="50" errorplus="50">6300</temperature>
-		<planet>
-			<name>HD 169830 b</name>
-			<list>Confirmed planets</list>
-			<mass errorminus="0.12" errorplus="0.12">2.94</mass>
-			<period errorminus="4.6" errorplus="4.6">229.9</period>
-			<semimajoraxis>0.82</semimajoraxis>
-			<eccentricity errorminus="0.04" errorplus="0.04">0.35</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>14/06/24</lastupdate>
-			<discoveryyear>2000</discoveryyear>
-			<temperature>413.9</temperature>
-		</planet>
 		<planet>
 			<name>HD 169830 c</name>
-			<list>Confirmed planets</list>
-			<mass>4.04</mass>
-			<period>2102</period>
+			<mass type="Msini">4.04</mass>
+			<period errorminus="264.0" errorplus="264.0">2102.0</period>
 			<semimajoraxis>3.6</semimajoraxis>
-			<eccentricity>0.33</eccentricity>
+			<eccentricity errorminus="0.02" errorplus="0.02">0.33</eccentricity>
+			<periastron errorminus="8.0" errorplus="8.0">252.0</periastron>
+			<periastrontime errorminus="25.0" errorplus="25.0">52516.0</periastrontime>
+			<maximumrvtime errorminus="25.0" errorplus="25.0">52516.0</maximumrvtime>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/23</lastupdate>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2003</discoveryyear>
-			<temperature>196.1</temperature>
 		</planet>
-		<name>HD 169830</name>
+		<planet>
+			<name>HD 169830 b</name>
+			<mass type="Msini">2.88</mass>
+			<period errorminus="0.22" errorplus="0.22">225.62</period>
+			<semimajoraxis>0.81</semimajoraxis>
+			<eccentricity errorminus="0.01" errorplus="0.01">0.31</eccentricity>
+			<periastron errorminus="2.0" errorplus="2.0">148.0</periastron>
+			<periastrontime errorminus="1.0" errorplus="1.0">51923.0</periastrontime>
+			<maximumrvtime errorminus="1.0" errorplus="1.0">51923.0</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2000</discoveryyear>
+		</planet>
 	</star>
 </system>

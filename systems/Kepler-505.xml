@@ -1,24 +1,27 @@
 <system>
 	<name>Kepler-505</name>
-	<rightascension>19 11 26</rightascension>
+	<rightascension>19 11 25</rightascension>
 	<declination>+42 32 33</declination>
+	<distance errorminus="11.16" errorplus="11.78">222.00</distance>
 	<star>
 		<name>Kepler-505</name>
-		<temperature errorminus="40.6" errorplus="48.3">3931.0</temperature>
 		<mass errorminus="0.02" errorplus="0.02">0.55</mass>
 		<radius errorminus="0.02" errorplus="0.02">0.53</radius>
-		<metallicity errorminus="0.08" errorplus="0.09">-0.19</metallicity>
+		<magV>15.108</magV>
+		<magJ errorminus="0.026" errorplus="0.026">12.912</magJ>
+		<magH errorminus="0.022" errorplus="0.022">12.236</magH>
+		<magK errorminus="0.018" errorplus="0.018">12.08</magK>
+		<temperature errorminus="40.61" errorplus="48.32">3931.0</temperature>
+		<age errorminus="1.590" errorplus="4.530">3.160</age>
+		<metallicity errorminus="0.084" errorplus="0.089">-0.19</metallicity>
 		<planet>
 			<name>Kepler-505 b</name>
+			<radius errorminus="0.008" errorplus="0.01">0.232</radius>
+			<period errorminus="3.295e-05" errorplus="3.295e-05">27.52197994</period>
 			<discoverymethod>transit</discoverymethod>
-			<list>Confirmed planets</list>
+			<transittime errorminus=".000880" errorplus="0.000880" unit="JD">2455022.823547</transittime>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
-			<istransiting>1</istransiting>
-			<new>1</new>
-			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000032950" errorplus="0.000032950">27.521979940</period>
-			<radius errorminus="0.008" errorplus="0.010">0.232</radius>
 		</planet>
 	</star>
 </system>

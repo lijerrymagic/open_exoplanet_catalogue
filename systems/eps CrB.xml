@@ -1,0 +1,33 @@
+<system>
+	<name>eps CrB</name>
+	<rightascension>15 57 35</rightascension>
+	<declination>+26 52 40</declination>
+	<distance errorminus="3.65" errorplus="3.31">70.42</distance>
+	<star>
+		<name>eps CrB</name>
+		<mass errorminus="0.1" errorplus="0.1">1.7</mass>
+		<radius>21.0</radius>
+		<magV>4.14</magV>
+		<magB>5.380</magB>
+		<magJ errorminus="0.260" errorplus="0.260">2.104</magJ>
+		<magH errorminus="0.160" errorplus="0.160">1.488</magH>
+		<magK errorminus="0.188" errorplus="0.188">1.349</magK>
+		<temperature errorminus="15.0" errorplus="15.0">4406.0</temperature>
+		<age errorminus="0.37" errorplus="0.37">1.74</age>
+		<metallicity errorminus="0.001" errorplus="0.001">-0.094</metallicity>
+		<spectraltype>K2III</spectraltype>
+		<planet>
+			<name>eps CrB b</name>
+			<mass errorminus="0.3" errorplus="0.3" type="Msini">6.7</mass>
+			<period errorminus="0.5" errorplus="0.5">417.9</period>
+			<semimajoraxis>1.3</semimajoraxis>
+			<eccentricity errorminus="0.03" errorplus="0.03">0.11</eccentricity>
+			<periastron errorminus="33.3" errorplus="33.3">133.1</periastron>
+			<periastrontime errorminus="39.7" errorplus="39.7">2451235.3</periastrontime>
+			<maximumrvtime errorminus="39.7" errorplus="39.7">2451235.3</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2012</discoveryyear>
+		</planet>
+	</star>
+</system>

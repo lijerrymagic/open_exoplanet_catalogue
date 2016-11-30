@@ -1,38 +1,33 @@
 <system>
 	<name>Kepler-421</name>
 	<rightascension>18 53 01</rightascension>
-	<declination>+45 05 16</declination>
-	<distance errorminus="20" errorplus="20">320</distance>
+	<declination>+45 05 15</declination>
+	<distance errorminus="20.00" errorplus="20.00">320.00</distance>
 	<star>
 		<name>Kepler-421</name>
-		<name>KIC 8800954</name>
 		<name>KOI-1274</name>
 		<mass errorminus="0.03" errorplus="0.03">0.794</mass>
 		<radius errorminus="0.029" errorplus="0.029">0.757</radius>
-		<temperature errorminus="50" errorplus="50">5308</temperature>
-		<magV errorminus="0.12" errorplus="0.12">5.9</magV>
+		<magV>13.354</magV>
 		<magJ errorminus="0.020" errorplus="0.020">12.009</magJ>
 		<magH errorminus="0.019" errorplus="0.019">11.619</magH>
 		<magK errorminus="0.017" errorplus="0.017">11.535</magK>
+		<temperature errorminus="50.0" errorplus="50.0">5308.0</temperature>
+		<age errorminus="0.8" errorplus="0.8">4.0</age>
 		<metallicity errorminus="0.08" errorplus="0.08">-0.25</metallicity>
-		<age errorminus="0.8" errorplus="0.8">4</age>
+		<spectraltype>G9/K0</spectraltype>
 		<planet>
 			<name>Kepler-421 b</name>
-			<name>KIC 8800954 b</name>
-			<name>KOI-1274.01</name>
-			<name>KOI-1274 b</name>
-			<list>Confirmed planets</list>
-			<radius errorminus="0.014581" errorplus="0.017315">0.379102</radius>
-			<temperature errorminus="4.8" errorplus="8.6">184</temperature>
+			<radius errorminus="0.0142742693804432" errorplus="0.0169506948892763">0.371131003891523</radius>
 			<period errorminus="0.0016" errorplus="0.0016">704.1984</period>
 			<semimajoraxis errorminus="0.106" errorplus="0.089">1.219</semimajoraxis>
 			<eccentricity errorminus="0.034" errorplus="0.095">0.041</eccentricity>
+			<periastron errorminus="120.0" errorplus="150.0">160.0</periastron>
 			<inclination errorminus="0.031" errorplus="0.024">89.965</inclination>
-			<periastron errorminus="120" errorplus="150">160</periastron>
-			<description>Kepler-421 b is an Uranus-sized exoplanet. The planet's location is beyond the snow-line, indicating that the planet may have formed at its observed location. Only two transits of Kepler-421 b have been recorded during Kepler's lifetime. The planetetary nature of the signal was confirmed using a statistical analysis and lightcurve modeling.</description>
+			<temperature errorminus="5" errorplus="9">185</temperature>
 			<discoverymethod>transit</discoverymethod>
-			<istransiting>1</istransiting>
-			<lastupdate>14/07/21</lastupdate>
+			<transittime errorminus=".001200" errorplus="0.001200" unit="BJD-UTC">2455325.767400</transittime>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

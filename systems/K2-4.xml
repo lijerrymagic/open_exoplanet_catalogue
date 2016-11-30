@@ -1,0 +1,30 @@
+<system>
+	<name>K2-4</name>
+	<rightascension>11 38 58</rightascension>
+	<declination>-03 54 20</declination>
+	<star>
+		<name>K2-4</name>
+		<name>EPIC 201208431</name>
+		<mass errorminus="0.03" errorplus="0.03">0.63</mass>
+		<radius errorminus="0.02" errorplus="0.02">0.6</radius>
+		<magV errorminus="0.030" errorplus="0.030">14.907</magV>
+		<magB errorminus="0.050" errorplus="0.050">16.229</magB>
+		<magJ errorminus="0.022" errorplus="0.022">12.367</magJ>
+		<magH errorminus="0.024" errorplus="0.024">11.747</magH>
+		<magK errorminus="0.023" errorplus="0.023">11.571</magK>
+		<temperature errorminus="43.0" errorplus="45.0">4197.0</temperature>
+		<metallicity errorminus="0.12" errorplus="0.1">-0.12</metallicity>
+		<planet>
+			<name>K2-4 b</name>
+			<name>EPIC-201208431 b</name>
+			<radius errorminus="0.036" errorplus="0.036">0.211</radius>
+			<period errorminus="0.00159" errorplus="0.00159">10.00329</period>
+			<semimajoraxis errorminus="0.0012" errorplus="0.0012">0.0777</semimajoraxis>
+			<temperature errorminus="11" errorplus="11">563</temperature>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".008000" errorplus="0.008000" unit="BJD">2456815.521200</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2015</discoveryyear>
+		</planet>
+	</star>
+</system>

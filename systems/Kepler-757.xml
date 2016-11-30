@@ -2,23 +2,26 @@
 	<name>Kepler-757</name>
 	<rightascension>19 46 43</rightascension>
 	<declination>+41 23 11</declination>
+	<distance errorminus="177.34" errorplus="349.26">1016.00</distance>
 	<star>
 		<name>Kepler-757</name>
-		<temperature errorminus="288.9" errorplus="221.1">6014.0</temperature>
 		<mass errorminus="0.11" errorplus="0.14">1.08</mass>
 		<radius errorminus="0.18" errorplus="0.38">1.13</radius>
-		<metallicity errorminus="0.16" errorplus="0.13">0.02</metallicity>
+		<magV>14.803</magV>
+		<magJ errorminus="0.027" errorplus="0.027">13.502</magJ>
+		<magH errorminus="0.035" errorplus="0.035">13.16</magH>
+		<magK errorminus="0.035" errorplus="0.035">13.043</magK>
+		<temperature errorminus="288.93" errorplus="221.13">6014.0</temperature>
+		<age errorminus="1.570" errorplus="2.210">3.310</age>
+		<metallicity errorminus="0.164" errorplus="0.129">0.02</metallicity>
 		<planet>
 			<name>Kepler-757 b</name>
+			<radius errorminus="0.02" errorplus="0.041">0.121</radius>
+			<period errorminus="2.44e-06" errorplus="2.44e-06">1.02267882</period>
 			<discoverymethod>transit</discoverymethod>
-			<list>Confirmed planets</list>
+			<transittime errorminus=".002040" errorplus="0.002040" unit="JD">2454966.455440</transittime>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
-			<istransiting>1</istransiting>
-			<new>1</new>
-			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000002440" errorplus="0.000002440">1.022678820</period>
-			<radius errorminus="0.020" errorplus="0.041">0.121</radius>
 		</planet>
 	</star>
 </system>

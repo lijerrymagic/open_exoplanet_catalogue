@@ -1,36 +1,33 @@
 <system>
 	<name>HD 62509</name>
 	<rightascension>07 45 18</rightascension>
-	<declination>+28 01 34</declination>
-	<distance>10.34</distance>
+	<declination>+28 01 33</declination>
+	<distance errorminus="0.09" errorplus="0.09">10.34</distance>
 	<star>
 		<name>HD 62509</name>
-		<name>Pollux</name>
-		<name>Beta Geminorum</name>
-		<name>Beta Gem</name>
-		<temperature>4666.0</temperature>
-		<mass>1.47</mass>
-		<radius>9.3</radius>
+		<mass errorminus="0.45" errorplus="0.45">1.47</mass>
+		<radius errorminus="0.09" errorplus="0.09">9.3</radius>
 		<magV>1.15</magV>
-		<magB>2.15</magB>
-		<magR>0.6</magR>
-		<magI>0.2</magI>
-		<metallicity>0.19</metallicity>
-		<spectraltype>K0IIIb</spectraltype>
+		<magB>2.140</magB>
+		<magJ errorminus="0.232" errorplus="0.232">-0.315</magJ>
+		<magH errorminus="0.178" errorplus="0.178">-0.845</magH>
+		<magK errorminus="0.160" errorplus="0.160">-0.936</magK>
+		<temperature errorminus="95.0" errorplus="95.0">4666.0</temperature>
+		<age errorminus="0.130" errorplus="0.130">0.980</age>
+		<metallicity errorminus="0.050" errorplus="0.050">0.19</metallicity>
+		<spectraltype> K0IIIb</spectraltype>
 		<planet>
 			<name>HD 62509 b</name>
-			<name>Pollux b</name>
-			<name>Beta Geminorum b</name>
-			<name>Beta Gem b</name>
-			<list>Confirmed planets</list>
-			<mass>2.9</mass>
-			<period>589.64</period>
-			<semimajoraxis>1.69</semimajoraxis>
-			<eccentricity>0.02</eccentricity>
+			<mass errorminus="0.1" errorplus="0.1" type="Msini">2.9</mass>
+			<period errorminus="0.81" errorplus="0.81">589.64</period>
+			<semimajoraxis errorminus="0.03" errorplus="0.03">1.69</semimajoraxis>
+			<eccentricity errorminus="0.03" errorplus="0.03">0.02</eccentricity>
+			<periastron errorminus="95.65" errorplus="95.65">354.58</periastron>
+			<periastrontime errorminus="4.5" errorplus="4.5">2447739.02</periastrontime>
+			<maximumrvtime errorminus="4.5" errorplus="4.5">2447739.02</maximumrvtime>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>06/07/11</lastupdate>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2006</discoveryyear>
-			<temperature>482.6</temperature>
 		</planet>
 	</star>
 </system>

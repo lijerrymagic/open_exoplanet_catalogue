@@ -1,0 +1,36 @@
+<system>
+	<name>EPIC 205117205</name>
+	<name>K2-33</name>
+	<rightascension>16 10 14</rightascension>
+	<declination>-19 19 09</declination>
+	<distance errorminus="15.00" errorplus="15.00">145.00</distance>
+	<star>
+		<name>EPIC 205117205</name>
+		<name>K2-33</name>
+		<mass errorminus="0.07" errorplus="0.11">0.54</mass>
+		<radius errorminus="0.07" errorplus="0.07">1.06</radius>
+		<magV errorminus="0.058" errorplus="0.058">16.0</magV>
+		<magB errorminus="0.138" errorplus="0.138">17.353</magB>
+		<magJ errorminus="0.023" errorplus="0.023">11.095</magJ>
+		<magH errorminus="0.021" errorplus="0.021">10.332</magH>
+		<magK errorminus="0.019" errorplus="0.019">10.026</magK>
+		<temperature errorminus="70.0" errorplus="70.0">3540.0</temperature>
+		<age errorminus="0.0014" errorplus="0.0011">0.0095</age>
+		<spectraltype>M3.3</spectraltype>
+		<planet>
+			<name>K2-33 b</name>
+			<name>EPIC 205117205 b</name>
+			<mass errorminus="3.59999" errorplus="0.0" type="Radial Velocity">3.6</mass>
+			<radius errorminus="0.033" errorplus="0.033">0.451</radius>
+			<period errorminus="0.00029" errorplus="0.00029">5.42513</period>
+			<semimajoraxis errorminus="0.0023" errorplus="0.0023">0.0409</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<periastron>0.0000</periastron>
+			<inclination errorminus="1.1" errorplus="0.6">89.1</inclination>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.0012" errorplus="0.0012" unit="BJD">2456898.69288</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

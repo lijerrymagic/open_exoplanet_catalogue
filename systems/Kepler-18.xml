@@ -1,81 +1,56 @@
 <system>
 	<name>Kepler-18</name>
-	<rightascension>19 52 19.067</rightascension>
-	<declination>+44 44 46.94</declination>
+	<rightascension>19 52 19</rightascension>
+	<declination>+44 44 47</declination>
 	<star>
 		<name>Kepler-18</name>
-		<name>KOI-137</name>
-		<name>KIC 8644288</name>
-		<temperature>5383.0</temperature>
-		<mass>0.972</mass>
-		<radius>1.108</radius>
-		<magV>14</magV>
-		<magR errorminus="0.06" errorplus="0.06">13.93</magR>
-		<magJ errorminus="0.03" errorplus="0.03">12.19</magJ>
+		<mass errorminus="0.042" errorplus="0.042">0.972</mass>
+		<radius errorminus="0.051" errorplus="0.051">1.108</radius>
+		<magV>14.0</magV>
+		<magJ errorminus="0.031" errorplus="0.031">12.189</magJ>
 		<magH errorminus="0.025" errorplus="0.025">11.873</magH>
 		<magK errorminus="0.019" errorplus="0.019">11.756</magK>
-		<metallicity>0.2</metallicity>
-		<planet>
-			<name>Kepler-18 b</name>
-			<name>KOI-137 b</name>
-			<name>KOI-137.03</name>
-			<name>GSC 03149-02089 b</name>
-			<name>KIC 8644288 b</name>
-			<name>2MASS J19521906+4444467 b</name>
-			<list>Confirmed planets</list>
-			<mass>0.0217</mass>
-			<radius>0.179</radius>
-			<period>3.504725</period>
-			<semimajoraxis>0.0447</semimajoraxis>
-			<inclination>84.92</inclination>
-			<transittime errorminus="0.0021" errorplus="0.0021" unit="BJD">2454966.5068</transittime>
-			<description>The Kepler-18 system is hosting at least three transiting planets. It was discovered with the Kepler satellite, and confirmed by a combination of large transit-timing variations, radial-velocity variations, Warm-Spitzer observations, and a statistical analysis of false-positive probabilities.</description>
-			<discoverymethod>transit</discoverymethod>
-			<lastupdate>11/10/05</lastupdate>
-			<discoveryyear>2011</discoveryyear>
-			<temperature>1181.7</temperature>
-			<istransiting>1</istransiting>
-		</planet>
+		<temperature errorminus="44.0" errorplus="44.0">5383.0</temperature>
+		<age errorminus="2.3" errorplus="2.3">10.0</age>
+		<metallicity errorminus="0.04" errorplus="0.04">0.2</metallicity>
 		<planet>
 			<name>Kepler-18 c</name>
-			<name>KOI-137 c</name>
-			<name>KOI-137.01</name>
-			<name>GSC 03149-02089 c</name>
-			<name>KIC 8644288 c</name>
-			<name>2MASS J19521906+4444467 c</name>
-			<list>Confirmed planets</list>
-			<mass>0.054</mass>
-			<radius>0.49</radius>
-			<period>7.64159</period>
-			<semimajoraxis>0.0752</semimajoraxis>
-			<inclination>87.68</inclination>
-			<transittime errorminus="0.0023" errorplus="0.0023" unit="BJD">2455167.0883</transittime>
-			<description>The Kepler-18 system is hosting at least three transiting planets. It was discovered with the Kepler satellite, and confirmed by a combination of large transit-timing variations, radial-velocity variations, Warm-Spitzer observations, and a statistical analysis of false-positive probabilities.</description>
+			<mass errorminus="0.00597803857408048" errorplus="0.00597803857408048" type="Mass">0.0541169807758865</mass>
+			<radius errorminus="0.0223035459069425" errorplus="0.0223035459069425">0.488893726280179</radius>
+			<period errorminus="3e-05" errorplus="3e-05">7.64159</period>
+			<semimajoraxis errorminus="0.0011" errorplus="0.0011">0.0752</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="0.22" errorplus="0.22">87.68</inclination>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>11/10/05</lastupdate>
+			<transittime errorminus="0.0023" errorplus="0.0023" unit="BJD">2455167.0883</transittime>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-			<temperature>911.1</temperature>
-			<istransiting>1</istransiting>
 		</planet>
 		<planet>
 			<name>Kepler-18 d</name>
-			<name>KOI-137 d</name>
-			<name>KOI-137.02</name>
-			<name>KIC 8644288 d</name>
-			<name>KIC 8644288.02</name>
-			<list>Confirmed planets</list>
-			<mass>0.052</mass>
-			<radius>0.62</radius>
-			<period>14.85888</period>
-			<semimajoraxis>0.1172</semimajoraxis>
-			<inclination>88.07</inclination>
-			<transittime errorminus="0.0013" errorplus="0.0013" unit="BJD">2455169.1776</transittime>
-			<description>The Kepler-18 system is hosting at least three transiting planets. It was discovered with the Kepler satellite, and confirmed by a combination of large transit-timing variations, radial-velocity variations, Warm-Spitzer observations, and a statistical analysis of false-positive probabilities.</description>
+			<mass errorminus="0.00437340716735362" errorplus="0.00437340716735362" type="Mass">0.0512852782934273</mass>
+			<radius errorminus="0.0285485387608864" errorplus="0.0285485387608864">0.621822859885556</radius>
+			<period errorminus="4e-05" errorplus="4e-05">14.85888</period>
+			<semimajoraxis errorminus="0.0017" errorplus="0.0017">0.1172</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="0.1" errorplus="0.1">88.07</inclination>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>11/10/05</lastupdate>
+			<transittime errorminus="0.0013" errorplus="0.0013" unit="BJD">2455169.1776</transittime>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-			<temperature>729.8</temperature>
-			<istransiting>1</istransiting>
+		</planet>
+		<planet>
+			<name>Kepler-18 b</name>
+			<mass errorminus="0.0109492495988421" errorplus="0.0109492495988421" type="Mass">0.0216153289494384</mass>
+			<radius errorminus="0.00802927652649929" errorplus="0.00802927652649929">0.17842836725554</radius>
+			<period errorminus="2.8e-05" errorplus="2.8e-05">3.504725</period>
+			<semimajoraxis errorminus="0.0006" errorplus="0.0006">0.0447</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="0.26" errorplus="0.26">84.92</inclination>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.0021" errorplus="0.0021" unit="BJD">2454966.5068</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2011</discoveryyear>
 		</planet>
 	</star>
 </system>

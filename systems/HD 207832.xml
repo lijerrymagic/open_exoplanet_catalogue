@@ -1,45 +1,42 @@
 <system>
 	<name>HD 207832</name>
-	<rightascension>21 52 35</rightascension>
-	<declination>-26 49 44</declination>
-	<distance>54.4</distance>
+	<rightascension>21 52 36</rightascension>
+	<declination>-26 01 36</declination>
+	<distance errorminus="3.90" errorplus="3.42">55.31</distance>
 	<star>
-		<mass>0.94</mass>
-		<radius>0.901</radius>
-		<magV>5.11</magV>
-		<magB errorminus="0.02" errorplus="0.02">9.48</magB>
+		<name>HD 207832</name>
+		<mass errorminus="0.1" errorplus="0.1">0.94</mass>
+		<radius errorminus="0.056" errorplus="0.056">0.901</radius>
+		<magV errorminus="0.014" errorplus="0.014">8.7986</magV>
+		<magB errorminus="0.021" errorplus="0.021">9.481</magB>
 		<magJ errorminus="0.018" errorplus="0.018">7.587</magJ>
 		<magH errorminus="0.024" errorplus="0.024">7.297</magH>
 		<magK errorminus="0.017" errorplus="0.017">7.207</magK>
+		<temperature errorminus="81.0" errorplus="81.0">5710.0</temperature>
+		<age errorminus="0.0" errorplus="4.5">4.5</age>
 		<metallicity>0.06</metallicity>
 		<spectraltype>G5V</spectraltype>
 		<planet>
 			<name>HD 207832 b</name>
-			<list>Confirmed planets</list>
-			<mass>0.56</mass>
-			<period>161.97</period>
-			<semimajoraxis>0.570</semimajoraxis>
-			<eccentricity>0.13</eccentricity>
-			<description>The planetary system HD 207832 was discovered with radial velocity measurements from Keck/HIRES. It consists of two gas giants. Additional small mass planets might exists interior to planet b, according to a stability analysis.</description>
+			<mass errorminus="0.03" errorplus="0.06" type="Msini">0.56</mass>
+			<period errorminus="0.78" errorplus="0.97">161.97</period>
+			<semimajoraxis errorminus="0.002" errorplus="0.002">0.57</semimajoraxis>
+			<eccentricity errorminus="0.05" errorplus="0.18">0.13</eccentricity>
+			<periastron errorminus="83.4" errorplus="23.9">130.8</periastron>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/07/13</lastupdate>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2012</discoveryyear>
-			<temperature>316.5</temperature>
 		</planet>
 		<planet>
 			<name>HD 207832 c</name>
-			<list>Confirmed planets</list>
-			<mass>0.73</mass>
-			<period>1155.7</period>
-			<semimajoraxis>2.112</semimajoraxis>
-			<eccentricity>0.27</eccentricity>
-			<description>The planetary system HD 207832 was discovered with radial velocity measurements from Keck/HIRES. It consists of two gas giants. Additional small mass planets might exists interior to planet b, according to a stability analysis.</description>
+			<mass errorminus="0.05" errorplus="0.18" type="Msini">0.73</mass>
+			<period errorminus="37.0" errorplus="71.9">1155.7</period>
+			<semimajoraxis errorminus="0.045" errorplus="0.087">2.112</semimajoraxis>
+			<eccentricity errorminus="0.1" errorplus="0.22">0.27</eccentricity>
+			<periastron errorminus="76.5" errorplus="32.4">121.6</periastron>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/07/13</lastupdate>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2012</discoveryyear>
-			<temperature>164.4</temperature>
 		</planet>
-		<name>HD 207832</name>
-		<temperature>5710.0</temperature>
 	</star>
 </system>

@@ -1,24 +1,27 @@
 <system>
 	<name>Kepler-1008</name>
 	<rightascension>19 46 11</rightascension>
-	<declination>+44 56 31</declination>
+	<declination>+44 56 30</declination>
+	<distance errorminus="11.49" errorplus="13.18">299.00</distance>
 	<star>
 		<name>Kepler-1008</name>
-		<temperature errorminus="66.8" errorplus="79.9">5066.0</temperature>
 		<mass errorminus="0.03" errorplus="0.03">0.81</mass>
 		<radius errorminus="0.03" errorplus="0.03">0.78</radius>
-		<metallicity errorminus="0.10" errorplus="0.10">-0.01</metallicity>
+		<magV>13.395</magV>
+		<magJ errorminus="0.021" errorplus="0.021">11.93</magJ>
+		<magH errorminus="0.017" errorplus="0.017">11.46</magH>
+		<magK errorminus="0.012" errorplus="0.012">11.378</magK>
+		<temperature errorminus="66.82" errorplus="79.91">5066.0</temperature>
+		<age errorminus="4.000" errorplus="5.150">6.760</age>
+		<metallicity errorminus="0.102" errorplus="0.102">-0.01</metallicity>
 		<planet>
 			<name>Kepler-1008 b</name>
-			<discoverymethod>transit</discoverymethod>
-			<list>Confirmed planets</list>
-			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
-			<istransiting>1</istransiting>
-			<new>1</new>
-			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000028370" errorplus="0.000028370">12.439311930</period>
 			<radius errorminus="0.004" errorplus="0.006">0.114</radius>
+			<period errorminus="2.837e-05" errorplus="2.837e-05">12.43931193</period>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".001870" errorplus="0.001870" unit="JD">2454969.377810</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>
 </system>

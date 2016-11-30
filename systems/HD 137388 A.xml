@@ -1,0 +1,33 @@
+<system>
+	<name>HD 137388 A</name>
+	<rightascension>15 35 39</rightascension>
+	<declination>-80 12 16</declination>
+	<distance errorminus="2.99" errorplus="2.59">38.45</distance>
+	<star>
+		<name>HD 137388 A</name>
+		<mass>0.86</mass>
+		<radius>0.82</radius>
+		<magV errorminus="0.013" errorplus="0.013">8.696</magV>
+		<magB errorminus="0.020" errorplus="0.020">9.590</magB>
+		<magJ errorminus="0.024" errorplus="0.024">7.230</magJ>
+		<magH errorminus="0.024" errorplus="0.024">6.867</magH>
+		<magK errorminus="0.022" errorplus="0.022">6.763</magK>
+		<temperature errorminus="53.00" errorplus="53.00">5240.00</temperature>
+		<age errorminus="0.740" errorplus="0.740">6.450</age>
+		<metallicity errorminus="0.030" errorplus="0.030">0.180</metallicity>
+		<spectraltype>K2 IV</spectraltype>
+		<planet>
+			<name>HD 137388 A b</name>
+			<mass errorminus="0.02900" errorplus="0.02900" type="Msini">0.22300</mass>
+			<period errorminus="4.00000000" errorplus="2.00000000">330.00000000</period>
+			<semimajoraxis errorminus="0.020000" errorplus="0.020000">0.890000</semimajoraxis>
+			<eccentricity errorminus="0.120000" errorplus="0.120000">0.360000</eccentricity>
+			<periastron errorminus="35.0000" errorplus="23.0000">86.0000</periastron>
+			<periastrontime errorminus="28.000000" errorplus="23.000000">2455209.000000</periastrontime>
+			<maximumrvtime errorminus="28.000000" errorplus="23.000000">2455209.000000</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2011</discoveryyear>
+		</planet>
+	</star>
+</system>

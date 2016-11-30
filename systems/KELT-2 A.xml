@@ -1,0 +1,28 @@
+<system>
+	<name>KELT-2 A</name>
+	<declination>+30 57 25</declination>
+	<star>
+		<name>KELT-2 A</name>
+		<mass errorminus="0.03" errorplus="0.03">1.31</mass>
+		<radius errorminus="0.071" errorplus="0.071">1.842</radius>
+		<magV>8.7</magV>
+		<temperature errorminus="49.0" errorplus="49.0">6148.0</temperature>
+		<metallicity errorminus="0.071" errorplus="0.071">-0.015</metallicity>
+		<spectraltype>F7V</spectraltype>
+		<planet>
+			<name>KELT-2A b</name>
+			<mass errorminus="0.088" errorplus="0.088">1.486</mass>
+			<radius errorminus="0.067" errorplus="0.067">1.306</radius>
+			<period errorminus="1e-05" errorplus="1e-05">4.1137914</period>
+			<semimajoraxis errorminus="0.0004" errorplus="0.0004">0.05498</semimajoraxis>
+			<eccentricity errorminus="0.08" errorplus="0.08">0.185</eccentricity>
+			<periastron errorminus="110.0" errorplus="110.0">160.0</periastron>
+			<periastrontime errorminus="1.2" errorplus="1.2">2455974.83</periastrontime>
+			<maximumrvtime errorminus="1.2" errorplus="1.2">2455974.83</maximumrvtime>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.00084" errorplus="0.00084">2455974.60356</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2012</discoveryyear>
+		</planet>
+	</star>
+</system>

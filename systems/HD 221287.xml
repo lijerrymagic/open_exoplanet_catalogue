@@ -1,30 +1,32 @@
 <system>
 	<name>HD 221287</name>
 	<rightascension>23 31 20</rightascension>
-	<declination>-58 12 35</declination>
-	<distance>52.9</distance>
+	<declination>-58 12 34</declination>
+	<distance errorminus="2.40" errorplus="2.20">52.88</distance>
 	<star>
-		<mass>1.25</mass>
-		<magV>7.82</magV>
-		<magJ errorminus="0.02" errorplus="0.02">6.843</magJ>
+		<name>HD 221287</name>
+		<mass errorminus="0.1" errorplus="0.1">1.25</mass>
+		<magV errorminus="0.010" errorplus="0.010">7.82</magV>
+		<magB errorminus="0.015" errorplus="0.015">8.312</magB>
+		<magJ errorminus="0.020" errorplus="0.020">6.843</magJ>
 		<magH errorminus="0.033" errorplus="0.033">6.616</magH>
-		<magK errorminus="0.02" errorplus="0.02">6.569</magK>
-		<magB errorminus="0.01" errorplus="0.01">8.31</magB>
-		<metallicity>0.03</metallicity>
+		<magK errorminus="0.020" errorplus="0.020">6.569</magK>
+		<temperature errorminus="45.0" errorplus="45.0">6304.0</temperature>
+		<age>1.3</age>
+		<metallicity errorminus="0.05" errorplus="0.05">0.03</metallicity>
 		<spectraltype>F7 V</spectraltype>
 		<planet>
 			<name>HD 221287 b</name>
-			<list>Confirmed planets</list>
-			<mass>3.09</mass>
-			<period>456.1</period>
-			<semimajoraxis>1.25</semimajoraxis>
-			<eccentricity>0.08</eccentricity>
+			<mass errorminus="0.79" errorplus="0.79" type="Msini">3.09</mass>
+			<period errorminus="7.7" errorplus="7.7">456.1</period>
+			<semimajoraxis errorminus="0.04" errorplus="0.04">1.25</semimajoraxis>
+			<eccentricity errorminus="0.17" errorplus="0.17">0.08</eccentricity>
+			<periastron errorminus="92.0" errorplus="92.0">98.0</periastron>
+			<periastrontime errorminus="52.0" errorplus="99.0">2453263.0</periastrontime>
+			<maximumrvtime errorminus="52.0" errorplus="99.0">2453263.0</maximumrvtime>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/28</lastupdate>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2007</discoveryyear>
-			<temperature>259.0</temperature>
 		</planet>
-		<name>HD 221287</name>
-		<temperature>6304.0</temperature>
 	</star>
 </system>

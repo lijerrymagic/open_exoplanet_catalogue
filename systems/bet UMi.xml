@@ -1,0 +1,33 @@
+<system>
+	<name>bet UMi</name>
+	<rightascension>14 50 42</rightascension>
+	<declination>+74 09 19</declination>
+	<distance errorminus="0.80" errorplus="0.77">38.78</distance>
+	<star>
+		<name>bet UMi</name>
+		<mass errorminus="0.20" errorplus="0.20">1.40</mass>
+		<radius errorminus="1.10" errorplus="1.10">38.30</radius>
+		<magV>2.080</magV>
+		<magB>3.550</magB>
+		<magJ errorminus="0.194" errorplus="0.194">-0.495</magJ>
+		<magH errorminus="0.184" errorplus="0.184">-1.225</magH>
+		<magK errorminus="0.204" errorplus="0.204">-1.287</magK>
+		<temperature errorminus="25.00" errorplus="25.00">4126.00</temperature>
+		<age errorminus="1.030" errorplus="1.030">2.950</age>
+		<metallicity errorminus="0.070" errorplus="0.070">-0.270</metallicity>
+		<spectraltype>K4 III</spectraltype>
+		<planet>
+			<name>bet UMi b</name>
+			<mass errorminus="1.00000" errorplus="1.00000" type="Msini">6.10000</mass>
+			<period errorminus="2.70000000" errorplus="2.70000000">522.30000000</period>
+			<semimajoraxis errorminus="0.100000" errorplus="0.100000">1.400000</semimajoraxis>
+			<eccentricity errorminus="0.020000" errorplus="0.020000">0.190000</eccentricity>
+			<periastron errorminus="2.8000" errorplus="2.8000">307.4000</periastron>
+			<periastrontime errorminus="4.600000" errorplus="4.600000">2453175.300000</periastrontime>
+			<maximumrvtime errorminus="4.600000" errorplus="4.600000">2453175.300000</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2014</discoveryyear>
+		</planet>
+	</star>
+</system>

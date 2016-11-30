@@ -2,31 +2,32 @@
 	<name>HD 7199</name>
 	<rightascension>01 10 47</rightascension>
 	<declination>-66 11 17</declination>
-	<distance>36</distance>
+	<distance errorminus="0.91" errorplus="0.87">35.88</distance>
 	<star>
+		<name>HD 7199</name>
 		<mass>0.89</mass>
 		<radius>0.96</radius>
-		<magV>8.06</magV>
-		<magB errorminus="0.02" errorplus="0.02">8.89</magB>
+		<magV errorminus="0.011" errorplus="0.011">8.06</magV>
+		<magB errorminus="0.017" errorplus="0.017">8.892</magB>
 		<magJ errorminus="0.024" errorplus="0.024">6.664</magJ>
 		<magH errorminus="0.029" errorplus="0.029">6.329</magH>
 		<magK errorminus="0.018" errorplus="0.018">6.229</magK>
-		<metallicity>0.28</metallicity>
-		<spectraltype>K0IV/V</spectraltype>
+		<temperature errorminus="45.0" errorplus="45.0">5386.0</temperature>
+		<age errorminus="0.78" errorplus="0.78">6.79</age>
+		<metallicity errorminus="0.03" errorplus="0.03">0.28</metallicity>
+		<spectraltype>KOIV/V</spectraltype>
 		<planet>
 			<name>HD 7199 b</name>
-			<list>Confirmed planets</list>
-			<mass>0.29</mass>
-			<period>615</period>
-			<semimajoraxis>1.36</semimajoraxis>
-			<eccentricity>0.19</eccentricity>
-			<description>HD 7199 b was found with the European High Accuracy Radial velocity Planet Searcher (HARPS) which can reach sub-meter-per-second precision. The host star shows evidence for long-term solar-like magnetic cycles.</description>
+			<mass errorminus="0.023" errorplus="0.023" type="Msini">0.29</mass>
+			<period errorminus="7.0" errorplus="7.0">615.0</period>
+			<semimajoraxis errorminus="0.02" errorplus="0.02">1.36</semimajoraxis>
+			<eccentricity errorminus="0.13" errorplus="0.13">0.19</eccentricity>
+			<periastron errorminus="64.0" errorplus="64.0">155.0</periastron>
+			<periastrontime errorminus="277.0" errorplus="277.0">2455030.0</periastrontime>
+			<maximumrvtime errorminus="277.0" errorplus="277.0">2455030.0</maximumrvtime>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/08/02</lastupdate>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-			<temperature>199.1</temperature>
 		</planet>
-		<name>HD 7199</name>
-		<temperature>5386.0</temperature>
 	</star>
 </system>

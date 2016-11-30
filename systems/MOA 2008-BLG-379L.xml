@@ -1,0 +1,19 @@
+<system>
+	<name>MOA 2008-BLG-379L</name>
+	<rightascension>17 58 49</rightascension>
+	<declination>-30 11 49</declination>
+	<distance errorminus="1200.00" errorplus="1300.00">3300.00</distance>
+	<star>
+		<name>MOA 2008-BLG-379L</name>
+		<mass errorminus="0.27" errorplus="0.24">0.56</mass>
+		<spectraltype>K</spectraltype>
+		<planet>
+			<name>MOA 2008-BLG-379L b</name>
+			<mass errorminus="1.90000" errorplus="1.70000" type="Mass">4.10000</mass>
+			<semimajoraxis errorminus="1.200000" errorplus="1.700000">3.300000</semimajoraxis>
+			<discoverymethod>microlensing</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2013</discoveryyear>
+		</planet>
+	</star>
+</system>

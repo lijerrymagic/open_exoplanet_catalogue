@@ -1,0 +1,42 @@
+<system>
+	<name>GJ 832</name>
+	<rightascension>21 33 33</rightascension>
+	<declination>-49 00 32</declination>
+	<distance errorminus="0.03" errorplus="0.03">4.94</distance>
+	<star>
+		<name>GJ 832</name>
+		<mass errorminus="0.05" errorplus="0.05">0.45</mass>
+		<magV>8.67</magV>
+		<magB errorminus="0.021" errorplus="0.021">10.180</magB>
+		<magJ errorminus="0.032" errorplus="0.032">5.349</magJ>
+		<magH errorminus="0.256" errorplus="0.256">4.766</magH>
+		<magK errorminus="0.018" errorplus="0.018">4.501</magK>
+		<temperature>3472.00</temperature>
+		<metallicity errorminus="0.2" errorplus="0.2">-0.31</metallicity>
+		<spectraltype>M1.5</spectraltype>
+		<planet>
+			<name>GJ 832 c</name>
+			<mass errorminus="0.00975364188402605" errorplus="0.00975364188402605" type="Msini">0.0157316804581065</mass>
+			<period errorminus="0.15" errorplus="0.15">35.67</period>
+			<semimajoraxis errorminus="0.017" errorplus="0.017">0.162</semimajoraxis>
+			<eccentricity errorminus="0.22" errorplus="0.03">0.03</eccentricity>
+			<periastron errorminus="280.0" errorplus="80.0">80.0</periastron>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2014</discoveryyear>
+		</planet>
+		<planet>
+			<name>GJ 832 b</name>
+			<mass errorminus="0.160463140672687" errorplus="0.160463140672687" type="Msini">0.689047604065</mass>
+			<period errorminus="131.0" errorplus="131.0">3416.0</period>
+			<semimajoraxis errorminus="0.36" errorplus="0.36">3.6</semimajoraxis>
+			<eccentricity errorminus="0.08" errorplus="0.08">0.08</eccentricity>
+			<periastron errorminus="58.0" errorplus="100.0">246.0</periastron>
+			<periastrontime errorminus="353.0" errorplus="353.0">2451211.0</periastrontime>
+			<maximumrvtime errorminus="353.0" errorplus="353.0">2451211.0</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2008</discoveryyear>
+		</planet>
+	</star>
+</system>

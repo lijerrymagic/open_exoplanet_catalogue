@@ -1,24 +1,27 @@
 <system>
 	<name>Kepler-701</name>
-	<rightascension>19 15 59</rightascension>
-	<declination>+41 37 60</declination>
+	<rightascension>19 15 58</rightascension>
+	<declination>+41 37 59</declination>
+	<distance errorminus="47.36" errorplus="60.84">755.00</distance>
 	<star>
 		<name>Kepler-701</name>
-		<temperature errorminus="88.5" errorplus="73.6">5343.0</temperature>
 		<mass errorminus="0.05" errorplus="0.04">0.88</mass>
 		<radius errorminus="0.05" errorplus="0.07">0.84</radius>
-		<metallicity errorminus="0.17" errorplus="0.15">0.00</metallicity>
+		<magV>15.018</magV>
+		<magJ errorminus="0.026" errorplus="0.026">13.656</magJ>
+		<magH errorminus="0.030" errorplus="0.030">13.279</magH>
+		<magK errorminus="0.033" errorplus="0.033">13.141</magK>
+		<temperature errorminus="88.55" errorplus="73.58">5343.0</temperature>
+		<age errorminus="2.740" errorplus="6.200">4.470</age>
+		<metallicity errorminus="0.172" errorplus="0.149">0.0</metallicity>
 		<planet>
 			<name>Kepler-701 b</name>
+			<radius errorminus="0.04" errorplus="0.02">0.253</radius>
+			<period errorminus="2.064e-05" errorplus="2.064e-05">10.35533177</period>
 			<discoverymethod>transit</discoverymethod>
-			<list>Confirmed planets</list>
+			<transittime errorminus=".001490" errorplus="0.001490" unit="JD">2455003.936850</transittime>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
-			<istransiting>1</istransiting>
-			<new>1</new>
-			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000020640" errorplus="0.000020640">10.355331770</period>
-			<radius errorminus="0.040" errorplus="0.020">0.253</radius>
 		</planet>
 	</star>
 </system>

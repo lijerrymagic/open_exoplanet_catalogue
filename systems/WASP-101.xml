@@ -1,40 +1,32 @@
 <system>
 	<name>WASP-101</name>
 	<rightascension>06 33 24</rightascension>
-	<declination>-23 29 10</declination>
+	<declination>-23 29 09</declination>
 	<star>
 		<name>WASP-101</name>
-		<name>1SWASP J063324.26-232910.2</name>
-		<name>2MASS 06332426-2329103</name>
 		<mass errorminus="0.07" errorplus="0.07">1.34</mass>
 		<radius errorminus="0.04" errorplus="0.04">1.29</radius>
-		<temperature errorminus="110" errorplus="110">6400</temperature>
-		<metallicity errorminus="0.12" errorplus="0.12">0.2</metallicity>
-		<age>0.9</age>
-		<spectraltype>F6</spectraltype>
 		<magV>10.3</magV>
-		<magB errorminus="0.04" errorplus="0.04">10.78</magB>
-		<magJ errorminus="0.024" errorplus="0.024">9.334</magJ>
-		<magH errorminus="0.022" errorplus="0.022">9.124</magH>
-		<magK errorminus="0.025" errorplus="0.025">9.075</magK>
+		<magJ errorminus="0.021" errorplus="0.021">9.334</magJ>
+		<magH errorminus="0.020" errorplus="0.020">9.124</magH>
+		<magK errorminus="0.023" errorplus="0.023">9.075</magK>
+		<temperature errorminus="110.0" errorplus="110.0">6400.0</temperature>
+		<age errorminus="0.4" errorplus="1.3">0.9</age>
+		<metallicity errorminus="0.12" errorplus="0.12">0.2</metallicity>
+		<spectraltype>F6</spectraltype>
 		<planet>
 			<name>WASP-101 b</name>
-			<name>1SWASP J063324.26-232910.2 b</name>
-			<name>2MASS 06332426-2329103 b</name>
-			<list>Confirmed planets</list>
-			<mass errorminus="0.04" errorplus="0.04">0.5</mass>
+			<mass errorminus="0.004" errorplus="0.004" type="Mass">0.5</mass>
 			<radius errorminus="0.05" errorplus="0.05">1.41</radius>
-			<temperature errorminus="35" errorplus="35">1560</temperature>
-			<period errorminus="0.000004" errorplus="0.000004">3.585722</period>
-			<transittime errorminus="0.0002" errorplus="0.0002" unit="HJD">2456164.6934</transittime>
+			<period errorminus="4e-06" errorplus="4e-06">3.585722</period>
 			<semimajoraxis errorminus="0.0009" errorplus="0.0009">0.0506</semimajoraxis>
-			<eccentricity upperlimit="0.03" />
-			<inclination errorminus="0.2" errorplus="0.2">85</inclination>
-			<description>This is a hot Jupiter discovered by the WASP team.</description>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="0.2" errorplus="0.2">85.0</inclination>
+			<temperature errorminus="35" errorplus="35">1560.0</temperature>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/10/22</lastupdate>
+			<transittime errorminus="0.0002" errorplus="0.0002" unit="HJD-UTC">2456164.6934</transittime>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2013</discoveryyear>
-			<istransiting>1</istransiting>
 		</planet>
 	</star>
 </system>

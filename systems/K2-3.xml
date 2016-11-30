@@ -1,0 +1,75 @@
+<system>
+	<name>K2-3</name>
+	<rightascension>11 29 20</rightascension>
+	<declination>-01 27 17</declination>
+	<distance errorminus="2.00" errorplus="2.00">42.00</distance>
+	<star>
+		<name>K2-3</name>
+		<name>EPIC 201367065</name>
+		<mass errorminus="0.086" errorplus="0.086">0.612</mass>
+		<radius errorminus="0.041" errorplus="0.041">0.553</radius>
+		<magV errorminus="0.010" errorplus="0.010">12.17</magV>
+		<magB errorminus="0.060" errorplus="0.060">10.999</magB>
+		<magJ errorminus="0.027" errorplus="0.027">9.421</magJ>
+		<magH errorminus="0.044" errorplus="0.044">8.805</magH>
+		<magK errorminus="0.023" errorplus="0.023">8.561</magK>
+		<temperature errorminus="38.0" errorplus="33.0">3951.0</temperature>
+		<age errorminus="nan" errorplus="inf">1.0</age>
+		<metallicity errorminus="0.06" errorplus="0.07">-0.3</metallicity>
+		<spectraltype>M0.0V</spectraltype>
+		<planet>
+			<name>K2-3 c</name>
+			<mass errorminus="0.0041" errorplus="0.0066" type="Radial Velocity">0.0066</mass>
+			<radius errorminus="0.024" errorplus="0.024">0.165</radius>
+			<period errorminus="0.00117" errorplus="0.00117">24.64354</period>
+			<semimajoraxis errorminus="0.0067" errorplus="0.0067">0.1405</semimajoraxis>
+			<eccentricity errorminus="0.04" errorplus="0.04">0.04</eccentricity>
+			<inclination errorminus="0.2" errorplus="0.2">89.7</inclination>
+			<temperature errorminus="29" errorplus="29">344.0</temperature>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.0027" errorplus="0.0027" unit="BJD-TDB">2456812.2786</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2015</discoveryyear>
+		</planet>
+		<planet>
+			<name>K2-3 b</name>
+			<radius errorminus="0.027" errorplus="0.027">0.194</radius>
+			<period errorminus="0.00026000" errorplus="0.00026000">10.05449000</period>
+			<semimajoraxis errorminus="0.003900" errorplus="0.003900">0.076900</semimajoraxis>
+			<inclination errorminus="1.120" errorplus="0.840">88.800</inclination>
+			<temperature errorminus="39" errorplus="39">463</temperature>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".001100" errorplus="0.001100" unit="BJD-TDB">2456813.417300</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2015</discoveryyear>
+		</planet>
+		<planet>
+			<name>K2-3 d</name>
+			<mass errorminus="0.011" errorplus="0.011" type="Radial Velocity">0.0349</mass>
+			<radius errorminus="0.021" errorplus="0.021">0.135</radius>
+			<period errorminus="0.0059" errorplus="0.0059">44.5598</period>
+			<semimajoraxis errorminus="0.01" errorplus="0.01">0.2086</semimajoraxis>
+			<eccentricity errorminus="0.045" errorplus="0.045">0.045</eccentricity>
+			<inclination errorminus="0.15" errorplus="0.15">89.79</inclination>
+			<temperature errorminus="24" errorplus="24">282.0</temperature>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.0037" errorplus="0.0043" unit="BJD-TDB">2456826.2232</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2015</discoveryyear>
+		</planet>
+		<planet>
+			<name>K2-3  b</name>
+			<mass errorminus="0.0066" errorplus="0.0066" type="Radial Velocity">0.026</mass>
+			<radius errorminus="0.03" errorplus="0.03">0.194</radius>
+			<period errorminus="0.00026" errorplus="0.00026">10.05449</period>
+			<semimajoraxis errorminus="0.0039" errorplus="0.0039">0.0775</semimajoraxis>
+			<eccentricity errorminus="0.06" errorplus="0.06">0.06</eccentricity>
+			<inclination errorminus="0.4" errorplus="0.24">89.59</inclination>
+			<temperature>463.0</temperature>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.0011" errorplus="0.0011">2455813.4189</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2015</discoveryyear>
+		</planet>
+	</star>
+</system>

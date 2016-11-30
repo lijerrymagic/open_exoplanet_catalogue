@@ -1,0 +1,27 @@
+<system>
+	<name>WASP-92</name>
+	<declination>+51 02 28</declination>
+	<star>
+		<name>WASP-92</name>
+		<mass errorminus="0.037" errorplus="0.037">1.19</mass>
+		<radius errorminus="0.058" errorplus="0.058">1.341</radius>
+		<magV>13.18</magV>
+		<temperature errorminus="120.0" errorplus="120.0">6280.0</temperature>
+		<metallicity errorminus="0.14" errorplus="0.14">0.0</metallicity>
+		<spectraltype>F7</spectraltype>
+		<planet>
+			<name>wasp-92 b</name>
+			<mass errorminus="0.068" errorplus="0.068" type="Radial Velocity">0.805</mass>
+			<radius errorminus="0.077" errorplus="0.077">1.461</radius>
+			<period errorminus="1.6e-06" errorplus="1.6e-06">2.1746742</period>
+			<semimajoraxis errorminus="0.00036" errorplus="0.00036">0.0348</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="0.69" errorplus="0.69">83.75</inclination>
+			<temperature>1871.0</temperature>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.00027" errorplus="0.00027">2456381.2834</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

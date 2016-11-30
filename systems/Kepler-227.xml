@@ -1,51 +1,35 @@
 <system>
 	<name>Kepler-227</name>
-	<name>KOI-752</name>
-	<name>KIC 10797460</name>
 	<rightascension>19 27 44</rightascension>
 	<declination>+48 08 29</declination>
-	<distance>1481.07</distance>
 	<star>
-		<magJ errorminus="0.025" errorplus="0.025">14.082</magJ>
-		<magH errorminus="0.03" errorplus="0.03">13.75</magH>
-		<magK errorminus="0.05" errorplus="0.05">13.65</magK>
 		<name>Kepler-227</name>
-		<name>KOI-752</name>
-		<name>KIC 10797460</name>
-		<temperature errorminus="200" errorplus="200">5854</temperature>
-		<radius errorminus=".547" errorplus="0.547">1.091</radius>
-		<mass errorminus="0.1100" errorplus="0.1100">0.9200</mass>
+		<radius errorminus="0.55" errorplus="0.55">1.09</radius>
+		<magV>15.347</magV>
+		<magJ errorminus="0.025" errorplus="0.025">14.082</magJ>
+		<magH errorminus="0.030" errorplus="0.030">13.751</magH>
+		<magK errorminus="0.054" errorplus="0.054">13.648</magK>
+		<temperature errorminus="200.0" errorplus="200.0">5854.0</temperature>
+		<metallicity>0.136</metallicity>
 		<planet>
 			<name>Kepler-227 b</name>
-			<name>KOI-752 b</name>
-			<name>KOI-752.01</name>
-			<name>KIC 10797460 b</name>
-			<name>KIC 10797460.01</name>
-			<radius errorminus="0.05194" errorplus="0.14307">0.28342</radius>
-			<period errorminus=".000039" errorplus="0.000039">9.488015</period>
-			<transittime errorminus="0.0024000" errorplus="0.0024000">2455003.5389900</transittime>
-			<list>Confirmed planets</list>
-			<description>Kepler-227 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-227 b are still unknown, the object is highly unlikely to be a false positive.</description>
-			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<radius errorminus="0.14" errorplus="0.14">0.277</radius>
+			<period errorminus="3.9e-05" errorplus="3.9e-05">9.488015</period>
+			<semimajoraxis>0.09</semimajoraxis>
 			<discoverymethod>transit</discoverymethod>
-			<istransiting>1</istransiting>
+			<transittime errorminus=".002400" errorplus="0.002400" unit="BJD">2455003.538990</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
 			<name>Kepler-227 c</name>
-			<name>KOI-752 c</name>
-			<name>KOI-752.02</name>
-			<name>KIC 10797460 c</name>
-			<name>KIC 10797460.02</name>
-			<radius errorminus="0.04830" errorplus="0.13943">0.27704</radius>
-			<period errorminus=".000460" errorplus="0.000460">54.418694</period>
-			<transittime errorminus="0.0053500" errorplus="0.0053500">2454995.5103800</transittime>
-			<list>Confirmed planets</list>
-			<description>Kepler-227 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-227 c are still unknown, the object is highly unlikely to be a false positive.</description>
-			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<radius errorminus="0.136" errorplus="0.136">0.271</radius>
+			<period errorminus="0.00046" errorplus="0.00046">54.418694</period>
+			<semimajoraxis>0.29</semimajoraxis>
 			<discoverymethod>transit</discoverymethod>
-			<istransiting>1</istransiting>
+			<transittime errorminus=".005350" errorplus="0.005350" unit="BJD">2454995.510380</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>
 </system>

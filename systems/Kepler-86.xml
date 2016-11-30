@@ -1,0 +1,35 @@
+<system>
+	<name>Kepler-86</name>
+	<name>PH2</name>
+	<rightascension>19 19 03</rightascension>
+	<declination>+51 57 44</declination>
+	<star>
+		<name>Kepler-86</name>
+		<name>KIC 12735740</name>
+		<name>PH2</name>
+		<mass errorminus="0.02" errorplus="0.02">0.94</mass>
+		<radius errorminus="0.05" errorplus="0.05">1.0</radius>
+		<magV>12.620</magV>
+		<magJ errorminus="0.022" errorplus="0.022">11.501</magJ>
+		<magH errorminus="0.030" errorplus="0.030">11.182</magH>
+		<magK errorminus="0.022" errorplus="0.022">11.116</magK>
+		<temperature errorminus="45.0" errorplus="42.0">5629.0</temperature>
+		<metallicity errorminus="0.028" errorplus="0.032">-0.078</metallicity>
+		<planet>
+			<name>Kepler-86 b</name>
+			<name>PH2 b</name>
+			<name>KIC-12735740 b</name>
+			<radius errorminus="0.05" errorplus="0.05">0.905</radius>
+			<period errorminus="0.001" errorplus="0.001">282.5255</period>
+			<semimajoraxis errorminus="0.009" errorplus="0.009">0.828</semimajoraxis>
+			<eccentricity errorminus="0.29" errorplus="0.08">0.41</eccentricity>
+			<periastron errorminus="54.0" errorplus="3.4">3.4</periastron>
+			<inclination errorminus="0.02" errorplus="0.03">89.83</inclination>
+			<temperature errorminus="7" errorplus="7">281.0</temperature>
+			<discoverymethod>transit</discoverymethod>
+			<transittime unit="JD">2455195.579</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2013</discoveryyear>
+		</planet>
+	</star>
+</system>

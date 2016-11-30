@@ -1,33 +1,42 @@
 <system>
 	<name>Kepler-418</name>
-	<rightascension>19 37 44.04</rightascension>
-	<declination>+38 21 19.62</declination>
+	<rightascension>19 37 44</rightascension>
+	<declination>+38 21 20</declination>
 	<star>
-		<magJ errorminus="0.024" errorplus="0.024">13.493</magJ>
-		<magH errorminus="0.03" errorplus="0.03">13.24</magH>
-		<magK errorminus="0.03" errorplus="0.03">13.10</magK>
 		<name>Kepler-418</name>
-		<name>KOI-1089</name>
-		<name>KIC 3247268</name>
-		<mass errorminus="0.10" errorplus="0.21">1.29</mass>
-		<radius errorminus="0.36" errorplus="0.68">1.60</radius>
-		<temperature errorminus="169" errorplus="169">6029</temperature>
-		<metallicity errorminus="0.13" errorplus="0.13">0.31</metallicity>
+		<mass errorminus="0.08" errorplus="0.08">0.98</mass>
+		<radius errorminus="0.14" errorplus="0.14">1.094</radius>
+		<magV>15.0</magV>
+		<magJ errorminus="0.024" errorplus="0.024">13.493</magJ>
+		<magH errorminus="0.031" errorplus="0.031">13.243</magH>
+		<magK errorminus="0.034" errorplus="0.034">13.103</magK>
+		<temperature errorminus="100.0" errorplus="100.0">5820.0</temperature>
+		<age errorminus="4.0" errorplus="3.0">7.0</age>
+		<metallicity errorminus="0.1" errorplus="0.1">-0.05</metallicity>
 		<planet>
 			<name>Kepler-418 b</name>
-			<name>KOI-1089.01</name>
-			<name>KOI-1089 b</name>
-			<name>KIC 3247268 b</name>
-			<list>Confirmed planets</list>
-			<mass upperlimit="1.1" />
-			<radius errorminus="0.16" errorplus="0.16">1.20</radius>
-			<period errorminus="0.00007" errorplus="0.00007">86.67856</period>
-			<eccentricity errorminus="0.11" errorplus="0.11">0.20</eccentricity>
+			<mass errorminus="0.0" errorplus="1.1" type="Mass">1.1</mass>
+			<radius errorminus="0.16" errorplus="0.16">1.2</radius>
+			<period errorminus="7e-05" errorplus="7e-05">86.67865</period>
+			<eccentricity errorminus="0.11" errorplus="0.11">0.2</eccentricity>
+			<periastron errorminus="0.41" errorplus="0.41">4.35</periastron>
 			<inclination errorminus="0.041" errorplus="0.041">89.952</inclination>
-			<description>Kepler-418b is one of two proposed planets in system Kepler-418.</description>
 			<discoverymethod>transit</discoverymethod>
-			<istransiting>1</istransiting>
-			<lastupdate>15/12/03</lastupdate>
+			<transittime errorminus="0.00066" errorplus="0.00066" unit="HJD">2455008.5975</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2014</discoveryyear>
+		</planet>
+		<planet>
+			<name>KOI-1089.02</name>
+			<mass errorminus="0.0" errorplus="0.64">0.64</mass>
+			<radius errorminus="0.083" errorplus="0.083">0.625</radius>
+			<period errorminus="1e-05" errorplus="1e-05">12.21826</period>
+			<eccentricity errorminus="0.0" errorplus="0.5">0.5</eccentricity>
+			<periastron errorminus="0.55" errorplus="0.55">3.48</periastron>
+			<inclination errorminus="0.44" errorplus="0.44">87.6</inclination>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.0009" errorplus="0.0009">2454973.32089</transittime>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

@@ -2,23 +2,26 @@
 	<name>Kepler-941</name>
 	<rightascension>19 37 18</rightascension>
 	<declination>+47 13 03</declination>
+	<distance errorminus="106.83" errorplus="129.33">1105.00</distance>
 	<star>
 		<name>Kepler-941</name>
-		<temperature errorminus="104.0" errorplus="154.0">5539.0</temperature>
 		<mass errorminus="0.07" errorplus="0.06">0.89</mass>
-		<radius errorminus="0.08" errorplus="0.10">0.86</radius>
-		<metallicity errorminus="0.22" errorplus="0.18">-0.15</metallicity>
+		<radius errorminus="0.08" errorplus="0.1">0.86</radius>
+		<magV>15.601</magV>
+		<magJ errorminus="0.025" errorplus="0.025">14.389</magJ>
+		<magH errorminus="0.032" errorplus="0.032">13.981</magH>
+		<magK errorminus="0.048" errorplus="0.048">13.864</magK>
+		<temperature errorminus="104.04" errorplus="154.02">5539.0</temperature>
+		<age errorminus="2.440" errorplus="5.000">4.070</age>
+		<metallicity errorminus="0.221" errorplus="0.177">-0.15</metallicity>
 		<planet>
 			<name>Kepler-941 b</name>
-			<discoverymethod>transit</discoverymethod>
-			<list>Confirmed planets</list>
-			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
-			<istransiting>1</istransiting>
-			<new>1</new>
-			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000083000" errorplus="0.000083000">17.423951980</period>
 			<radius errorminus="0.054" errorplus="0.031">0.275</radius>
+			<period errorminus="8.3e-05" errorplus="8.3e-05">17.42395198</period>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".004540" errorplus="0.004540" unit="JD">2454981.826450</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>
 </system>

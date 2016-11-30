@@ -1,0 +1,32 @@
+<system>
+	<name>HD 191806</name>
+	<rightascension>20 09 28</rightascension>
+	<declination>+52 16 34</declination>
+	<distance errorminus="3.57" errorplus="3.25">73.47</distance>
+	<star>
+		<name>HD 191806</name>
+		<mass errorminus="0.12" errorplus="0.12">1.14</mass>
+		<magV errorminus="0.012" errorplus="0.012">8.093</magV>
+		<magB errorminus="0.016" errorplus="0.016">8.715</magB>
+		<magJ errorminus="0.021" errorplus="0.021">6.966</magJ>
+		<magH errorminus="0.059" errorplus="0.059">6.713</magH>
+		<magK errorminus="0.016" errorplus="0.016">6.639</magK>
+		<temperature errorminus="30.0" errorplus="30.0">6010.0</temperature>
+		<age errorminus="0.4" errorplus="0.4">2.9</age>
+		<metallicity errorminus="0.02" errorplus="0.02">0.3</metallicity>
+		<spectraltype>K0</spectraltype>
+		<planet>
+			<name>HD 191806 b</name>
+			<mass errorminus="0.63" errorplus="0.63" type="Radial Velocity">8.52</mass>
+			<period errorminus="7.2" errorplus="7.2">1606.3</period>
+			<semimajoraxis errorminus="0.1" errorplus="0.1">2.8</semimajoraxis>
+			<eccentricity errorminus="0.017" errorplus="0.017">0.259</eccentricity>
+			<periastron errorminus="4.2000" errorplus="4.2000">4.0000</periastron>
+			<periastrontime errorminus="18.0" errorplus="18.0">2455014.0</periastrontime>
+			<maximumrvtime errorminus="18.0" errorplus="18.0">2455014.0</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

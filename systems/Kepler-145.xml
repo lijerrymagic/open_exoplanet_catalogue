@@ -1,0 +1,40 @@
+<system>
+	<name>Kepler-145</name>
+	<rightascension>19 25 33</rightascension>
+	<declination>+44 31 45</declination>
+	<star>
+		<name>Kepler-145</name>
+		<name>KOI-370</name>
+		<name>KIC 849414</name>
+		<mass errorminus="0.019" errorplus="0.03">1.418</mass>
+		<radius errorminus="0.012" errorplus="0.012">1.887</radius>
+		<magV>11.93</magV>
+		<magB>11.799</magB>
+		<magJ errorminus="0.025" errorplus="0.025">10.91</magJ>
+		<magH errorminus="0.019" errorplus="0.019">10.69</magH>
+		<magK errorminus="0.016" errorplus="0.016">10.628</magK>
+		<temperature errorminus="106.0" errorplus="106.0">6144.0</temperature>
+		<age errorminus="0.26" errorplus="0.24">2.62</age>
+		<metallicity errorminus="0.1" errorplus="0.1">0.13</metallicity>
+		<planet>
+			<name>Kepler-145 b</name>
+			<mass errorminus="0.169" errorplus="0.064" type="Mass">0.108</mass>
+			<radius errorminus="0.025" errorplus="0.025">0.228</radius>
+			<period errorminus="0.00023" errorplus="0.00023">22.95102</period>
+			<eccentricity errorminus="0.25" errorplus="0.18">0.43</eccentricity>
+			<discoverymethod>transit</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2013</discoveryyear>
+		</planet>
+		<planet>
+			<name>Kepler-145 c</name>
+			<mass errorminus="0.349" errorplus="0.153" type="Mass">0.234</mass>
+			<radius errorminus="0.01" errorplus="0.01">0.35</radius>
+			<period errorminus="0.00015" errorplus="0.00015">42.88254</period>
+			<eccentricity errorminus="0.11" errorplus="0.11">0.11</eccentricity>
+			<discoverymethod>transit</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2013</discoveryyear>
+		</planet>
+	</star>
+</system>

@@ -1,37 +1,29 @@
 <system>
 	<name>Kepler-438</name>
-	<rightascension>18 46 35.00</rightascension>
-	<declination>+41 57 03.9</declination>
-	<distance errorminus="23" errorplus="20">145</distance>
+	<rightascension>18 46 34</rightascension>
+	<declination>+41 57 04</declination>
+	<distance errorminus="23.00" errorplus="20.00">145.00</distance>
 	<star>
 		<name>Kepler-438</name>
-		<name>KOI-3284</name>
-		<name>KIC 6497146</name>
-		<name>2MASS J18463499+4157039</name>
+		<mass errorminus="0.041" errorplus="0.061">0.544</mass>
+		<radius errorminus="0.038" errorplus="0.061">0.52</radius>
+		<magV>15.0</magV>
 		<magJ errorminus="0.030" errorplus="0.030">12.130</magJ>
 		<magH errorminus="0.033" errorplus="0.033">11.449</magH>
 		<magK errorminus="0.020" errorplus="0.020">11.199</magK>
-		<mass errorminus="0.061" errorplus="0.041">0.544</mass>
-		<radius errorminus="0.061" errorplus="0.038">0.520</radius>
-		<temperature errorminus="112" errorplus="112">3748</temperature>
-		<metallicity errorminus="0.14" errorplus="0.14">0.16</metallicity>
+		<temperature errorminus="112.0" errorplus="112.0">3748.0</temperature>
 		<age errorminus="0.7" errorplus="0.8">4.4</age>
+		<metallicity errorminus="0.14" errorplus="0.14">0.16</metallicity>
 		<planet>
 			<name>Kepler-438 b</name>
-			<name>KOI-3284.01</name>
-			<name>KOI-3284 b</name>
-			<name>KIC 6497146 b</name>
-			<list>Confirmed planets</list>
-			<radius errorminus="0.015" errorplus="0.014">0.100</radius>
-			<period errorminus="0.00029" errorplus="0.00025">35.23319</period>
-			<transittime errorminus="0.0032" errorplus="0.0044" unit="BJD">2455673.0307</transittime>
-			<semimajoraxis errorminus="0.042" errorplus="0.051">0.166</semimajoraxis>
-			<inclination errorminus="0.32" errorplus="0.14">89.86</inclination>
-			<eccentricity lowerlimit="0.03" />
-			<description>This planet has been discovered by the Kepler spacecraft. The results were announced at the AAS meeting in 2015. This planet is one of the most Earth-like planets discovered to date.</description>
+			<radius errorminus="0.015" errorplus="0.015">0.0999</radius>
+			<period errorminus="0.00029" errorplus="0.00029">35.23319</period>
+			<semimajoraxis errorminus="0.051" errorplus="0.042">0.166</semimajoraxis>
+			<eccentricity errorminus="0.1" errorplus="0.03">0.03</eccentricity>
+			<inclination errorminus="0.14" errorplus="0.32">89.86</inclination>
 			<discoverymethod>transit</discoverymethod>
-			<istransiting>1</istransiting>
-			<lastupdate>15/01/28</lastupdate>
+			<transittime errorminus="0.0044" errorplus="0.0032" unit="BJD-UTC">2455673.0307</transittime>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 		</planet>
 	</star>

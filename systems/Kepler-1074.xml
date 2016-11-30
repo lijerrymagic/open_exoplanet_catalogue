@@ -2,23 +2,26 @@
 	<name>Kepler-1074</name>
 	<rightascension>18 57 54</rightascension>
 	<declination>+46 15 09</declination>
+	<distance errorminus="10.74" errorplus="10.93">245.00</distance>
 	<star>
 		<name>Kepler-1074</name>
-		<temperature errorminus="33.6" errorplus="33.5">4002.0</temperature>
-		<mass errorminus="0.03" errorplus="0.02">0.60</mass>
+		<mass errorminus="0.03" errorplus="0.02">0.6</mass>
 		<radius errorminus="0.02" errorplus="0.02">0.57</radius>
+		<magV>15.026</magV>
+		<magJ errorminus="0.022" errorplus="0.022">12.876</magJ>
+		<magH errorminus="0.019" errorplus="0.019">12.211</magH>
+		<magK errorminus="0.022" errorplus="0.022">12.073</magK>
+		<temperature errorminus="33.56" errorplus="33.45">4002.0</temperature>
+		<age errorminus="1.860" errorplus="5.120">3.550</age>
 		<metallicity errorminus="0.09" errorplus="0.08">-0.06</metallicity>
 		<planet>
 			<name>Kepler-1074 b</name>
-			<discoverymethod>transit</discoverymethod>
-			<list>Confirmed planets</list>
-			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
-			<istransiting>1</istransiting>
-			<new>1</new>
-			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000014430" errorplus="0.000014430">5.945665340</period>
 			<radius errorminus="0.008" errorplus="0.021">0.112</radius>
+			<period errorminus="1.443e-05" errorplus="1.443e-05">5.94566534</period>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".001940" errorplus="0.001940" unit="JD">2454966.992980</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>
 </system>

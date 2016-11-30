@@ -1,24 +1,27 @@
 <system>
 	<name>Kepler-1270</name>
-	<rightascension>19 06 52</rightascension>
+	<rightascension>19 06 51</rightascension>
 	<declination>+48 38 43</declination>
+	<distance errorminus="145.11" errorplus="110.86">1204.00</distance>
 	<star>
 		<name>Kepler-1270</name>
-		<temperature errorminus="34.2" errorplus="40.2">5047.0</temperature>
 		<mass errorminus="0.11" errorplus="0.01">1.28</mass>
-		<radius errorminus="0.41" errorplus="0.30">3.38</radius>
-		<metallicity errorminus="0.02" errorplus="0.11">-0.02</metallicity>
+		<radius errorminus="0.41" errorplus="0.3">3.38</radius>
+		<magV>13.274</magV>
+		<magJ errorminus="0.021" errorplus="0.021">11.843</magJ>
+		<magH errorminus="0.023" errorplus="0.023">11.333</magH>
+		<magK errorminus="0.023" errorplus="0.023">11.242</magK>
+		<temperature errorminus="34.17" errorplus="40.17">5047.0</temperature>
+		<age errorminus="0.120" errorplus="2.140">4.370</age>
+		<metallicity errorminus="0.02" errorplus="0.111">-0.02</metallicity>
 		<planet>
 			<name>Kepler-1270 b</name>
-			<discoverymethod>transit</discoverymethod>
-			<list>Confirmed planets</list>
-			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
-			<istransiting>1</istransiting>
-			<new>1</new>
-			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000065510" errorplus="0.000065510">6.033561960</period>
 			<radius errorminus="0.058" errorplus="0.027">0.296</radius>
+			<period errorminus="6.551e-05" errorplus="6.551e-05">6.03356196</period>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".008090" errorplus="0.008090" unit="JD">2454970.119120</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>
 </system>

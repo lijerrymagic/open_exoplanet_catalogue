@@ -1,0 +1,31 @@
+<system>
+	<name>HD 68402</name>
+	<rightascension>08 05 23</rightascension>
+	<declination>-74 24 38</declination>
+	<distance errorminus="3.71" errorplus="3.71">78.00</distance>
+	<star>
+		<name>HD 68402</name>
+		<mass errorminus="0.05" errorplus="0.05">1.12</mass>
+		<radius errorminus="0.05" errorplus="0.05">1.02</radius>
+		<magV>9.11</magV>
+		<magB errorminus="0.024" errorplus="0.024">9.773</magB>
+		<magJ errorminus="0.024" errorplus="0.024">7.984</magJ>
+		<magH errorminus="0.026" errorplus="0.026">7.697</magH>
+		<magK errorminus="0.027" errorplus="0.027">7.697</magK>
+		<temperature errorminus="100.0" errorplus="100.0">5950.0</temperature>
+		<age errorminus="3.0" errorplus="2.0">2.0</age>
+		<metallicity errorminus="0.1" errorplus="0.1">0.29</metallicity>
+		<spectraltype>G5IV/V</spectraltype>
+		<planet>
+			<name>HD 68402 b</name>
+			<mass errorminus="0.35" errorplus="0.35" type="Radial Velocity">3.07</mass>
+			<period errorminus="33.0" errorplus="33.0">1103.0</period>
+			<semimajoraxis errorminus="0.09" errorplus="0.09">2.18</semimajoraxis>
+			<eccentricity errorminus="0.03" errorplus="0.06">0.03</eccentricity>
+			<periastron errorminus="130.0" errorplus="130.0">341.0</periastron>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

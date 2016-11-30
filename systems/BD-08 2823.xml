@@ -1,0 +1,45 @@
+<system>
+	<name>BD-08 2823</name>
+	<rightascension>10 00 47</rightascension>
+	<declination>-09 31 00</declination>
+	<distance errorminus="3.06" errorplus="2.67">42.09</distance>
+	<star>
+		<name>BD-08 2823</name>
+		<mass errorminus="0.07" errorplus="0.07">0.74</mass>
+		<magV errorminus="0.043" errorplus="0.043">9.86</magV>
+		<magB errorminus="0.073" errorplus="0.073">10.880</magB>
+		<magJ errorminus="0.020" errorplus="0.020">7.960</magJ>
+		<magH errorminus="0.047" errorplus="0.047">7.498</magH>
+		<magK errorminus="0.021" errorplus="0.021">7.323</magK>
+		<temperature errorminus="63.0" errorplus="63.0">4746.0</temperature>
+		<age errorminus="4.0" errorplus="4.0">4.5</age>
+		<metallicity errorminus="0.03" errorplus="0.03">-0.07</metallicity>
+		<spectraltype>K3V</spectraltype>
+		<planet>
+			<name>BD-08 2823 b</name>
+			<mass errorminus="0.007" errorplus="0.007" type="Msini">0.045</mass>
+			<period errorminus="0.02" errorplus="0.02">5.6</period>
+			<semimajoraxis errorminus="0.002" errorplus="0.002">0.056</semimajoraxis>
+			<eccentricity errorminus="0.15" errorplus="0.15">0.15</eccentricity>
+			<periastron errorminus="100.0" errorplus="100.0">30.0</periastron>
+			<periastrontime errorminus="1.6" errorplus="1.6">2454637.7</periastrontime>
+			<maximumrvtime errorminus="1.6" errorplus="1.6">2454637.7</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2009</discoveryyear>
+		</planet>
+		<planet>
+			<name>BD-08 2823 c</name>
+			<mass errorminus="0.03" errorplus="0.03" type="Msini">0.33</mass>
+			<period errorminus="1.5" errorplus="1.5">237.6</period>
+			<semimajoraxis errorminus="0.02" errorplus="0.02">0.68</semimajoraxis>
+			<eccentricity errorminus="0.09" errorplus="0.09">0.19</eccentricity>
+			<periastron errorminus="21.0" errorplus="21.0">127.0</periastron>
+			<periastrontime errorminus="13.0" errorplus="13.0">2454193.0</periastrontime>
+			<maximumrvtime errorminus="13.0" errorplus="13.0">2454193.0</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2009</discoveryyear>
+		</planet>
+	</star>
+</system>

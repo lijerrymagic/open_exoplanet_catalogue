@@ -1,24 +1,27 @@
 <system>
 	<name>Kepler-635</name>
-	<rightascension>19 19 06</rightascension>
-	<declination>+40 48 03</declination>
+	<rightascension>19 19 05</rightascension>
+	<declination>+40 48 02</declination>
+	<distance errorminus="84.63" errorplus="105.98">826.00</distance>
 	<star>
 		<name>Kepler-635</name>
-		<temperature errorminus="82.8" errorplus="70.4">6174.0</temperature>
 		<mass errorminus="0.05" errorplus="0.06">1.33</mass>
-		<radius errorminus="0.15" errorplus="0.20">1.51</radius>
-		<metallicity errorminus="0.04" errorplus="0.04">0.41</metallicity>
+		<radius errorminus="0.15" errorplus="0.2">1.51</radius>
+		<magV>13.310</magV>
+		<magJ errorminus="0.028" errorplus="0.028">12.235</magJ>
+		<magH errorminus="0.032" errorplus="0.032">11.959</magH>
+		<magK errorminus="0.024" errorplus="0.024">11.903</magK>
+		<temperature errorminus="82.75" errorplus="70.4">6174.0</temperature>
+		<age errorminus="0.626" errorplus="0.450">2.340</age>
+		<metallicity errorminus="0.038" errorplus="0.037">0.41</metallicity>
 		<planet>
 			<name>Kepler-635 b</name>
-			<discoverymethod>transit</discoverymethod>
-			<list>Confirmed planets</list>
-			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
-			<istransiting>1</istransiting>
-			<new>1</new>
-			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000076720" errorplus="0.000076720">23.449710040</period>
 			<radius errorminus="0.024" errorplus="0.032">0.236</radius>
+			<period errorminus="7.672e-05" errorplus="7.672e-05">23.44971004</period>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".002520" errorplus="0.002520" unit="JD">2455015.922920</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>
 </system>

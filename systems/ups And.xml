@@ -1,0 +1,73 @@
+<system>
+	<name>ups And</name>
+	<rightascension>01 36 47</rightascension>
+	<declination>+41 24 38</declination>
+	<distance errorminus="0.13" errorplus="0.13">13.47</distance>
+	<star>
+		<name>ups And</name>
+		<mass errorminus="0.06" errorplus="0.06">1.27</mass>
+		<radius errorminus="0.014" errorplus="0.014">1.631</radius>
+		<magV>4.09</magV>
+		<magB>4.640</magB>
+		<magJ errorminus="0.210" errorplus="0.210">3.175</magJ>
+		<magH errorminus="0.178" errorplus="0.178">2.957</magH>
+		<magK errorminus="0.274" errorplus="0.274">2.859</magK>
+		<temperature errorminus="80.0" errorplus="80.0">6212.0</temperature>
+		<age errorminus="1.0" errorplus="1.0">3.8</age>
+		<metallicity errorminus="0.06" errorplus="0.06">0.09</metallicity>
+		<spectraltype>F8 V</spectraltype>
+		<planet>
+			<name>ups And b</name>
+			<mass errorminus="0.09" errorplus="inf" type="Radial Velocity">0.62</mass>
+			<period errorminus="0.00018" errorplus="0.00018">4.61711</period>
+			<semimajoraxis errorminus="0.001" errorplus="0.001">0.059</semimajoraxis>
+			<eccentricity errorminus="0.006" errorplus="0.006">0.01186</eccentricity>
+			<periastron errorminus="24.0" errorplus="24.0">44.519</periastron>
+			<periastrontime errorminus="0.3" errorplus="0.3">2450034.058</periastrontime>
+			<maximumrvtime errorminus="0.3" errorplus="0.3">2450034.058</maximumrvtime>
+			<inclination errorminus="0.0" errorplus="90.0">90.0</inclination>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>1996</discoveryyear>
+		</planet>
+		<planet>
+			<name>ups And d</name>
+			<mass errorminus="2.295" errorplus="2.931" type="Radial Velocity">23.58</mass>
+			<period errorminus="2.0" errorplus="2.0">1281.439</period>
+			<semimajoraxis errorminus="0.000750" errorplus="0.000750">2.55</semimajoraxis>
+			<eccentricity errorminus="0.07" errorplus="0.006">0.316</eccentricity>
+			<periastron errorminus="1.32" errorplus="1.32">252.991</periastron>
+			<periastrontime errorminus="4.32" errorplus="4.32">2450059.072</periastrontime>
+			<maximumrvtime errorminus="4.32" errorplus="4.32">2450059.072</maximumrvtime>
+			<inclination errorminus="3.0" errorplus="3.0">25.609</inclination>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>1999</discoveryyear>
+		</planet>
+		<planet>
+			<name>ups And c</name>
+			<mass errorminus="2.9" errorplus="5.0" type="Radial Velocity">9.1</mass>
+			<period errorminus="0.06" errorplus="0.06">240.937</period>
+			<semimajoraxis errorminus="0.000015" errorplus="0.000015">0.861</semimajoraxis>
+			<eccentricity errorminus="0.1" errorplus="0.1">0.2445</eccentricity>
+			<periastron errorminus="2.2" errorplus="2.2">247.629</periastron>
+			<periastrontime errorminus="1.5" errorplus="1.5">2449922.548</periastrontime>
+			<maximumrvtime errorminus="1.5" errorplus="1.5">2449922.548</maximumrvtime>
+			<inclination errorminus="3.0" errorplus="3.0">11.347</inclination>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>1999</discoveryyear>
+		</planet>
+		<planet>
+			<name>ups And e</name>
+			<mass errorminus="0.028" errorplus="0.028">1.059</mass>
+			<period errorminus="0.74" errorplus="0.74">3848.86</period>
+			<semimajoraxis errorminus="0.00067" errorplus="0.00067">5.2456</semimajoraxis>
+			<eccentricity errorminus="0.00044" errorplus="0.00044">0.00536</eccentricity>
+			<periastron errorminus="2.3" errorplus="2.3">7.3</periastron>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2010</discoveryyear>
+		</planet>
+	</star>
+</system>

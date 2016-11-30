@@ -2,32 +2,43 @@
 	<name>HD 164922</name>
 	<rightascension>18 02 30</rightascension>
 	<declination>+26 18 46</declination>
-	<distance>21.93</distance>
+	<distance errorminus="0.27" errorplus="0.27">22.13</distance>
 	<star>
-		<mass>0.94</mass>
-		<radius>0.9</radius>
-		<magV>7.01</magV>
-		<magB>7.79</magB>
-		<magR>6.5</magR>
-		<magI>6.1</magI>
-		<magJ errorminus="0.026" errorplus="0.026">5.553</magJ>
+		<name>HD 164922</name>
+		<mass errorminus="0.012" errorplus="0.012">0.874</mass>
+		<radius errorminus="0.017" errorplus="0.017">0.999</radius>
+		<magV>6.99</magV>
+		<magB errorminus="0.010" errorplus="0.010">7.810</magB>
+		<magJ errorminus="0.025" errorplus="0.025">5.553</magJ>
 		<magH errorminus="0.017" errorplus="0.017">5.203</magH>
 		<magK errorminus="0.020" errorplus="0.020">5.113</magK>
-		<metallicity>0.17</metallicity>
-		<spectraltype>K0V</spectraltype>
+		<temperature errorminus="32.0" errorplus="32.0">5293.0</temperature>
+		<age>13.4</age>
+		<metallicity errorminus="0.05" errorplus="0.05">0.16</metallicity>
+		<spectraltype>G9V</spectraltype>
 		<planet>
 			<name>HD 164922 b</name>
-			<list>Confirmed planets</list>
-			<mass>0.36</mass>
-			<period>1155</period>
-			<semimajoraxis>2.11</semimajoraxis>
-			<eccentricity>0.05</eccentricity>
+			<mass errorminus="0.015" errorplus="0.015" type="Radial Velocity">0.3385</mass>
+			<period errorminus="5.6" errorplus="5.6">1201.1</period>
+			<semimajoraxis errorminus="0.012" errorplus="0.012">2.115</semimajoraxis>
+			<eccentricity errorminus="0.05" errorplus="0.05">0.126</eccentricity>
+			<periastron errorminus="0.2" errorplus="0.24">129.0</periastron>
+			<temperature errorminus="2" errorplus="2">159.4</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>06/07/15</lastupdate>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2006</discoveryyear>
-			<temperature>155.0</temperature>
 		</planet>
-		<name>HD 164922</name>
-		<temperature>5385.0</temperature>
+		<planet>
+			<name>HD 164922 c</name>
+			<mass errorminus="0.005" errorplus="0.005" type="Radial Velocity">0.0406</mass>
+			<period errorminus="0.058" errorplus="0.058">75.765</period>
+			<semimajoraxis errorminus="0.0015" errorplus="0.0015">0.3351</semimajoraxis>
+			<eccentricity errorminus="0.13" errorplus="0.13">0.22</eccentricity>
+			<periastron errorminus="49.0" errorplus="49.0">81.0</periastron>
+			<temperature errorminus="4" errorplus="4">400.5</temperature>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
 	</star>
 </system>

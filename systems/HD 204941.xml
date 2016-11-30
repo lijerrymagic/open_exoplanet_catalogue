@@ -1,32 +1,33 @@
 <system>
 	<name>HD 204941</name>
-	<rightascension>21 32 24</rightascension>
-	<declination>-20 57 27</declination>
-	<distance>27</distance>
+	<rightascension>21 32 23</rightascension>
+	<declination>-20 57 26</declination>
+	<distance errorminus="0.95" errorplus="0.88">26.95</distance>
 	<star>
-		<spectraltype>K2V</spectraltype>
+		<name>HD 204941</name>
 		<mass>0.74</mass>
 		<radius>0.72</radius>
-		<magV>8.45</magV>
-		<magB>9.39</magB>
-		<magJ errorminus="0.026" errorplus="0.026">6.895</magJ>
-		<magH errorminus="0.046" errorplus="0.046">6.475</magH>
+		<magV errorminus="0.000" errorplus="0.000">8.45</magV>
+		<magB errorminus="0.000" errorplus="0.000">9.330</magB>
+		<magJ errorminus="0.025" errorplus="0.025">6.895</magJ>
+		<magH errorminus="0.045" errorplus="0.045">6.475</magH>
 		<magK errorminus="0.018" errorplus="0.018">6.357</magK>
-		<metallicity>-0.19</metallicity>
+		<temperature errorminus="52.0" errorplus="52.0">5056.0</temperature>
+		<age errorminus="0.77" errorplus="0.77">6.67</age>
+		<metallicity errorminus="0.03" errorplus="0.03">-0.19</metallicity>
+		<spectraltype>K1/2 V</spectraltype>
 		<planet>
 			<name>HD 204941 b</name>
-			<list>Confirmed planets</list>
-			<mass>0.266</mass>
-			<period>1733</period>
-			<semimajoraxis>2.56</semimajoraxis>
-			<eccentricity>0.37</eccentricity>
-			<description>HD 204941 b was found with the European High Accuracy Radial velocity Planet Searcher (HARPS) which can reach sub-meter-per-second precision. The host star shows evidence for long-term solar-like magnetic cycles.</description>
+			<mass errorminus="0.032" errorplus="0.032" type="Msini">0.266</mass>
+			<period errorminus="74.0" errorplus="74.0">1733.0</period>
+			<semimajoraxis errorminus="0.08" errorplus="0.08">2.56</semimajoraxis>
+			<eccentricity errorminus="0.08" errorplus="0.08">0.37</eccentricity>
+			<periastron errorminus="18.0" errorplus="18.0">228.0</periastron>
+			<periastrontime errorminus="92.0" errorplus="92.0">2456015.0</periastrontime>
+			<maximumrvtime errorminus="92.0" errorplus="92.0">2456015.0</maximumrvtime>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/08/02</lastupdate>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-			<temperature>117.2</temperature>
 		</planet>
-		<name>HD 204941</name>
-		<temperature>5056.0</temperature>
 	</star>
 </system>

@@ -1,0 +1,36 @@
+<system>
+	<name>GJ 436</name>
+	<rightascension>11 42 11</rightascension>
+	<declination>+26 42 23</declination>
+	<distance errorminus="0.24" errorplus="0.23">10.23</distance>
+	<star>
+		<name>GJ 436</name>
+		<mass errorminus="0.012" errorplus="0.012">0.452</mass>
+		<radius errorminus="0.011" errorplus="0.011">0.464</radius>
+		<magV errorminus="0.010" errorplus="0.010">10.68</magV>
+		<magB errorminus="0.025" errorplus="0.025">12.170</magB>
+		<magJ errorminus="0.024" errorplus="0.024">6.900</magJ>
+		<magH errorminus="0.022" errorplus="0.022">6.319</magH>
+		<magK errorminus="0.016" errorplus="0.016">6.073</magK>
+		<temperature errorminus="55.0" errorplus="55.0">3684.0</temperature>
+		<age errorminus="5.0" errorplus="5.0">6.0</age>
+		<metallicity errorminus="0.12" errorplus="0.12">-0.32</metallicity>
+		<spectraltype>M2.5</spectraltype>
+		<planet>
+			<name>GJ 436 b</name>
+			<mass errorminus="0.0052" errorplus="0.0052" type="Radial Velocity">0.07</mass>
+			<radius errorminus="0.015" errorplus="0.015">0.38</radius>
+			<period errorminus="9.85041e-05" errorplus="9.85041e-05">2.64394</period>
+			<semimajoraxis errorminus="0.00095" errorplus="0.00095">0.02887</semimajoraxis>
+			<eccentricity errorminus="0.0571" errorplus="0.0449">0.1912</eccentricity>
+			<periastron errorminus="15.3" errorplus="15.3">354.4</periastron>
+			<periastrontime>2452992.1</periastrontime>
+			<maximumrvtime>2452992.1</maximumrvtime>
+			<inclination errorminus="0.25" errorplus="0.25">85.8</inclination>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.00012" errorplus="0.00012" unit="BJD-TDB">2454221.61588</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2004</discoveryyear>
+		</planet>
+	</star>
+</system>

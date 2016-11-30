@@ -1,0 +1,42 @@
+<system>
+	<name>GJ 649</name>
+	<rightascension>16 58 08</rightascension>
+	<declination>+25 44 39</declination>
+	<distance errorminus="0.16" errorplus="0.16">10.32</distance>
+	<star>
+		<name>GJ 649</name>
+		<mass errorminus="0.05" errorplus="0.05">0.54</mass>
+		<magV errorminus="0.020" errorplus="0.020">9.7</magV>
+		<magB errorminus="0.025" errorplus="0.025">11.190</magB>
+		<magJ errorminus="0.021" errorplus="0.021">6.448</magJ>
+		<magH errorminus="0.020" errorplus="0.020">5.865</magH>
+		<magK errorminus="0.016" errorplus="0.016">5.624</magK>
+		<temperature errorminus="60.0" errorplus="60.0">3700.0</temperature>
+		<metallicity errorminus="0.06" errorplus="0.06">0.08</metallicity>
+		<spectraltype>M1.5</spectraltype>
+		<planet>
+			<name>GJ 649 b</name>
+			<mass errorminus="0.032" errorplus="0.032" type="Msini">0.328</mass>
+			<period errorminus="4.2" errorplus="4.2">598.3</period>
+			<semimajoraxis errorminus="0.035" errorplus="0.035">1.135</semimajoraxis>
+			<eccentricity errorminus="0.08" errorplus="0.08">0.3</eccentricity>
+			<periastron errorminus="15.0" errorplus="15.0">352.0</periastron>
+			<periastrontime errorminus="22.0" errorplus="22.0">12876.0</periastrontime>
+			<maximumrvtime errorminus="22.0" errorplus="22.0">12876.0</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2009</discoveryyear>
+		</planet>
+		<planet>
+			<name>GJ 649 c</name>
+			<mass errorminus="0.008" errorplus="0.008">0.03</mass>
+			<period errorminus="0.0004" errorplus="0.0004">4.4762</period>
+			<semimajoraxis errorminus="0.001" errorplus="0.001">0.043</semimajoraxis>
+			<eccentricity errorminus="0.15" errorplus="0.15">0.2</eccentricity>
+			<periastron errorminus="47.0" errorplus="47.0">334.0</periastron>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2013</discoveryyear>
+		</planet>
+	</star>
+</system>

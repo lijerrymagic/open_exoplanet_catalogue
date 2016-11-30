@@ -1,0 +1,32 @@
+<system>
+	<name>BD+14 4559</name>
+	<rightascension>21 13 35</rightascension>
+	<declination>+14 41 21</declination>
+	<distance errorminus="4.38" errorplus="3.73">50.03</distance>
+	<star>
+		<name>BD+14 4559</name>
+		<mass errorminus="0.15" errorplus="0.15">0.86</mass>
+		<radius errorminus="0.20" errorplus="0.20">0.95</radius>
+		<magV errorminus="0.012" errorplus="0.012">9.63</magV>
+		<magB errorminus="0.057" errorplus="0.057">10.658</magB>
+		<magJ errorminus="0.029" errorplus="0.029">7.882</magJ>
+		<magH errorminus="0.018" errorplus="0.018">7.455</magH>
+		<magK errorminus="0.022" errorplus="0.022">7.336</magK>
+		<temperature errorminus="20.0" errorplus="20.0">5008.0</temperature>
+		<metallicity errorminus="0.07" errorplus="0.07">0.1</metallicity>
+		<spectraltype>K2V</spectraltype>
+		<planet>
+			<name>BD+14 4559 b</name>
+			<mass type="Msini">1.47</mass>
+			<period errorminus="0.99" errorplus="0.99">268.94</period>
+			<semimajoraxis>0.777</semimajoraxis>
+			<eccentricity errorminus="0.03" errorplus="0.03">0.29</eccentricity>
+			<periastron errorminus="7.87" errorplus="7.87">87.64</periastron>
+			<periastrontime errorminus="6.35" errorplus="6.35">2453294.21</periastrontime>
+			<maximumrvtime errorminus="6.35" errorplus="6.35">2453294.21</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2009</discoveryyear>
+		</planet>
+	</star>
+</system>

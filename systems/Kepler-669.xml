@@ -1,24 +1,27 @@
 <system>
 	<name>Kepler-669</name>
-	<rightascension>19 27 45</rightascension>
+	<rightascension>19 27 44</rightascension>
 	<declination>+49 15 14</declination>
+	<distance errorminus="208.21" errorplus="463.31">1778.00</distance>
 	<star>
 		<name>Kepler-669</name>
-		<temperature errorminus="109.2" errorplus="97.8">6038.0</temperature>
-		<mass errorminus="0.07" errorplus="0.10">1.15</mass>
-		<radius errorminus="0.13" errorplus="0.32">1.20</radius>
-		<metallicity errorminus="0.14" errorplus="0.15">0.14</metallicity>
+		<mass errorminus="0.07" errorplus="0.1">1.15</mass>
+		<radius errorminus="0.13" errorplus="0.32">1.2</radius>
+		<magV>15.506</magV>
+		<magJ errorminus="0.029" errorplus="0.029">14.38</magJ>
+		<magH errorminus="0.040" errorplus="0.040">14.083</magH>
+		<magK errorminus="0.086" errorplus="0.086">14.198</magK>
+		<temperature errorminus="109.18" errorplus="97.84">6038.0</temperature>
+		<age errorminus="1.550" errorplus="1.300">3.160</age>
+		<metallicity errorminus="0.143" errorplus="0.147">0.14</metallicity>
 		<planet>
 			<name>Kepler-669 b</name>
-			<discoverymethod>transit</discoverymethod>
-			<list>Confirmed planets</list>
-			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
-			<istransiting>1</istransiting>
-			<new>1</new>
-			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000003100" errorplus="0.000003100">4.125546870</period>
 			<radius errorminus="0.049" errorplus="0.114">0.431</radius>
+			<period errorminus="3.1e-06" errorplus="3.1e-06">4.12554687</period>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000618" errorplus="0.000618" unit="JD">2455002.751997</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>
 </system>

@@ -1,54 +1,33 @@
 <system>
 	<name>WASP-14</name>
 	<rightascension>14 33 06</rightascension>
-	<declination>+21 53 41</declination>
-	<distance errorminus="20" errorplus="20">160</distance>
-	<binary>
+	<declination>+21 53 40</declination>
+	<distance errorminus="20.00" errorplus="20.00">160.00</distance>
+	<star>
 		<name>WASP-14</name>
-		<separation errorminus="0.00015" errorplus="0.00015" unit="arcsec">1.4491</separation>
-		<separation errorminus="23" errorplus="23" unit="AU">302</separation>
-		<positionangle errorminus="0.060" errorplus="0.060">102.210</positionangle>
-		<star>
-			<name>WASP-14 A</name>
-			<mass>1.211</mass>
-			<radius>1.306</radius>
-			<magV>9.75</magV>
-			<magB errorminus="0.029" errorplus="0.029">10.194</magB>
-			<magJ errorminus="0.021" errorplus="0.021">8.869</magJ>
-			<magH errorminus="0.019" errorplus="0.019">8.650</magH>
-			<magK errorminus="0.019" errorplus="0.019">8.621</magK>
-			<spectraltype>F5V</spectraltype>
-			<temperature errorminus="75" errorplus="75">6462</temperature>
-			<planet>
-				<name>WASP-14 b</name>
-				<name>WASP-14 A b</name>
-				<name>BD+22 2716 b</name>
-				<name>TYC 1482-00882-1 b</name>
-				<name>2MASS J14330635+2153409 b</name>
-				<name>SAO 83398 b</name>
-				<list>Confirmed planets</list>
-				<mass>7.341</mass>
-				<radius>1.281</radius>
-				<period>2.2437661</period>
-				<semimajoraxis>0.036</semimajoraxis>
-				<eccentricity>0.087</eccentricity>
-				<inclination>84.79</inclination>
-				<transittime errorminus="0.00053" errorplus="0.00053" unit="BJD">2454463.57657</transittime>
-				<discoverymethod>transit</discoverymethod>
-				<lastupdate>12/04/08</lastupdate>
-				<discoveryyear>2008</discoveryyear>
-				<temperature>1718.8</temperature>
-				<istransiting>1</istransiting>
-				<list>Planets in binary systems, S-type</list>
-			</planet>
-		</star>
-		<star>
-			<name>WASP-14 B</name>
-			<magJ errorminus="0.020" errorplus="0.020">14.076</magJ>
-			<magH errorminus="0.024" errorplus="0.024">13.438</magH>
-			<magK errorminus="0.025" errorplus="0.025">13.605</magK>
-			<temperature errorminus="31" errorplus="31">3464</temperature>
-			<mass errorminus="0.037" errorplus="0.037">0.331</mass>
-		</star>
-	</binary>
+		<mass errorminus="0.122" errorplus="0.122">1.211</mass>
+		<radius errorminus="0.073" errorplus="0.073">1.306</radius>
+		<magV>9.75</magV>
+		<magJ errorminus="0.021" errorplus="0.021">8.869</magJ>
+		<magH errorminus="0.019" errorplus="0.019">8.650</magH>
+		<magK errorminus="0.019" errorplus="0.019">8.621</magK>
+		<temperature errorminus="100.0" errorplus="100.0">6475.0</temperature>
+		<age errorminus="0.25" errorplus="0.25">0.75</age>
+		<metallicity errorminus="0.2" errorplus="0.2">0.0</metallicity>
+		<spectraltype>F5V</spectraltype>
+		<planet>
+			<name>WASP-14 b</name>
+			<mass errorminus="0.496" errorplus="0.508" type="Mass">7.341</mass>
+			<radius errorminus="0.082" errorplus="0.075">1.281</radius>
+			<period errorminus="1.1e-06" errorplus="1.1e-06">2.2437661</period>
+			<semimajoraxis errorminus="0.001" errorplus="0.001">0.036</semimajoraxis>
+			<eccentricity errorminus="0.002" errorplus="0.002">0.087</eccentricity>
+			<periastron errorminus="0.5" errorplus="0.5">252.9</periastron>
+			<inclination errorminus="0.67" errorplus="0.67">84.79</inclination>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.00025" errorplus="0.00025" unit="HJD">2454963.93676</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2008</discoveryyear>
+		</planet>
+	</star>
 </system>

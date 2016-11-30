@@ -1,32 +1,33 @@
 <system>
 	<name>HD 212771</name>
 	<rightascension>22 27 03</rightascension>
-	<declination>-17 15 49</declination>
-	<distance>131</distance>
+	<declination>-17 15 48</declination>
+	<distance errorminus="18.06" errorplus="13.93">121.80</distance>
 	<star>
-		<mass>1.15</mass>
-		<radius>5</radius>
-		<magV>7.6</magV>
-		<magB errorminus="0.02" errorplus="0.02">8.48</magB>
-		<magI errorminus="0.03" errorplus="0.03">8.66</magI>
+		<name>HD 212771</name>
+		<mass errorminus="0.08" errorplus="0.08">1.15</mass>
+		<radius errorminus="0.1" errorplus="0.1">5.0</radius>
+		<magV errorminus="0.014" errorplus="0.014">7.6</magV>
+		<magB errorminus="0.021" errorplus="0.021">8.480</magB>
 		<magJ errorminus="0.019" errorplus="0.019">6.025</magJ>
 		<magH errorminus="0.038" errorplus="0.038">5.578</magH>
 		<magK errorminus="0.018" errorplus="0.018">5.496</magK>
-		<metallicity>-0.21</metallicity>
+		<temperature errorminus="44.0" errorplus="44.0">5121.0</temperature>
+		<age errorminus="2.0" errorplus="2.0">6.0</age>
+		<metallicity errorminus="0.03" errorplus="0.03">-0.21</metallicity>
 		<spectraltype>G8IV</spectraltype>
 		<planet>
 			<name>HD 212771 b</name>
-			<list>Confirmed planets</list>
-			<mass>2.3</mass>
-			<period>373.3</period>
-			<semimajoraxis>1.22</semimajoraxis>
-			<eccentricity>0.111</eccentricity>
+			<mass errorminus="0.4" errorplus="0.4" type="Msini">2.3</mass>
+			<period errorminus="3.4" errorplus="3.4">373.3</period>
+			<semimajoraxis errorminus="0.3" errorplus="0.3">1.22</semimajoraxis>
+			<eccentricity errorminus="0.06" errorplus="0.06">0.111</eccentricity>
+			<periastron errorminus="40.0" errorplus="40.0">55.0</periastron>
+			<periastrontime errorminus="40.0" errorplus="40.0">2454947.0</periastrontime>
+			<maximumrvtime errorminus="40.0" errorplus="40.0">2454947.0</maximumrvtime>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/03/19</lastupdate>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-			<temperature>456.8</temperature>
 		</planet>
-		<name>HD 212771</name>
-		<temperature>5121.0</temperature>
 	</star>
 </system>

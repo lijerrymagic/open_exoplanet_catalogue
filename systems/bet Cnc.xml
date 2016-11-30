@@ -1,0 +1,33 @@
+<system>
+	<name>bet Cnc</name>
+	<rightascension>08 16 30</rightascension>
+	<declination>+09 11 08</declination>
+	<distance errorminus="8.42" errorplus="7.08">89.05</distance>
+	<star>
+		<name>bet Cnc</name>
+		<mass errorminus="0.10" errorplus="0.10">1.70</mass>
+		<radius errorminus="1.30" errorplus="1.30">47.20</radius>
+		<magV>3.530</magV>
+		<magB>5.010</magB>
+		<magJ errorminus="0.250" errorplus="0.250">1.191</magJ>
+		<magH errorminus="0.160" errorplus="0.160">0.267</magH>
+		<magK errorminus="0.202" errorplus="0.202">0.190</magK>
+		<temperature errorminus="17.50" errorplus="17.50">4092.10</temperature>
+		<age errorminus="0.340" errorplus="0.340">1.850</age>
+		<metallicity errorminus="0.060" errorplus="0.060">-0.290</metallicity>
+		<spectraltype>K4 III</spectraltype>
+		<planet>
+			<name>bet Cnc b</name>
+			<mass errorminus="0.80000" errorplus="0.80000" type="Msini">7.80000</mass>
+			<period errorminus="4.00000000" errorplus="4.00000000">605.20000000</period>
+			<semimajoraxis errorminus="0.100000" errorplus="0.100000">1.700000</semimajoraxis>
+			<eccentricity errorminus="0.020000" errorplus="0.020000">0.080000</eccentricity>
+			<periastron errorminus="5.9000" errorplus="5.9000">58.9000</periastron>
+			<periastrontime errorminus="9.800000" errorplus="9.800000">2453229.800000</periastrontime>
+			<maximumrvtime errorminus="9.800000" errorplus="9.800000">2453229.800000</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2014</discoveryyear>
+		</planet>
+	</star>
+</system>

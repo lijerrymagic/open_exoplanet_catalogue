@@ -2,36 +2,31 @@
 	<name>WASP-7</name>
 	<rightascension>20 44 10</rightascension>
 	<declination>-39 13 31</declination>
-	<distance>140</distance>
+	<distance errorminus="15.00" errorplus="15.00">140.00</distance>
 	<star>
-		<mass>1.276</mass>
-		<radius>1.432</radius>
+		<name>WASP-7</name>
+		<mass errorminus="0.06" errorplus="0.06">1.276</mass>
+		<radius errorminus="0.09" errorplus="0.09">1.432</radius>
 		<magV>9.51</magV>
-		<magB errorminus="0.03" errorplus="0.03">9.98</magB>
 		<magJ errorminus="0.027" errorplus="0.027">8.648</magJ>
 		<magH errorminus="0.042" errorplus="0.042">8.414</magH>
 		<magK errorminus="0.023" errorplus="0.023">8.396</magK>
+		<temperature errorminus="100.0" errorplus="100.0">6400.0</temperature>
+		<age errorminus="0.1" errorplus="0.1">2.4</age>
+		<metallicity errorminus="0.1" errorplus="0.1">0.0</metallicity>
 		<spectraltype>F5V</spectraltype>
 		<planet>
 			<name>WASP-7 b</name>
-			<name>HD 197286 b</name>
-			<name>TYC 7963-01570-1 b</name>
-			<name>2MASS J20441022-3913309 b</name>
-			<list>Confirmed planets</list>
-			<mass>0.96</mass>
-			<radius>1.33</radius>
-			<period>4.9546416</period>
-			<semimajoraxis>0.0617</semimajoraxis>
+			<mass errorminus="0.13" errorplus="0.13" type="Mass">0.96</mass>
+			<radius errorminus="0.093" errorplus="0.093">1.33</radius>
+			<period errorminus="3.5e-06" errorplus="3.5e-06">4.9546416</period>
+			<semimajoraxis errorminus="0.0011" errorplus="0.0011">0.0617</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
-			<inclination>87.03</inclination>
-			<transittime errorminus="0.00030" errorplus="0.00030" unit="BJD">2455446.63493</transittime>
+			<inclination errorminus="0.93" errorplus="0.93">87.03</inclination>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>12/04/08</lastupdate>
+			<transittime errorminus="3e-05" errorplus="3e-05" unit="HJD">2455446.63493</transittime>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2008</discoveryyear>
-			<temperature>1359.5</temperature>
-			<istransiting>1</istransiting>
 		</planet>
-		<name>WASP-7</name>
-		<temperature>6400.0</temperature>
 	</star>
 </system>

@@ -1,0 +1,20 @@
+<system>
+	<name>OGLE-2012-BLG-0950L</name>
+	<declination>-29 43 53</declination>
+	<star>
+		<name>OGLE-2012-BLG-0950L</name>
+		<name>MOA-2012- BLG-527</name>
+		<mass errorminus="0.16" errorplus="0.12">0.56</mass>
+		<temperature>5500.0</temperature>
+		<spectraltype>M</spectraltype>
+		<planet>
+			<name>OGL-2012-BLG-0950L b</name>
+			<name>MOA-2012- BLG-527 b</name>
+			<mass errorminus="0.028" errorplus="0.053">0.11</mass>
+			<semimajoraxis errorminus="0.7" errorplus="0.6">2.7</semimajoraxis>
+			<discoverymethod>microlensing</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

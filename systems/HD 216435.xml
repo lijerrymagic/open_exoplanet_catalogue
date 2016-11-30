@@ -2,30 +2,32 @@
 	<name>HD 216435</name>
 	<rightascension>22 53 37</rightascension>
 	<declination>-48 35 53</declination>
-	<distance>33.3</distance>
+	<distance errorminus="0.83" errorplus="0.79">33.29</distance>
 	<star>
+		<name>HD 216435</name>
 		<mass>1.3</mass>
-		<radius>2</radius>
+		<radius errorminus="0.7" errorplus="0.7">2.0</radius>
 		<magV>6.03</magV>
-		<magB>6.66</magB>
-		<magJ>5.008</magJ>
-		<magH>4.687</magH>
+		<magB>6.650</magB>
+		<magJ errorminus="0.037" errorplus="0.037">5.008</magJ>
+		<magH errorminus="0.076" errorplus="0.076">4.687</magH>
 		<magK errorminus="0.020" errorplus="0.020">4.612</magK>
+		<temperature errorminus="60.00" errorplus="60.00">5767.0</temperature>
+		<age>5.27</age>
 		<metallicity>0.244</metallicity>
 		<spectraltype>G0 V</spectraltype>
 		<planet>
 			<name>HD 216435 b</name>
-			<list>Confirmed planets</list>
-			<mass>1.26</mass>
-			<period>1311</period>
-			<semimajoraxis>2.56</semimajoraxis>
-			<eccentricity>0.07</eccentricity>
+			<mass errorminus="0.13" errorplus="0.13" type="Msini">1.26</mass>
+			<period errorminus="49.0" errorplus="49.0">1311.0</period>
+			<semimajoraxis errorminus="0.17" errorplus="0.17">2.56</semimajoraxis>
+			<eccentricity errorminus="0.078" errorplus="0.078">0.07</eccentricity>
+			<periastron>100.0</periastron>
+			<periastrontime errorminus="210.0" errorplus="210.0">2450870.0</periastrontime>
+			<maximumrvtime errorminus="210.0" errorplus="210.0">2450870.0</maximumrvtime>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/10/06</lastupdate>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2002</discoveryyear>
-			<temperature>224.7</temperature>
 		</planet>
-		<name>HD 216435</name>
-		<temperature>5767.0</temperature>
 	</star>
 </system>

@@ -1,33 +1,32 @@
 <system>
 	<name>HD 166724</name>
-	<rightascension>18 14 00</rightascension>
+	<rightascension>18 13 59</rightascension>
 	<declination>-42 34 31</declination>
-	<distance>42.3</distance>
+	<distance errorminus="2.88" errorplus="2.54">42.99</distance>
 	<star>
-		<magV>9.31</magV>
-		<magB errorminus="0.03" errorplus="0.03">10.20</magB>
-		<magR errorminus="0.03" errorplus="0.03">8.96</magR>
-		<magI errorminus="0.05" errorplus="0.05">9.37</magI>
+		<name>HD 166724</name>
+		<mass errorminus="0.02" errorplus="0.02">0.81</mass>
+		<magV errorminus="0.022" errorplus="0.022">9.31</magV>
+		<magB errorminus="0.034" errorplus="0.034">10.201</magB>
 		<magJ errorminus="0.021" errorplus="0.021">7.752</magJ>
 		<magH errorminus="0.055" errorplus="0.055">7.414</magH>
 		<magK errorminus="0.024" errorplus="0.024">7.246</magK>
+		<temperature errorminus="52.00" errorplus="52.00">5127.00</temperature>
+		<age errorminus="3.800" errorplus="3.800">4.000</age>
+		<metallicity errorminus="0.030" errorplus="0.030">-0.090</metallicity>
 		<spectraltype>K0IV</spectraltype>
-		<mass>0.81</mass>
-		<age>4.0</age>
-		<metallicity>-0.09</metallicity>
 		<planet>
 			<name>HD 166724 b</name>
-			<list>Confirmed planets</list>
-			<mass>3.53</mass>
-			<semimajoraxis>5.42</semimajoraxis>
-			<period>5144</period>
-			<eccentricity>0.734</eccentricity>
-			<periastron>202</periastron>
+			<mass errorminus="0.11" errorplus="0.11" type="Msini">3.53</mass>
+			<period errorminus="467.00000000" errorplus="705.00000000">8100.0</period>
+			<semimajoraxis errorminus="0.43" errorplus="0.43">5.42</semimajoraxis>
+			<eccentricity errorminus="0.02" errorplus="0.02">0.734</eccentricity>
+			<periastron errorminus="3.6" errorplus="3.6">202.3</periastron>
+			<periastrontime errorminus="556.0" errorplus="556.0">2453212.0</periastrontime>
+			<maximumrvtime errorminus="556.0" errorplus="556.0">2453212.0</maximumrvtime>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/11/29</lastupdate>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 		</planet>
-		<name>HD 166724</name>
-		<temperature>5150.0</temperature>
 	</star>
 </system>

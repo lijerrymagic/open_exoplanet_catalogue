@@ -1,24 +1,27 @@
 <system>
 	<name>Kepler-631</name>
-	<rightascension>19 47 33</rightascension>
-	<declination>+40 13 42</declination>
+	<rightascension>19 47 32</rightascension>
+	<declination>+40 13 41</declination>
+	<distance errorminus="67.00" errorplus="92.69">843.00</distance>
 	<star>
 		<name>Kepler-631</name>
-		<temperature errorminus="75.5" errorplus="85.6">6185.0</temperature>
 		<mass errorminus="0.05" errorplus="0.05">1.24</mass>
-		<radius errorminus="0.10" errorplus="0.14">1.33</radius>
-		<metallicity errorminus="0.08" errorplus="0.08">0.23</metallicity>
+		<radius errorminus="0.1" errorplus="0.14">1.33</radius>
+		<magV>13.500</magV>
+		<magJ errorminus="0.024" errorplus="0.024">12.519</magJ>
+		<magH errorminus="0.025" errorplus="0.025">12.263</magH>
+		<magK errorminus="0.026" errorplus="0.026">12.208</magK>
+		<temperature errorminus="75.47" errorplus="85.62">6185.0</temperature>
+		<age errorminus="0.912" errorplus="0.830">2.510</age>
+		<metallicity errorminus="0.079" errorplus="0.083">0.23</metallicity>
 		<planet>
 			<name>Kepler-631 b</name>
-			<discoverymethod>transit</discoverymethod>
-			<list>Confirmed planets</list>
-			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
-			<istransiting>1</istransiting>
-			<new>1</new>
-			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000037700" errorplus="0.000037700">17.979790590</period>
 			<radius errorminus="0.021" errorplus="0.029">0.259</radius>
+			<period errorminus="3.77e-05" errorplus="3.77e-05">17.97979059</period>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".001710" errorplus="0.001710" unit="JD">2455015.243460</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>
 </system>

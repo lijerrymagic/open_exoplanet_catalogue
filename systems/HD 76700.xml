@@ -1,31 +1,34 @@
 <system>
 	<name>HD 76700</name>
 	<rightascension>08 53 55</rightascension>
-	<declination>-66 48 03</declination>
-	<distance>59.7</distance>
+	<declination>-66 48 02</declination>
+	<distance errorminus="2.45" errorplus="2.26">59.70</distance>
 	<star>
-		<mass>1</mass>
+		<name>HD 76700</name>
+		<mass errorminus="0.05" errorplus="0.05">1.0</mass>
 		<radius>1.33</radius>
-		<magV>8.13</magV>
+		<magV errorminus="0.012" errorplus="0.012">8.13</magV>
+		<magB errorminus="0.017" errorplus="0.017">8.878</magB>
 		<magJ errorminus="0.023" errorplus="0.023">6.911</magJ>
 		<magH errorminus="0.036" errorplus="0.036">6.613</magH>
-		<magK errorminus="0.024" errorplus="0.024">6.5</magK>
-		<magB>8.88</magB>
+		<magK errorminus="0.024" errorplus="0.024">6.500</magK>
+		<temperature errorminus="28.0" errorplus="28.0">5726.0</temperature>
+		<age errorminus="1.800" errorplus="1.800">4.51</age>
 		<metallicity>0.14</metallicity>
 		<spectraltype>G6 V</spectraltype>
 		<planet>
 			<name>HD 76700 b</name>
-			<list>Confirmed planets</list>
-			<mass>0.197</mass>
-			<period>3.971</period>
-			<semimajoraxis>0.049</semimajoraxis>
-			<eccentricity>0.0</eccentricity>
+			<mass errorminus="0.01700" errorplus="0.01700" type="Radial Velocity">0.23</mass>
+			<radius>0.99</radius>
+			<period errorminus="0.000203" errorplus="0.000203">3.97101</period>
+			<semimajoraxis errorminus="0.004" errorplus="0.004">0.049</semimajoraxis>
+			<eccentricity errorminus="0.0426" errorplus="0.0587">0.0616</eccentricity>
+			<periastron errorminus="54.3" errorplus="54.3">12.3</periastron>
+			<periastrontime errorminus="0.100000" errorplus="0.100000">2452659.1</periastrontime>
+			<maximumrvtime errorminus="0.100000" errorplus="0.100000">2452659.1</maximumrvtime>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/29</lastupdate>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2002</discoveryyear>
-			<temperature>1315.4</temperature>
 		</planet>
-		<name>HD 76700</name>
-		<temperature>5726.0</temperature>
 	</star>
 </system>

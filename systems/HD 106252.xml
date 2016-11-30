@@ -2,33 +2,33 @@
 	<name>HD 106252</name>
 	<rightascension>12 13 29</rightascension>
 	<declination>+10 02 29</declination>
-	<distance>37.44</distance>
+	<distance errorminus="1.30" errorplus="1.30">37.40</distance>
 	<star>
-		<mass>0.96</mass>
+		<name>HD 106252</name>
+		<mass errorminus="0.02" errorplus="0.02">0.96</mass>
 		<radius>1.09</radius>
-		<magV>7.36</magV>
-		<magB>8.00</magB>
-		<magR>7.0</magR>
-		<magI>6.7</magI>
-		<magJ>6.30</magJ>
-		<magH>6.02</magH>
-		<magK>5.93</magK>
-		<metallicity>-0.078</metallicity>
+		<magV errorminus="0.011" errorplus="0.011">7.36</magV>
+		<magB errorminus="0.017" errorplus="0.017">8.024</magB>
+		<magJ errorminus="0.024" errorplus="0.024">6.302</magJ>
+		<magH errorminus="0.047" errorplus="0.047">6.016</magH>
+		<magK errorminus="0.026" errorplus="0.026">5.929</magK>
+		<temperature errorminus="44.00" errorplus="44.00">5754.0</temperature>
+		<age>5.02</age>
+		<metallicity errorminus="0.030" errorplus="0.030">-0.078</metallicity>
 		<spectraltype>G0</spectraltype>
 		<planet>
 			<name>HD 106252 b</name>
-			<list>Confirmed planets</list>
-			<mass>7.56</mass>
-			<period>1600</period>
-			<semimajoraxis>2.7</semimajoraxis>
-			<eccentricity>0.47</eccentricity>
-			<inclination>166.7</inclination>
+			<mass errorminus="25.3" errorplus="39.5" type="Msini">32.9</mass>
+			<period errorminus="18.0" errorplus="18.0">1600.0</period>
+			<semimajoraxis errorminus="0.026000" errorplus="0.026000">2.7</semimajoraxis>
+			<eccentricity errorminus="0.028" errorplus="0.028">0.47</eccentricity>
+			<periastron errorminus="3.2" errorplus="3.2">292.2</periastron>
+			<periastrontime errorminus="17.0" errorplus="17.0">51871.0</periastrontime>
+			<maximumrvtime errorminus="17.0" errorplus="17.0">51871.0</maximumrvtime>
+			<inclination errorminus="160.2" errorplus="7.3">166.7</inclination>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/01/11</lastupdate>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2002</discoveryyear>
-			<temperature>158.8</temperature>
 		</planet>
-		<name>HD 106252</name>
-		<temperature>5754.0</temperature>
 	</star>
 </system>

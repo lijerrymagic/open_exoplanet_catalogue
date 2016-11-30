@@ -1,35 +1,31 @@
 <system>
 	<name>WASP-48</name>
-	<rightascension>19 24 39</rightascension>
+	<rightascension>19 24 38</rightascension>
 	<declination>+55 28 23</declination>
 	<star>
+		<name>WASP-48</name>
 		<mass errorminus="0.05" errorplus="0.05">1.19</mass>
 		<radius errorminus="0.09" errorplus="0.09">1.75</radius>
-		<magV>11.06</magV>
-		<magB errorminus="0.18" errorplus="0.18">12.31</magB>
-		<magR errorminus="0.05" errorplus="0.05">11.61</magR>
+		<magV errorminus="0.140" errorplus="0.140">11.06</magV>
 		<magJ errorminus="0.025" errorplus="0.025">10.627</magJ>
-		<magH errorminus="0.03" errorplus="0.03">10.44</magH>
+		<magH errorminus="0.032" errorplus="0.032">10.441</magH>
 		<magK errorminus="0.022" errorplus="0.022">10.372</magK>
+		<temperature errorminus="90.0" errorplus="90.0">5990.0</temperature>
+		<age errorminus="5.600" errorplus="1.200">6.600</age>
 		<metallicity errorminus="0.12" errorplus="0.12">-0.12</metallicity>
 		<planet>
 			<name>WASP-48 b</name>
-			<name>2MASS J19243895+5528233 b</name>
-			<list>Confirmed planets</list>
-			<mass errorminus="0.09" errorplus="0.09">0.98</mass>
-			<radius errorminus="0.10" errorplus="0.10">1.67</radius>
-			<period errorminus="0.000003" errorplus="0.000003">2.143634</period>
-			<semimajoraxis errorminus="0.00045" errorplus="0.00045">0.03444</semimajoraxis>
+			<mass errorminus="0.09" errorplus="0.09" type="Mass">0.98</mass>
+			<radius errorminus="0.08" errorplus="0.08">1.67</radius>
+			<period errorminus="3e-06" errorplus="3e-06">2.143634</period>
+			<semimajoraxis errorminus="0.00043" errorplus="0.00043">0.03444</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
-			<inclination errorminus="0.79" errorplus="0.88">80.09</inclination>
-			<transittime errorminus="0.00042" errorplus="0.00042" unit="BJD">2455364.55119</transittime>
+			<inclination errorminus="0.55" errorplus="0.55">80.09</inclination>
+			<temperature errorminus="54" errorplus="54">1956</temperature>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>11/04/15</lastupdate>
+			<transittime errorminus="0.00027" errorplus="0.00027">2455364.55043</transittime>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-			<temperature errorminus="70" errorplus="70">2030</temperature>
-			<istransiting>1</istransiting>
 		</planet>
-		<name>WASP-48</name>
-		<temperature errorminus="150" errorplus="150">5920</temperature>
 	</star>
 </system>

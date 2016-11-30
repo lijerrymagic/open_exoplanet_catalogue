@@ -1,0 +1,48 @@
+<system>
+	<name>PSR B1257+12</name>
+	<rightascension>13 00 03</rightascension>
+	<declination>+12 40 56</declination>
+	<distance errorminus="100.00" errorplus="100.00">600.00</distance>
+	<star>
+		<name>PSR B1257+12</name>
+		<age errorminus="3.000" errorplus="3.000">3.000</age>
+		<planet>
+			<name>PSR B1257+12 d</name>
+			<mass errorminus="0.00063" errorplus="0.00063" type="Mass">0.01227</mass>
+			<period errorminus="0.00020000" errorplus="0.00020000">98.21140000</period>
+			<semimajoraxis>0.460000</semimajoraxis>
+			<periastron errorminus="0.5000" errorplus="0.5000">108.3000</periastron>
+			<periastrontime errorminus="0.100000" errorplus="0.100000">2449767.000000</periastrontime>
+			<maximumrvtime errorminus="0.100000" errorplus="0.100000">2449767.000000</maximumrvtime>
+			<discoverymethod>Pulsar Timing</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>1992</discoveryyear>
+		</planet>
+		<planet>
+			<name>PSR B1257+12 b</name>
+			<mass errorminus="0.00001" errorplus="0.00001" type="Mass">0.00006</mass>
+			<period errorminus="0.00300000" errorplus="0.00300000">25.26200000</period>
+			<semimajoraxis>0.190000</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<periastron>0.0000</periastron>
+			<periastrontime errorminus="0.200000" errorplus="0.200000">2449765.600000</periastrontime>
+			<maximumrvtime errorminus="0.200000" errorplus="0.200000">2449765.600000</maximumrvtime>
+			<discoverymethod>Pulsar Timing</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>1994</discoveryyear>
+		</planet>
+		<planet>
+			<name>PSR B1257+12 c</name>
+			<mass errorminus="0.00063" errorplus="0.00063" type="Mass">0.01353</mass>
+			<period errorminus="0.00010000" errorplus="0.00010000">66.54190000</period>
+			<semimajoraxis>0.360000</semimajoraxis>
+			<eccentricity errorminus="0.000200" errorplus="0.000200">0.018600</eccentricity>
+			<periastron errorminus="0.6000" errorplus="0.6000">250.4000</periastron>
+			<periastrontime errorminus="0.100000" errorplus="0.100000">2449768.600000</periastrontime>
+			<maximumrvtime errorminus="0.100000" errorplus="0.100000">2449768.600000</maximumrvtime>
+			<discoverymethod>Pulsar Timing</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>1992</discoveryyear>
+		</planet>
+	</star>
+</system>

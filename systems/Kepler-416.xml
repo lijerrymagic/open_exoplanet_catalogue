@@ -1,0 +1,30 @@
+<system>
+	<name>Kepler-416</name>
+	<rightascension>19 26 13</rightascension>
+	<declination>+39 13 38</declination>
+	<star>
+		<name>Kepler-416</name>
+		<mass>1.00</mass>
+		<radius>1.07</radius>
+		<magV>14.028</magV>
+		<magJ errorminus="0.025" errorplus="0.025">12.874</magJ>
+		<magH errorminus="0.025" errorplus="0.025">12.576</magH>
+		<magK errorminus="0.027" errorplus="0.027">12.510</magK>
+		<planet>
+			<name>Kepler-416 b</name>
+			<mass errorminus="0.12400" errorplus="0.16800" type="Mass">0.18300</mass>
+			<radius errorminus="0.029" errorplus="0.088">0.221</radius>
+			<period>6.31900000</period>
+			<discoverymethod>Transit Timing Variations</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2014</discoveryyear>
+		</planet>
+		<planet>
+			<name>Kepler-416 c</name>
+			<period>12.20900000</period>
+			<discoverymethod>Transit Timing Variations</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2014</discoveryyear>
+		</planet>
+	</star>
+</system>
