@@ -1,0 +1,33 @@
+<system>
+	<name>HD 5583</name>
+	<rightascension>00 57 56</rightascension>
+	<declination>+34 59 08</declination>
+	<distance errorminus="14.00" errorplus="14.00">221.00</distance>
+	<star>
+		<name>HD 5583</name>
+		<mass errorminus="0.1" errorplus="0.1">1.01</mass>
+		<radius errorminus="1.5" errorplus="1.5">9.09</radius>
+		<magV errorminus="0.010" errorplus="0.010">7.6</magV>
+		<magB errorminus="0.020" errorplus="0.020">8.540</magB>
+		<magJ errorminus="0.017" errorplus="0.017">5.813</magJ>
+		<magH errorminus="0.023" errorplus="0.023">5.340</magH>
+		<magK errorminus="0.013" errorplus="0.013">5.221</magK>
+		<temperature errorminus="45.0" errorplus="45.0">4830.0</temperature>
+		<age errorminus="2.170" errorplus="3.060">7.4</age>
+		<metallicity errorminus="0.18" errorplus="0.18">-0.5</metallicity>
+		<spectraltype>K0</spectraltype>
+		<planet>
+			<name>HD 5583 b</name>
+			<mass errorminus="0.53" errorplus="0.53" type="Radial Velocity">5.78</mass>
+			<period errorminus="0.22" errorplus="0.22">139.35</period>
+			<semimajoraxis errorminus="0.02" errorplus="0.02">0.53</semimajoraxis>
+			<eccentricity errorminus="0.023" errorplus="0.07">0.076</eccentricity>
+			<periastron errorminus="6.0" errorplus="330.0">12.0</periastron>
+			<periastrontime errorminus="18.0" errorplus="18.0">2456021.0</periastrontime>
+			<maximumrvtime errorminus="18.0" errorplus="18.0">2456021.0</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

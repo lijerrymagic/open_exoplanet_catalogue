@@ -2,36 +2,47 @@
 	<name>Kepler-539</name>
 	<rightascension>19 56 29</rightascension>
 	<declination>+41 52 00</declination>
+	<distance errorminus="12.73" errorplus="13.20">313.00</distance>
 	<star>
 		<name>Kepler-539</name>
-		<mass errorminus="0.04" errorplus="0.04">1.05</mass>
-		<radius errorminus="0.02" errorplus="0.02">0.95</radius>
+		<mass errorminus="0.045" errorplus="0.045">1.048</mass>
+		<radius errorminus="0.02" errorplus="0.02">0.952</radius>
+		<magV>12.5</magV>
+		<magJ errorminus="0.021" errorplus="0.021">11.294</magJ>
+		<magH errorminus="0.022" errorplus="0.022">10.964</magH>
+		<magK errorminus="0.018" errorplus="0.018">10.915</magK>
 		<temperature errorminus="80.0" errorplus="80.0">5820.0</temperature>
+		<age errorminus="0.1" errorplus="0.7">1.1</age>
 		<metallicity errorminus="0.07" errorplus="0.07">-0.01</metallicity>
-		<planet>
-			<name>Kepler-539 b</name>
-			<list>Confirmed planets</list>
-			<radius errorminus="0.017" errorplus="0.017">0.747</radius>
-			<period errorminus="0.000710000" errorplus="0.000710000">125.632430000</period>
-			<semimajoraxis errorminus="0.006700000" errorplus="0.006700000">0.498800000</semimajoraxis>
-			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<discoverymethod>transit</discoverymethod>
-			<istransiting>1</istransiting>
-			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
-			<discoveryyear>2016</discoveryyear>
-		</planet>
+		<spectraltype>G2V</spectraltype>
 		<planet>
 			<name>Kepler-539 c</name>
-			<list>Confirmed planets</list>
-			<period>1000.000000000</period>
-			<semimajoraxis errorminus="0.510000000" errorplus="0.500000000">2.420000000</semimajoraxis>
-			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+			<name>KOI-372 c</name>
+			<mass errorminus="1.2" errorplus="1.2" type="TTV">2.4</mass>
+			<period errorminus="0.0" errorplus="inf">1000.0</period>
+			<semimajoraxis errorminus="0.510000" errorplus="0.500000">2.420000</semimajoraxis>
+			<eccentricity errorminus="0.1" errorplus="0.1">0.5</eccentricity>
+			<periastron errorminus="88.6400" errorplus="88.6300">254.9100</periastron>
+			<inclination errorminus="0.68" errorplus="59.0">97.92</inclination>
+			<temperature errorminus="27" errorplus="27">253</temperature>
+			<discoverymethod>TTV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2015</discoveryyear>
+		</planet>
+		<planet>
+			<name>Kepler-539 b</name>
+			<name>KOI-372 b</name>
+			<mass errorminus="0.29" errorplus="0.29" type="Radial Velocity">0.97</mass>
+			<radius errorminus="0.016" errorplus="0.016">0.747</radius>
+			<period errorminus="0.00071" errorplus="0.00071">125.63243</period>
+			<semimajoraxis errorminus="0.0054" errorplus="0.0054">0.4988</semimajoraxis>
+			<eccentricity errorminus="0.0" errorplus="0.39">0.0</eccentricity>
+			<inclination errorminus="0.086" errorplus="0.086">89.845</inclination>
+			<temperature errorminus="6" errorplus="6">388</temperature>
 			<discoverymethod>transit</discoverymethod>
-			<istransiting>1</istransiting>
-			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
-			<discoveryyear>2016</discoveryyear>
+			<transittime errorminus=".003000" errorplus="0.003000" unit="BJD-TDB">2455588.871000</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2015</discoveryyear>
 		</planet>
 	</star>
 </system>

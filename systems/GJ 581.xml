@@ -1,0 +1,59 @@
+<system>
+	<name>GJ 581</name>
+	<rightascension>15 19 26</rightascension>
+	<declination>-07 43 19</declination>
+	<distance errorminus="0.09" errorplus="0.09">6.27</distance>
+	<star>
+		<name>GJ 581</name>
+		<mass errorminus="0.02" errorplus="0.02">0.31</mass>
+		<radius errorminus="0.01" errorplus="0.01">0.3</radius>
+		<magV errorminus="0.011" errorplus="0.011">10.55</magV>
+		<magB errorminus="0.020" errorplus="0.020">12.190</magB>
+		<magJ errorminus="0.025" errorplus="0.025">6.706</magJ>
+		<magH errorminus="0.033" errorplus="0.033">6.095</magH>
+		<magK errorminus="0.022" errorplus="0.022">5.837</magK>
+		<temperature errorminus="56.0" errorplus="56.0">3498.0</temperature>
+		<age errorminus="1.0" errorplus="1.0">8.0</age>
+		<metallicity>-0.135</metallicity>
+		<spectraltype>M2.5V</spectraltype>
+		<planet>
+			<name>GJ 581 b</name>
+			<mass errorminus="0.00090" errorplus="0.00090" type="Msini">0.05</mass>
+			<period errorminus="9e-05" errorplus="9e-05">5.36865</period>
+			<semimajoraxis errorminus="0.000030" errorplus="0.000030">0.041</semimajoraxis>
+			<eccentricity errorminus="0.014" errorplus="0.014">0.031</eccentricity>
+			<periastron errorminus="26.0" errorplus="26.0">251.0</periastron>
+			<periastrontime errorminus="0.39" errorplus="0.39">2454753.95</periastrontime>
+			<maximumrvtime errorminus="0.39" errorplus="0.39">2454753.95</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2005</discoveryyear>
+		</planet>
+		<planet>
+			<name>GJ 581 c</name>
+			<mass errorminus="0.00090" errorplus="0.00090" type="Msini">0.017</mass>
+			<period errorminus="0.0022" errorplus="0.0022">12.9182</period>
+			<semimajoraxis errorminus="0.000300" errorplus="0.000300">0.073</semimajoraxis>
+			<eccentricity errorminus="0.06" errorplus="0.06">0.07</eccentricity>
+			<periastron errorminus="44.0" errorplus="44.0">235.0</periastron>
+			<periastrontime errorminus="1.6" errorplus="1.6">2454763.0</periastrontime>
+			<maximumrvtime errorminus="1.6" errorplus="1.6">2454763.0</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2007</discoveryyear>
+		</planet>
+		<planet>
+			<name>GJ 581 e</name>
+			<mass errorminus="0.00060" errorplus="0.00060" type="Msini">0.0061</mass>
+			<period errorminus="0.00017" errorplus="0.00017">3.14945</period>
+			<semimajoraxis errorminus="0.000060" errorplus="0.000060">0.028</semimajoraxis>
+			<eccentricity errorminus="0.09" errorplus="0.09">0.32</eccentricity>
+			<periastron errorminus="17.0" errorplus="17.0">236.0</periastron>
+			<periastrontime errorminus="0.13" errorplus="0.13">2454750.31</periastrontime>
+			<maximumrvtime errorminus="0.13" errorplus="0.13">2454750.31</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2009</discoveryyear>
+		</planet>
+	</star>
+</system>

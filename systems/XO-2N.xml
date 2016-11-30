@@ -1,0 +1,27 @@
+<system>
+	<name>XO-2N</name>
+	<declination>+50 13 32</declination>
+	<star>
+		<name>XO-2N</name>
+		<mass errorminus="0.02" errorplus="0.02">0.98</mass>
+		<radius errorminus="0.02" errorplus="0.02">0.964</radius>
+		<magV>11.18</magV>
+		<temperature errorminus="32.0" errorplus="32.0">5340.0</temperature>
+		<age>2.0</age>
+		<metallicity errorminus="0.02" errorplus="0.02">0.45</metallicity>
+		<spectraltype>K0V</spectraltype>
+		<planet>
+			<name>XO-2N b</name>
+			<mass errorminus="0.02" errorplus="0.02">0.62</mass>
+			<radius errorminus="0.03" errorplus="0.03">0.973</radius>
+			<period errorminus="8e-06" errorplus="8e-06">2.615838</period>
+			<semimajoraxis errorminus="0.002" errorplus="0.002">0.0369</semimajoraxis>
+			<eccentricity errorminus="0.024" errorplus="0.024">0.045</eccentricity>
+			<inclination errorminus="1.3" errorplus="1.3">88.7</inclination>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.0002" errorplus="0.0002">2454147.74902</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2007</discoveryyear>
+		</planet>
+	</star>
+</system>

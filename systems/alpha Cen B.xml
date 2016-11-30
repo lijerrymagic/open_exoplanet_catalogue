@@ -1,0 +1,22 @@
+<system>
+	<name>alpha Cen B</name>
+	<declination>-60 50 14</declination>
+	<star>
+		<name>alpha Cen B</name>
+		<mass errorminus="0.006" errorplus="0.006">0.934</mass>
+		<radius errorminus="0.0037" errorplus="0.0037">0.8632</radius>
+		<magV>1.33</magV>
+		<temperature errorminus="33.0" errorplus="33.0">5214.0</temperature>
+		<spectraltype>K1V</spectraltype>
+		<planet>
+			<name>alf Cen B b</name>
+			<mass errorminus="0.0003" errorplus="0.0003">0.0036</mass>
+			<period errorminus="0.0008" errorplus="0.0008">3.2357</period>
+			<semimajoraxis>0.04</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2012</discoveryyear>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,19 @@
+<system>
+	<name>OGLE 2005-BLG-71L</name>
+	<rightascension>17 50 09</rightascension>
+	<declination>-34 40 23</declination>
+	<distance errorminus="400.00" errorplus="400.00">3200.00</distance>
+	<star>
+		<name>OGLE 2005-BLG-71L</name>
+		<mass errorminus="0.04" errorplus="0.04">0.46</mass>
+		<planet>
+			<name>OGLE 2005-BLG-71L b</name>
+			<mass errorminus="0.40000" errorplus="0.40000" type="Mass">3.80000</mass>
+			<semimajoraxis errorminus="0.200000" errorplus="0.200000">3.600000</semimajoraxis>
+			<temperature>55</temperature>
+			<discoverymethod>microlensing</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2005</discoveryyear>
+		</planet>
+	</star>
+</system>

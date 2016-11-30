@@ -1,0 +1,36 @@
+<system>
+	<name>HATS-28</name>
+	<rightascension>18 57 35</rightascension>
+	<declination>-49 08 18</declination>
+	<distance errorminus="25.00" errorplus="25.00">521.00</distance>
+	<star>
+		<name>HATS-28</name>
+		<name>2MASS 18573592-4908184</name>
+		<name>GSC 8382-00661</name>
+		<mass errorminus="0.036" errorplus="0.036">0.929</mass>
+		<radius errorminus="0.04" errorplus="0.04">0.922</radius>
+		<magV errorminus="0.080" errorplus="0.080">13.934</magV>
+		<magB errorminus="0.020" errorplus="0.020">14.697</magB>
+		<magJ errorminus="0.023" errorplus="0.023">12.522</magJ>
+		<magH errorminus="0.024" errorplus="0.024">12.188</magH>
+		<magK errorminus="0.027" errorplus="0.027">12.086</magK>
+		<temperature errorminus="84.0" errorplus="84.0">5498.0</temperature>
+		<age errorminus="2.8" errorplus="2.8">6.2</age>
+		<metallicity errorminus="0.06" errorplus="0.06">0.01</metallicity>
+		<spectraltype>G</spectraltype>
+		<planet>
+			<name>HATS-28 b</name>
+			<mass errorminus="0.087" errorplus="0.087" type="Radial Velocity">0.672</mass>
+			<radius errorminus="0.07" errorplus="0.07">1.194</radius>
+			<period errorminus="3.9e-06" errorplus="3.9e-06">3.1810781</period>
+			<semimajoraxis errorminus="0.00053" errorplus="0.00053">0.04131</semimajoraxis>
+			<eccentricity errorminus="0.101" errorplus="0.101">0.101</eccentricity>
+			<inclination errorminus="0.42" errorplus="0.42">86.17</inclination>
+			<temperature errorminus="35" errorplus="35">1253</temperature>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.00046" errorplus="0.00046" unit="BJD">2457034.283</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

@@ -1,37 +1,32 @@
 <system>
 	<name>WASP-126</name>
-	<rightascension>04 13 29.72</rightascension>
-	<declination>-69 13 36.5</declination>
-	<distance errorminus="15" errorplus="15">234</distance>
+	<rightascension>04 13 29</rightascension>
+	<declination>-69 13 37</declination>
+	<distance errorminus="15.00" errorplus="15.00">234.00</distance>
 	<star>
 		<name>WASP-126</name>
-		<name>TYC 9153-833-1</name>
-		<name>2MASS J04132972-6913365</name>
 		<mass errorminus="0.06" errorplus="0.06">1.12</mass>
-		<magV errorminus="0.5" errorplus="0.5">10.8</magV>
-		<magB errorminus="0.022" errorplus="0.022">11.904</magB>
-		<magJ errorminus="0.021" errorplus="0.021">9.962</magJ>
-		<magH errorminus="0.023" errorplus="0.023">9.659</magH>
-		<magK errorminus="0.021" errorplus="0.021">9.598</magK>
-		<temperature errorminus="100" errorplus="100">5800</temperature>
+		<radius errorminus="0.05" errorplus="0.1">1.27</radius>
+		<magV errorminus="0.500" errorplus="0.500">10.8</magV>
+		<magJ errorminus="0.017" errorplus="0.017">9.962</magJ>
+		<magH errorminus="0.021" errorplus="0.021">9.659</magH>
+		<magK errorminus="0.019" errorplus="0.019">9.598</magK>
+		<temperature errorminus="100.0" errorplus="100.0">5800.0</temperature>
+		<age errorminus="1.6" errorplus="1.6">6.4</age>
 		<metallicity errorminus="0.08" errorplus="0.08">0.17</metallicity>
 		<spectraltype>G2</spectraltype>
 		<planet>
 			<name>WASP-126 b</name>
-			<name>TYC 9153-833-1 b</name>
-			<name>2MASS J04132972-6913365 b</name>
-			<list>Confirmed planets</list>
-			<mass errorminus="0.04" errorplus="0.04">0.28</mass>
-			<radius errorminus="0.05" errorplus="0.10">0.96</radius>
-			<period>3.28880</period>
+			<mass errorminus="0.04" errorplus="0.04" type="Radial Velocity">0.28</mass>
+			<radius errorminus="0.05" errorplus="0.1">0.96</radius>
+			<period errorminus="1e-05" errorplus="1e-05">3.2888</period>
 			<semimajoraxis errorminus="0.0008" errorplus="0.0008">0.0449</semimajoraxis>
+			<eccentricity errorminus="0.18" errorplus="0.0">0.18</eccentricity>
 			<inclination errorminus="1.5" errorplus="1.5">87.9</inclination>
-			<temperature errorminus="60" errorplus="60">1480</temperature>
-			<description>This Hot Jupiter was discovered by WASP-South. This low mass planet with a large radius is a good target for transmission spectroscopy.</description>
+			<temperature errorminus="60" errorplus="60">1480.0</temperature>
 			<discoverymethod>transit</discoverymethod>
-			<transittime unit="HJD">2547028.5834</transittime>
-			<istransiting>1</istransiting>
-			<lastupdate>16/02/04</lastupdate>
+			<transittime errorminus="0.0006" errorplus="0.0006" unit="HJD">2456890.3191</transittime>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

@@ -1,0 +1,35 @@
+<system>
+	<name>Kepler 455</name>
+	<name>KIC 3558849</name>
+	<rightascension>19 39 47</rightascension>
+	<declination>+38 36 18</declination>
+	<star>
+		<name>Kepler 455</name>
+		<name>KIC 3558849</name>
+		<name>WISE J193947.96+383618.7</name>
+		<name>2MASS J19394796+3836186</name>
+		<name>KOI-4307</name>
+		<mass errorminus="0.11" errorplus="0.11">0.98</mass>
+		<radius errorminus="0.105" errorplus="0.105">1.005</radius>
+		<magV>14.218</magV>
+		<magJ errorminus="0.023" errorplus="0.023">13.093</magJ>
+		<magH errorminus="0.027" errorplus="0.027">12.819</magH>
+		<magK errorminus="0.027" errorplus="0.027">12.767</magK>
+		<temperature errorminus="194.0" errorplus="168.0">6175.0</temperature>
+		<metallicity errorminus="0.28" errorplus="0.26">-0.42</metallicity>
+		<planet>
+			<name>Kepler-455 b</name>
+			<name>2MASS J19394796+3836186 b</name>
+			<name>WISE J193947.96+383618.7 b</name>
+			<name>KIC 3558849 b</name>
+			<name>KOI-4307 b</name>
+			<radius errorminus="0.08" errorplus="0.0892">0.62</radius>
+			<period errorminus="11.2" errorplus="386.1">1322.3</period>
+			<inclination errorminus="0.031" errorplus="0.023">89.973</inclination>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".300000" errorplus="0.440000" unit="BJD">2455112.920000</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2015</discoveryyear>
+		</planet>
+	</star>
+</system>

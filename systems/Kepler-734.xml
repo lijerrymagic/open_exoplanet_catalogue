@@ -1,23 +1,26 @@
 <system>
 	<name>Kepler-734</name>
-	<rightascension>19 48 11</rightascension>
-	<declination>+46 01 39</declination>
+	<rightascension>19 48 10</rightascension>
+	<declination>+46 01 38</declination>
+	<distance errorminus="22.51" errorplus="23.23">553.00</distance>
 	<star>
 		<name>Kepler-734</name>
 		<mass errorminus="0.04" errorplus="0.03">0.85</mass>
 		<radius errorminus="0.03" errorplus="0.03">0.78</radius>
-		<temperature errorminus="44.6" errorplus="51.7">5326.0</temperature>
+		<magV>15.017</magV>
+		<magJ errorminus="0.023" errorplus="0.023">13.107</magJ>
+		<magH errorminus="0.022" errorplus="0.022">12.746</magH>
+		<magK errorminus="0.025" errorplus="0.025">12.668</magK>
+		<temperature errorminus="44.6" errorplus="51.69">5326.0</temperature>
+		<age errorminus="1.030" errorplus="2.080">2.340</age>
 		<metallicity errorminus="0.11" errorplus="0.11">-0.17</metallicity>
 		<planet>
 			<name>Kepler-734 b</name>
-			<list>Confirmed planets</list>
 			<radius errorminus="0.012" errorplus="0.012">0.318</radius>
-			<period errorminus="0.000002890" errorplus="0.000002890">6.104852860</period>
-			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+			<period errorminus="2.89e-06" errorplus="2.89e-06">6.10485286</period>
 			<discoverymethod>transit</discoverymethod>
-			<istransiting>1</istransiting>
-			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<transittime errorminus=".000347" errorplus="0.000347" unit="JD">2455002.573341</transittime>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

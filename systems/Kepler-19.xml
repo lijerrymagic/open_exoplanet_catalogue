@@ -2,54 +2,37 @@
 	<name>Kepler-19</name>
 	<rightascension>19 21 41</rightascension>
 	<declination>+37 51 06</declination>
+	<distance>2119.00</distance>
 	<star>
 		<name>Kepler-19</name>
-		<name>KOI-84</name>
-		<name>KIC 2571238</name>
-		<mass errorminus="0.040" errorplus="0.040">0.936</mass>
-		<radius errorminus="0.018" errorplus="0.018">0.850</radius>
-		<magV>12</magV>
-		<magB errorminus="0.26" errorplus="0.26">12.88</magB>
-		<magR errorminus="0.05" errorplus="0.05">12.02</magR>
+		<mass errorminus="0.04" errorplus="0.04">0.936</mass>
+		<radius errorminus="0.018" errorplus="0.018">0.85</radius>
+		<magV>12.0</magV>
 		<magJ errorminus="0.020" errorplus="0.020">10.719</magJ>
 		<magH errorminus="0.016" errorplus="0.016">10.375</magH>
 		<magK errorminus="0.019" errorplus="0.019">10.318</magK>
-		<temperature errorminus="60" errorplus="60">5541</temperature>
+		<temperature errorminus="60.0" errorplus="60.0">5541.0</temperature>
 		<age errorminus="1.7" errorplus="1.7">1.9</age>
-		<metallicity>-0.13</metallicity>
-		<spectraltype>G8V</spectraltype>
+		<metallicity errorminus="0.06" errorplus="0.06">-0.13</metallicity>
 		<planet>
 			<name>Kepler-19 b</name>
-			<name>TYC 3134-1549-1 b</name>
-			<name>GSC 03134-01549 b</name>
-			<name>KOI-84.01</name>
-			<name>KOI-84 b</name>
-			<name>2MASS J19214099+3751064 b</name>
-			<name>KIC 2571238 b</name>
-			<list>Confirmed planets</list>
-			<radius errorminus="0.0043" errorplus="0.0043">0.1971</radius>
-			<period errorminus="0.0000088" errorplus="0.0000088">9.2869944</period>
-			<semimajoraxis errorminus="0.0012" errorplus="0.0012">0.0846</semimajoraxis>
-			<inclination errorminus="0.44" errorplus="0.06">89.94</inclination>
-			<description>Sinusoidal transit timing variations have been detected in this system. An additional planet might be present.</description>
+			<mass errorminus="inf" errorplus="nan" type="Mass">0.064</mass>
+			<radius errorminus="0.004" errorplus="0.004">0.198</radius>
+			<period errorminus="8.8e-06" errorplus="8.8e-06">9.2869944</period>
+			<semimajoraxis errorminus="0.0015" errorplus="0.0006">0.085</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="0.44" errorplus="0.44">89.94</inclination>
 			<discoverymethod>transit</discoverymethod>
 			<transittime errorminus="0.00036" errorplus="0.00036" unit="BJD">2454959.70597</transittime>
-			<istransiting>1</istransiting>
-			<lastupdate>11/09/09</lastupdate>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 		</planet>
 		<planet>
 			<name>Kepler-19 c</name>
-			<name>TYC 3134-1549-1 c</name>
-			<name>GSC 03134-01549 c</name>
-			<name>KOI-84 c</name>
-			<name>2MASS J19214099+3751064 c</name>
-			<name>KIC 2571238 c</name>
-			<list>Confirmed planets</list>
-			<description>The planet Kepler-19 c was the first confirmed detection of a planet by transit timing variations.</description>
-			<discoverymethod>timing</discoverymethod>
-			<istransiting>0</istransiting>
-			<lastupdate>15/03/18</lastupdate>
+			<mass type="Mass">6.00000</mass>
+			<period>160.00000000</period>
+			<discoverymethod>Transit Timing Variations</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 		</planet>
 	</star>

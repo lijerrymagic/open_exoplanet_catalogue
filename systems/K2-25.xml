@@ -1,0 +1,31 @@
+<system>
+	<name>K2-25</name>
+	<rightascension>04 13 05</rightascension>
+	<declination>+15 14 51</declination>
+	<distance errorminus="3.30" errorplus="3.30">45.70</distance>
+	<star>
+		<name>K2-25</name>
+		<mass errorminus="0.02" errorplus="0.02">0.29</mass>
+		<radius errorminus="0.02" errorplus="0.02">0.29</radius>
+		<magV errorminus="0.030" errorplus="0.030">15.881</magV>
+		<magB errorminus="0.289" errorplus="0.289">17.760</magB>
+		<magJ errorminus="0.021" errorplus="0.021">11.303</magJ>
+		<magH errorminus="0.020" errorplus="0.020">10.732</magH>
+		<magK errorminus="0.019" errorplus="0.019">10.444</magK>
+		<temperature errorminus="60.00" errorplus="60.00">3180.00</temperature>
+		<metallicity errorminus="0.030" errorplus="0.030">0.150</metallicity>
+		<spectraltype>M4.5</spectraltype>
+		<planet>
+			<name>K2-25 b</name>
+			<radius errorminus="0.028" errorplus="0.085">0.306</radius>
+			<period errorminus="0.00003700" errorplus="0.00003100">3.48455200</period>
+			<eccentricity errorminus="0.210000" errorplus="0.160000">0.270000</eccentricity>
+			<periastron errorminus="39.0000" errorplus="44.0000">62.0000</periastron>
+			<inclination errorminus="0.700" errorplus="1.200">88.300</inclination>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000240" errorplus="0.000490" unit="BJD">2457062.079350</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2015</discoveryyear>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,19 @@
+<system>
+	<name>GSC 6214-210</name>
+	<declination>-20 43 06</declination>
+	<star>
+		<name>GSC 6214-210</name>
+		<mass>0.6</mass>
+		<magK>9.15</magK>
+		<age errorminus="0.002" errorplus="0.002">0.011</age>
+		<spectraltype>M1</spectraltype>
+		<planet>
+			<name>GSC 6214-210 b</name>
+			<mass errorminus="3.0" errorplus="3.0">17.0</mass>
+			<semimajoraxis errorminus="0.0" errorplus="0.0">320.0</semimajoraxis>
+			<discoverymethod>imaging</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2010</discoveryyear>
+		</planet>
+	</star>
+</system>

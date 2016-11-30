@@ -1,30 +1,32 @@
 <system>
 	<name>HD 16175</name>
-	<rightascension>02 37 02</rightascension>
+	<rightascension>02 37 01</rightascension>
 	<declination>+42 03 45</declination>
-	<distance>59.8</distance>
+	<distance errorminus="3.69" errorplus="3.28">59.84</distance>
 	<star>
 		<name>HD 16175</name>
-		<mass>1.35</mass>
-		<radius>1.87</radius>
-		<magV>7.28</magV>
-		<magB errorminus="0.01" errorplus="0.01">7.92</magB>
-		<magJ errorminus="0.039" errorplus="0.039">6.166</magJ>
-		<magH errorminus="0.029" errorplus="0.029">5.922</magH>
-		<magK errorminus="0.021" errorplus="0.021">5.853</magK>
-		<temperature>6000.0</temperature>
-		<metallicity>0.23</metallicity>
+		<mass errorminus="0.09" errorplus="0.09">1.35</mass>
+		<radius errorminus="0.04" errorplus="0.04">1.87</radius>
+		<magV errorminus="0.010" errorplus="0.010">7.28</magV>
+		<magB errorminus="0.015" errorplus="0.015">7.926</magB>
+		<magJ errorminus="0.039" errorplus="0.039">6.17</magJ>
+		<magH errorminus="0.029" errorplus="0.029">5.92</magH>
+		<magK errorminus="0.021" errorplus="0.021">5.85</magK>
+		<temperature errorminus="34.0" errorplus="34.0">6022.0</temperature>
+		<age errorminus="1.0" errorplus="1.0">5.3</age>
+		<metallicity errorminus="0.03" errorplus="0.03">0.37</metallicity>
 		<spectraltype>G0</spectraltype>
 		<planet>
 			<name>HD 16175 b</name>
-			<list>Confirmed planets</list>
-			<mass>4.4</mass>
-			<period>990</period>
-			<semimajoraxis>2.1</semimajoraxis>
-			<eccentricity>0.59</eccentricity>
-			<temperature>243.7</temperature>
+			<mass errorminus="0.37" errorplus="0.37" type="Radial Velocity">4.77</mass>
+			<period errorminus="2.8" errorplus="2.8">995.4</period>
+			<semimajoraxis errorminus="0.076" errorplus="0.076">2.148</semimajoraxis>
+			<eccentricity errorminus="0.02" errorplus="0.02">0.637</eccentricity>
+			<periastron errorminus="2.2" errorplus="2.2">221.5</periastron>
+			<periastrontime errorminus="2.6" errorplus="2.6">2455801.4</periastrontime>
+			<maximumrvtime errorminus="2.6" errorplus="2.6">2455801.4</maximumrvtime>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/04/21</lastupdate>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 		</planet>
 	</star>

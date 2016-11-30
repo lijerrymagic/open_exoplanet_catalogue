@@ -1,0 +1,36 @@
+<system>
+	<name>CVSO 30</name>
+	<declination>+01 34 23</declination>
+	<star>
+		<name>CVSO 30</name>
+		<name>PTFO 8-8695</name>
+		<mass errorminus="0.05" errorplus="0.05">0.39</mass>
+		<radius>1.39</radius>
+		<magV>16.26</magV>
+		<temperature>3740.0</temperature>
+		<age errorminus="3e-05" errorplus="3e-05">0.00265</age>
+		<spectraltype>M3 PMS</spectraltype>
+		<planet>
+			<name>CVSO 30 b</name>
+			<name>PTFO 8-8695 b</name>
+			<mass errorminus="1.7" errorplus="1.9" type="Radial Velocity">6.2</mass>
+			<radius errorminus="0.21" errorplus="0.21">1.91</radius>
+			<period errorminus="4e-05" errorplus="4e-05">0.448413</period>
+			<semimajoraxis errorminus="0.00072" errorplus="0.00072">0.00838</semimajoraxis>
+			<inclination errorminus="3.7" errorplus="3.7">61.8</inclination>
+			<discoverymethod>transit</discoverymethod>
+			<transittime>2455543.9402</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2012</discoveryyear>
+		</planet>
+		<planet>
+			<name>CVSO 30 c</name>
+			<mass errorminus="2.0" errorplus="3.6" type="Spectrum">4.7</mass>
+			<radius errorminus="0.34" errorplus="0.87">1.63</radius>
+			<semimajoraxis errorminus="96.0" errorplus="96.0">662.0</semimajoraxis>
+			<discoverymethod>imaging</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

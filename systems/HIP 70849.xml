@@ -1,43 +1,28 @@
 <system>
 	<name>HIP 70849</name>
-	<rightascension>14 29 19</rightascension>
+	<rightascension>14 29 18</rightascension>
 	<declination>-46 27 50</declination>
-	<distance>24</distance>
-	<binary>
-		<separation unit="arcsec">377</separation>
-		<separation unit="AU">9050</separation>
-		<positionangle>262</positionangle>
-		<star>
-			<name>HIP 70849</name>
-			<mass>0.63</mass>
-			<magV>10.36</magV>
-			<magB>11.798</magB>
-			<magR>9.492</magR>
-			<magI>8.637</magI>
-			<magJ errorminus="0.023" errorplus="0.023">7.639</magJ>
-			<magH errorminus="0.061" errorplus="0.061">7.006</magH>
-			<magK errorminus="0.027" errorplus="0.027">6.790</magK>
-			<temperature>4105.0</temperature>
-			<spectraltype>K7V</spectraltype>
-			<planet>
-				<name>HIP 70849 b</name>
-				<list>Confirmed planets</list>
-				<list>Planets in binary systems, S-type</list>
-				<mass>9</mass>
-				<period>10000</period>
-				<semimajoraxis>10</semimajoraxis>
-				<eccentricity>0.6</eccentricity>
-				<discoverymethod>RV</discoverymethod>
-				<lastupdate>11/07/05</lastupdate>
-				<discoveryyear>2009</discoveryyear>
-			</planet>
-		</star>
-		<star>
-			<name>HIP 70849 B</name>
-			<mass>0.05</mass>
-			<magJ>15.533</magJ>
-			<magK>12.415</magK>
-			<spectraltype>T4-T5</spectraltype>
-		</star>
-	</binary>
+	<distance errorminus="1.22" errorplus="1.11">23.98</distance>
+	<star>
+		<name>HIP 70849</name>
+		<mass errorminus="0.03" errorplus="0.03">0.63</mass>
+		<magV errorminus="0.011" errorplus="0.011">10.36</magV>
+		<magB errorminus="0.009" errorplus="0.009">11.790</magB>
+		<magJ errorminus="0.023" errorplus="0.023">7.639</magJ>
+		<magH errorminus="0.061" errorplus="0.061">7.006</magH>
+		<magK errorminus="0.027" errorplus="0.027">6.790</magK>
+		<temperature errorminus="130.0" errorplus="130.0">4105.0</temperature>
+		<age errorminus="2.0" errorplus="2.0">3.0</age>
+		<spectraltype>K7V</spectraltype>
+		<planet>
+			<name>HIP 70849 b</name>
+			<mass errorminus="6.0" errorplus="6.0" type="Msini">9.0</mass>
+			<period errorminus="8000.0" errorplus="8000.0">10000.0</period>
+			<semimajoraxis errorminus="5.5" errorplus="5.5">10.0</semimajoraxis>
+			<eccentricity errorminus="0.13" errorplus="0.13">0.6</eccentricity>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2009</discoveryyear>
+		</planet>
+	</star>
 </system>

@@ -1,0 +1,28 @@
+<system>
+	<name>KOI-1257 A</name>
+	<declination>+44 35 39</declination>
+	<star>
+		<name>KOI-1257 A</name>
+		<mass errorminus="0.05" errorplus="0.05">0.99</mass>
+		<radius errorminus="0.14" errorplus="0.14">1.13</radius>
+		<temperature errorminus="80.0" errorplus="80.0">5520.0</temperature>
+		<age errorminus="3.0" errorplus="3.0">9.3</age>
+		<metallicity errorminus="0.09" errorplus="0.09">0.27</metallicity>
+		<spectraltype>G5V</spectraltype>
+		<planet>
+			<name>KOI-1257 A b</name>
+			<mass errorminus="0.35" errorplus="0.35">1.45</mass>
+			<radius errorminus="0.12" errorplus="0.12">0.94</radius>
+			<period errorminus="3.4e-05" errorplus="3.4e-05">86.647661</period>
+			<semimajoraxis errorminus="0.006" errorplus="0.006">0.382</semimajoraxis>
+			<eccentricity errorminus="0.045" errorplus="0.045">0.772</eccentricity>
+			<periastron errorminus="17.0" errorplus="17.0">141.3</periastron>
+			<inclination errorminus="0.24" errorplus="0.38">89.66</inclination>
+			<temperature>511.0</temperature>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.0004" errorplus="0.0004">2455006.79454</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2014</discoveryyear>
+		</planet>
+	</star>
+</system>

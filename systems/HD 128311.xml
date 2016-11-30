@@ -2,49 +2,45 @@
 	<name>HD 128311</name>
 	<rightascension>14 36 00</rightascension>
 	<declination>+09 44 47</declination>
-	<distance>16.6</distance>
 	<star>
 		<name>HD 128311</name>
-		<mass>0.828</mass>
-		<radius>0.73</radius>
-		<magV>7.51</magV>
-		<magB>8.441</magB>
-		<magR>6.895</magR>
-		<magI>6.425</magI>
+		<mass errorminus="0.01" errorplus="0.01">0.84</mass>
+		<radius errorminus="0.02" errorplus="0.02">0.73</radius>
+		<magV errorminus="0.050" errorplus="0.050">7.51</magV>
+		<magB>8.550</magB>
 		<magJ errorminus="0.018" errorplus="0.018">5.772</magJ>
-		<magH errorminus="0.03" errorplus="0.03">5.30</magH>
+		<magH errorminus="0.031" errorplus="0.031">5.303</magH>
 		<magK errorminus="0.017" errorplus="0.017">5.142</magK>
 		<temperature>4965.0</temperature>
+		<age>0.39</age>
 		<metallicity>0.08</metallicity>
 		<spectraltype>K0V</spectraltype>
 		<planet>
 			<name>HD 128311 b</name>
-			<list>Confirmed planets</list>
-			<mass errorminus="0.18" errorplus="0.15">1.83</mass>
-			<period errorminus="3.6" errorplus="4.2">460.1</period>
-			<eccentricity errorminus="0.04" errorplus="0.03">0.30</eccentricity>
-			<periastron errorminus="9.2" errorplus="6.4">-76.2</periastron>
-			<longitude errorminus="12.6" errorplus="11.9">259.2</longitude>
-			<inclination errorminus="35.9" errorplus="23.7">63.8</inclination>
-			<temperature>177.7</temperature>
-			<description>This planetary system is most likely in a 2:1 mean motion resonance. The inner planet orbits the star exactly twice during one orbit of the outer planet. This is a very stable configuration. Mean motion resonances help us to understand the formation of multiplanteray systems. The existense of this resonance is a strong indication that interactions with the protoplanetary disk migrated the planets to their current positions. A detailed analysis of the HD 128311 system shows that there also had to be non-adiabatic effects during the migration phase such as a third planet (Sandor and Kley 2006) or turbulence in the protoplanetary disk (Rein and Papaloizou 2009).</description>
+			<mass errorminus="0.022" errorplus="0.022" type="Msini">2.18</mass>
+			<period errorminus="6.8" errorplus="6.8">448.6</period>
+			<semimajoraxis errorminus="0.04" errorplus="0.04">1.099</semimajoraxis>
+			<eccentricity errorminus="0.1" errorplus="0.1">0.25</eccentricity>
+			<periastron errorminus="36.0" errorplus="36.0">110.9</periastron>
+			<periastrontime errorminus="76.0" errorplus="76.0">2450210.9</periastrontime>
+			<maximumrvtime errorminus="76.0" errorplus="76.0">2450210.9</maximumrvtime>
+			<inclination>30.000</inclination>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/01/08</lastupdate>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2002</discoveryyear>
 		</planet>
 		<planet>
 			<name>HD 128311 c</name>
-			<list>Confirmed planets</list>
-			<mass errorminus="0.08" errorplus="0.08">3.20</mass>
-			<period errorminus="6.0" errorplus="7.6">910.7</period>
-			<eccentricity errorminus="0.06" errorplus="0.08">0.12</eccentricity>
-			<periastron errorminus="12.0" errorplus="23.2">-19.7</periastron>
-			<longitude errorminus="10.7" errorplus="20">184.2</longitude>
-			<inclination errorminus="35.9" errorplus="23.7">63.8</inclination>
-			<temperature>140.7</temperature>
-			<description>This planetary system is most likely in a 2:1 mean motion resonance. The inner planet orbits the star exactly twice during one orbit of the outer planet. This is a very stable configuration. Mean motion resonances help us to understand the formation of multiplanteray systems. The existense of this resonance is a strong indication that interactions with the protoplanetary disk migrated the planets to their current positions. A detailed analysis of the HD 128311 system shows that there also had to be non-adiabatic effects during the migration phase such as a third planet (Sandor and Kley 2006) or turbulence in the protoplanetary disk (Rein and Papaloizou 2009).</description>
+			<mass errorminus="0.83" errorplus="1.27" type="Mass">4.19</mass>
+			<period errorminus="1.15000000" errorplus="1.15000000">919.0</period>
+			<semimajoraxis errorminus="0.13" errorplus="0.13">1.76</semimajoraxis>
+			<eccentricity errorminus="0.09" errorplus="0.09">0.17</eccentricity>
+			<periastron errorminus="150.0" errorplus="150.0">195.5</periastron>
+			<periastrontime errorminus="401.0" errorplus="401.0">2450012.2</periastrontime>
+			<maximumrvtime errorminus="401.0" errorplus="401.0">2450012.2</maximumrvtime>
+			<inclination errorminus="10.0" errorplus="10.0">50.0</inclination>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/01/08</lastupdate>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2005</discoveryyear>
 		</planet>
 	</star>

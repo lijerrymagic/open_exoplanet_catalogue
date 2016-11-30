@@ -1,0 +1,25 @@
+<system>
+	<name>HD 132563B</name>
+	<declination>+44 02 35</declination>
+	<star>
+		<name>HD 132563B</name>
+		<mass errorminus="0.01" errorplus="0.01">1.01</mass>
+		<magV>9.47</magV>
+		<temperature errorminus="100.0" errorplus="100.0">5985.0</temperature>
+		<age>5.0</age>
+		<metallicity errorminus="0.1" errorplus="0.1">-0.19</metallicity>
+		<planet>
+			<name>HD 132563 B b</name>
+			<mass errorminus="0.09" errorplus="0.09">1.49</mass>
+			<period errorminus="34.0" errorplus="34.0">1544.0</period>
+			<semimajoraxis errorminus="0.04" errorplus="0.04">2.62</semimajoraxis>
+			<eccentricity errorminus="0.09" errorplus="0.09">0.22</eccentricity>
+			<periastron errorminus="35.0" errorplus="35.0">158.0</periastron>
+			<periastrontime errorminus="148.0" errorplus="148.0">2452593.0</periastrontime>
+			<maximumrvtime errorminus="148.0" errorplus="148.0">2452593.0</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2011</discoveryyear>
+		</planet>
+	</star>
+</system>

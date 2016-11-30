@@ -1,29 +1,31 @@
 <system>
 	<name>HD 111232</name>
 	<rightascension>12 48 51</rightascension>
-	<declination>-68 25 30</declination>
-	<distance>29</distance>
+	<declination>-68 25 29</declination>
+	<distance errorminus="0.68" errorplus="0.65">28.88</distance>
 	<star>
 		<name>HD 111232</name>
 		<mass>0.78</mass>
 		<magV>7.61</magV>
-		<magB>8.29</magB>
+		<magB>8.291</magB>
 		<magJ errorminus="0.021" errorplus="0.021">6.328</magJ>
-		<magH errorminus="0.023" errorplus="0.023">5.975</magH>
+		<magH errorminus="0.022" errorplus="0.022">5.975</magH>
 		<magK errorminus="0.033" errorplus="0.033">5.898</magK>
 		<temperature>5494.0</temperature>
-		<metallicity>-0.36</metallicity>
+		<age>5.2</age>
+		<metallicity errorminus="0.04" errorplus="0.04">-0.36</metallicity>
 		<spectraltype>G8V</spectraltype>
 		<planet>
 			<name>HD 111232 b</name>
-			<list>Confirmed planets</list>
-			<mass>6.8</mass>
-			<period>1143</period>
+			<mass type="Msini">6.8</mass>
+			<period errorminus="14.0" errorplus="14.0">1143.0</period>
 			<semimajoraxis>1.97</semimajoraxis>
-			<eccentricity>0.2</eccentricity>
-			<temperature>163.3</temperature>
+			<eccentricity errorminus="0.01" errorplus="0.01">0.2</eccentricity>
+			<periastron errorminus="6.0" errorplus="6.0">98.0</periastron>
+			<periastrontime errorminus="20.0" errorplus="20.0">51230.0</periastrontime>
+			<maximumrvtime errorminus="20.0" errorplus="20.0">51230.0</maximumrvtime>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/29</lastupdate>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2004</discoveryyear>
 		</planet>
 	</star>

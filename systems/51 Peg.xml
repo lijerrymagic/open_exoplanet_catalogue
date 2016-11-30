@@ -1,44 +1,34 @@
 <system>
 	<name>51 Peg</name>
 	<rightascension>22 57 27</rightascension>
-	<declination>+20 46 07</declination>
-	<distance>14.7</distance>
+	<declination>+20 46 06</declination>
+	<distance errorminus="0.18" errorplus="0.18">15.36</distance>
 	<star>
 		<name>51 Peg</name>
-		<name>HD 217014</name>
-		<name>HIP 113357</name>
-		<name>HR 8729</name>
-		<name>BD+19 5036</name>
-		<name>Gliese 882</name>
-		<name>SAO 90896</name>
-		<name>TYC 1717-2193-1</name>
-		<mass>1.04</mass>
-		<radius>1.266</radius>
+		<mass errorminus="0.06" errorplus="0.06">1.11</mass>
+		<radius errorminus="0.046" errorplus="0.046">1.266</radius>
 		<magV>5.49</magV>
-		<magB>6.16</magB>
-		<magR>5.0</magR>
-		<magI>4.7</magI>
-		<magJ>4.66</magJ>
-		<magH>4.23</magH>
+		<magB>6.170</magB>
+		<magJ errorminus="0.296" errorplus="0.296">4.655</magJ>
+		<magH errorminus="0.270" errorplus="0.270">4.234</magH>
 		<magK errorminus="0.021" errorplus="0.021">3.911</magK>
-		<temperature>5793.0</temperature>
-		<metallicity>0.2</metallicity>
+		<temperature errorminus="70.0" errorplus="70.0">5793.0</temperature>
+		<age errorminus="2.5" errorplus="2.5">4.0</age>
+		<metallicity errorminus="0.07" errorplus="0.07">0.2</metallicity>
 		<spectraltype>G2 IV</spectraltype>
 		<planet>
 			<name>51 Peg b</name>
-			<name>Bellerophon</name>
-			<list>Confirmed planets</list>
-			<mass errorminus="0.01" errorplus="0.06">0.46</mass>
-			<period>4.231</period>
-			<semimajoraxis>0.052</semimajoraxis>
-			<eccentricity>0</eccentricity>
-			<periastron>0</periastron>
-			<periastrontime unit="BJD">2456021.256</periastrontime>
-			<inclination errorminus="19" errorplus="10">80</inclination>
-			<temperature>1260.3</temperature>
-			<description>51 Pegasi is a Sun-like star in the constellation Pegasus. The planet is also called Bellerophon. The lower limit for the radius is given for the limit of a perfectly-reflecting Lambert sphere.</description>
+			<mass errorminus="0.067" errorplus="0.033" type="Radial Velocity">0.47</mass>
+			<radius errorminus="0.3" errorplus="0.3">1.9</radius>
+			<period errorminus="3.72905e-05" errorplus="3.72905e-05">4.2308</period>
+			<semimajoraxis errorminus="0.003000" errorplus="0.003000">0.052</semimajoraxis>
+			<eccentricity errorminus="0.0066" errorplus="0.0069">0.0069</eccentricity>
+			<periastron errorminus="72.3" errorplus="72.3">54.1</periastron>
+			<periastrontime errorminus="0.610000" errorplus="0.610000">2450404.4</periastrontime>
+			<maximumrvtime errorminus="0.610000" errorplus="0.610000">2450404.4</maximumrvtime>
+			<inclination errorminus="10.0" errorplus="19.0">80.0</inclination>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/05/24</lastupdate>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>1995</discoveryyear>
 		</planet>
 	</star>

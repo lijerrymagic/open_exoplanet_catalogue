@@ -1,0 +1,33 @@
+<system>
+	<name>GJ 504</name>
+	<rightascension>13 16 46</rightascension>
+	<declination>+09 25 27</declination>
+	<distance errorminus="0.28" errorplus="0.27">17.95</distance>
+	<star>
+		<name>GJ 504</name>
+		<name>e Virginis</name>
+		<name>HR 5011</name>
+		<name>59 Virginis</name>
+		<mass errorminus="0.08" errorplus="0.08">1.22</mass>
+		<magV>5.22</magV>
+		<magB>5.800</magB>
+		<magJ errorminus="0.284" errorplus="0.284">4.392</magJ>
+		<magH errorminus="0.208" errorplus="0.208">4.107</magH>
+		<magK errorminus="0.238" errorplus="0.238">4.033</magK>
+		<temperature errorminus="25.0" errorplus="25.0">6234.0</temperature>
+		<age errorminus="0.06" errorplus="0.35">0.16</age>
+		<metallicity errorminus="0.03" errorplus="0.03">0.28</metallicity>
+		<spectraltype>GOV</spectraltype>
+		<planet>
+			<name>GJ 504 b</name>
+			<name>59 Vir b</name>
+			<mass errorminus="1.0" errorplus="4.5" type="Spectrum">4.0</mass>
+			<radius errorminus="0.07" errorplus="0.07">0.96</radius>
+			<semimajoraxis>43.5</semimajoraxis>
+			<temperature errorminus="20" errorplus="30">510</temperature>
+			<discoverymethod>imaging</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2013</discoveryyear>
+		</planet>
+	</star>
+</system>

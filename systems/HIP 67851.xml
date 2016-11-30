@@ -1,52 +1,43 @@
 <system>
 	<name>HIP 67851</name>
-	<rightascension>13 53 52.06197</rightascension>
-	<declination>-35 18 51.7033</declination>
-	<distance errorminus="1.7" errorplus="1.7">66.0</distance>
+	<rightascension>13 53 52</rightascension>
+	<declination>-35 18 52</declination>
 	<star>
 		<name>HIP 67851</name>
-		<name>HD 121056</name>
-		<name>HR 5224</name>
-		<name>Gliese 532.1</name>
-		<name>CD-34 9223</name>
-		<name>SAO 204963</name>
-		<name>TYC 7287-1874-1</name>
-		<mass errorminus="0.18" errorplus="0.18">1.30</mass>
-		<radius errorminus="0.29" errorplus="0.29">5.87</radius>
+		<mass errorminus="0.22" errorplus="0.22">1.63</mass>
+		<radius errorminus="0.44" errorplus="0.44">5.52</radius>
 		<magV>6.17</magV>
-		<magB>7.21</magB>
-		<magJ errorminus="0.32" errorplus="0.32">4.48</magJ>
+		<magB>7.180</magB>
+		<magJ errorminus="0.316" errorplus="0.316">4.479</magJ>
 		<magH errorminus="0.246" errorplus="0.246">3.810</magH>
 		<magK errorminus="0.236" errorplus="0.236">3.751</magK>
-		<temperature errorminus="100" errorplus="100">4805</temperature>
-		<metallicity errorminus="0.10" errorplus="0.10">-0.03</metallicity>
-		<spectraltype>K0III</spectraltype>
-		<planet>
-			<name>HIP 67851 b</name>
-			<name>HD 121056 b</name>
-			<list>Confirmed planets</list>
-			<mass errorminus="0.15" errorplus="0.15">1.38</mass>
-			<period errorminus="0.1" errorplus="0.1">88.9</period>
-			<semimajoraxis errorminus="0.02" errorplus="0.02">0.46</semimajoraxis>
-			<eccentricity errorminus="0.04" errorplus="0.04">0.05</eccentricity>
-			<periastron errorminus="132" errorplus="132">300</periastron>
-			<description>HIP 67851 b is one of the rare examples of a close-in planet orbiting a red giant star.</description>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/05/25</lastupdate>
-			<discoveryyear>2014</discoveryyear>
-		</planet>
+		<temperature errorminus="100.0" errorplus="100.0">4890.0</temperature>
+		<metallicity errorminus="0.1" errorplus="0.1">0.0</metallicity>
+		<spectraltype>KOIII</spectraltype>
 		<planet>
 			<name>HIP 67851 c</name>
-			<name>HD 121056 c</name>
-			<list>Confirmed planets</list>
-			<mass errorminus="0.76" errorplus="0.76">5.98</mass>
+			<mass errorminus="0.76" errorplus="0.76" type="Radial Velocity">5.98</mass>
 			<period errorminus="88.3" errorplus="88.3">2131.8</period>
 			<semimajoraxis errorminus="0.23" errorplus="0.23">3.82</semimajoraxis>
 			<eccentricity errorminus="0.06" errorplus="0.06">0.17</eccentricity>
-			<periastron errorminus="17" errorplus="17">205</periastron>
-			<description>HIP 67851 c orbits a red giant star. Currently the parameters are sufficiently uncertain that it is not clear whether or not it will be engulfed during the further expansion of its parent star.</description>
+			<periastron errorminus="20.5" errorplus="20.5">166.5</periastron>
+			<periastrontime errorminus="235.7" errorplus="235.7">2452684.1</periastrontime>
+			<maximumrvtime errorminus="235.7" errorplus="235.7">2452684.1</maximumrvtime>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/05/25</lastupdate>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2015</discoveryyear>
+		</planet>
+		<planet>
+			<name>HIP 67851 b</name>
+			<mass errorminus="0.15" errorplus="0.15" type="Radial Velocity">1.38</mass>
+			<period errorminus="0.1" errorplus="0.1">88.9</period>
+			<semimajoraxis errorminus="0.02" errorplus="0.02">0.46</semimajoraxis>
+			<eccentricity errorminus="0.04" errorplus="0.04">0.05</eccentricity>
+			<periastron errorminus="60.0" errorplus="60.0">138.1</periastron>
+			<periastrontime errorminus="16.7" errorplus="16.7">2452997.8</periastrontime>
+			<maximumrvtime errorminus="16.7" errorplus="16.7">2452997.8</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

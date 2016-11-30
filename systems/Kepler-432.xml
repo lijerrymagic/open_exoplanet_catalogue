@@ -1,0 +1,56 @@
+<system>
+	<name>Kepler-432</name>
+	<rightascension>19 33 07</rightascension>
+	<declination>+48 17 09</declination>
+	<distance errorminus="20.00" errorplus="20.00">870.00</distance>
+	<star>
+		<name>Kepler-432</name>
+		<mass errorminus="0.1" errorplus="0.1">1.35</mass>
+		<radius errorminus="0.12" errorplus="0.12">4.15</radius>
+		<magV errorminus="0.060" errorplus="0.060">13.0</magV>
+		<magJ errorminus="0.021" errorplus="0.021">10.684</magJ>
+		<magH errorminus="0.019" errorplus="0.019">10.221</magH>
+		<magK errorminus="0.017" errorplus="0.017">10.121</magK>
+		<temperature errorminus="60.0" errorplus="60.0">5020.0</temperature>
+		<age errorminus="0.6" errorplus="1.0">3.6</age>
+		<metallicity errorminus="0.06" errorplus="0.06">-0.02</metallicity>
+		<spectraltype>K2III</spectraltype>
+		<planet>
+			<name>Kepler-432 c</name>
+			<mass errorminus="0.24000" errorplus="0.22000" type="Msini">2.43000</mass>
+			<period errorminus="2.50000000" errorplus="3.90000000">406.20000000</period>
+			<eccentricity errorminus="0.059000" errorplus="0.029000">0.498000</eccentricity>
+			<periastron errorminus="11.2000" errorplus="7.0000">60.8000</periastron>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2015</discoveryyear>
+		</planet>
+		<planet>
+			<name>Kepler-432 b</name>
+			<mass errorminus="0.301" errorplus="0.192" type="Radial Velocity">5.41</mass>
+			<radius errorminus="0.039" errorplus="0.039">1.45</radius>
+			<period errorminus="7e-05" errorplus="0.000107">52.501134</period>
+			<semimajoraxis errorminus="0.016" errorplus="0.011">0.301</semimajoraxis>
+			<eccentricity errorminus="0.0084" errorplus="0.0107">0.5121</eccentricity>
+			<periastron errorminus="1.8" errorplus="1.8">65.6</periastron>
+			<inclination errorminus="0.61" errorplus="0.33">88.17</inclination>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.0018" errorplus="0.0018" unit="BJD">2455949.5374</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2014</discoveryyear>
+		</planet>
+		<planet>
+			<name>KOI-1299 c</name>
+			<mass errorminus="0.4" errorplus="0.4" type="Radial Velocity">2.63</mass>
+			<period errorminus="0.9" errorplus="3.2">411.0</period>
+			<semimajoraxis errorminus="0.06" errorplus="0.04">1.188</semimajoraxis>
+			<eccentricity errorminus="0.14" errorplus="0.14">0.64</eccentricity>
+			<periastron errorminus="9.0" errorplus="9.0">53.2</periastron>
+			<periastrontime errorminus="3.0" errorplus="2.0">2456134.9</periastrontime>
+			<maximumrvtime errorminus="3.0" errorplus="2.0">2456134.9</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2014</discoveryyear>
+		</planet>
+	</star>
+</system>

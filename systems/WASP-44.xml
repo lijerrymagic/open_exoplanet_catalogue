@@ -1,38 +1,30 @@
 <system>
 	<name>WASP-44</name>
-	<rightascension>00 15 37</rightascension>
+	<rightascension>00 15 36</rightascension>
 	<declination>-11 56 17</declination>
 	<star>
 		<name>WASP-44</name>
-		<mass>0.917</mass>
-		<radius>0.865</radius>
+		<mass errorminus="0.034" errorplus="0.034">0.951</mass>
+		<radius errorminus="0.07" errorplus="0.07">0.927</radius>
 		<magV>12.9</magV>
-		<magB>13.7</magB>
-		<magR errorminus="0.07" errorplus="0.07">13.17</magR>
-		<magI errorminus="0.04" errorplus="0.04">12.19</magI>
 		<magJ errorminus="0.023" errorplus="0.023">11.702</magJ>
 		<magH errorminus="0.025" errorplus="0.025">11.408</magH>
 		<magK errorminus="0.026" errorplus="0.026">11.341</magK>
-		<temperature>5410.0</temperature>
-		<age>4.1</age>
-		<metallicity>0.06</metallicity>
+		<temperature errorminus="150.0" errorplus="150.0">5410.0</temperature>
+		<age errorminus="0.6" errorplus="0.6">0.9</age>
+		<metallicity errorminus="0.1" errorplus="0.1">0.06</metallicity>
 		<spectraltype>G8V</spectraltype>
 		<planet>
 			<name>WASP-44 b</name>
-			<name>2MASS J00153675-1156172 b</name>
-			<list>Confirmed planets</list>
-			<mass>0.869</mass>
-			<radius>1.002</radius>
-			<period>2.4238133</period>
-			<semimajoraxis>0.03445</semimajoraxis>
+			<mass errorminus="0.062" errorplus="0.062" type="Mass">0.889</mass>
+			<radius errorminus="0.11" errorplus="0.11">1.14</radius>
+			<period errorminus="8.7e-06" errorplus="8.7e-06">2.4238039</period>
+			<semimajoraxis errorminus="0.00041" errorplus="0.00041">0.03473</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
-			<inclination>86.02</inclination>
-			<temperature>1304</temperature>
-			<description>WASP-44 b is a sub-Jupiter mass planet in a 2.42 day orbit around a G8V star. It was discovered by the WASP collaboration and published in a paper by Anderson et al. (2012).</description>
+			<inclination errorminus="0.86" errorplus="0.86">86.02</inclination>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.00040" errorplus="0.00040" unit="BJD">2455434.37674</transittime>
-			<istransiting>1</istransiting>
-			<lastupdate>13/01/14</lastupdate>
+			<transittime errorminus="0.0004" errorplus="0.0004" unit="HJD-UTC">2455434.376</transittime>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 		</planet>
 	</star>

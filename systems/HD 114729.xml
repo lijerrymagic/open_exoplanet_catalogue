@@ -1,43 +1,32 @@
 <system>
 	<name>HD 114729</name>
 	<rightascension>13 12 44</rightascension>
-	<declination>-31 52 24</declination>
-	<distance>35</distance>
-	<binary>
-		<separation unit="arcsec">8.05</separation>
-		<separation unit="AU">282</separation>
-		<positionangle>333</positionangle>
-		<star>
-			<name>HD 114729 A</name>
-			<mass>0.93</mass>
-			<radius>1.46</radius>
-			<magV>6.69</magV>
-			<magB>7.31</magB>
-			<magJ errorminus="0.019" errorplus="0.019">5.559</magJ>
-			<magH errorminus="0.031" errorplus="0.031">5.29</magH>
-			<magK errorminus="0.023" errorplus="0.023">5.136</magK>
-			<age>6</age>
-			<metallicity>-0.22</metallicity>
-			<spectraltype>G3 V</spectraltype>
-			<planet>
-				<name>HD 114729 A b</name>
-				<name>HD 114729 b</name>
-				<list>Confirmed planets</list>
-				<list>Planets in binary systems, S-type</list>
-				<mass>0.84</mass>
-				<period>1135</period>
-				<semimajoraxis>2.08</semimajoraxis>
-				<eccentricity>0.32</eccentricity>
-				<description>The planet HD 114720 A b is orbiting a Sun-like star approximately 114 light years away. It has a mass similar to Jupiter and was discovered by the California and Carnegie Planet Search.</description>
-				<discoverymethod>RV</discoverymethod>
-				<lastupdate>12/12/08</lastupdate>
-				<discoveryyear>2002</discoveryyear>
-			</planet>
-		</star>
-		<star>
-			<name>HD 114729 B</name>
-			<mass>0.253</mass>
-			<spectraltype>M</spectraltype>
-		</star>
-	</binary>
+	<declination>-31 52 23</declination>
+	<distance errorminus="1.23" errorplus="1.15">35.00</distance>
+	<star>
+		<name>HD 114729</name>
+		<mass>0.93</mass>
+		<radius>1.46</radius>
+		<magV>6.69</magV>
+		<magJ errorminus="0.019" errorplus="0.019">5.559</magJ>
+		<magH errorminus="0.031" errorplus="0.031">5.290</magH>
+		<magK errorminus="0.022" errorplus="0.022">5.136</magK>
+		<temperature>5662.0</temperature>
+		<age>4.58</age>
+		<metallicity>-0.22</metallicity>
+		<spectraltype>G3 V</spectraltype>
+		<planet>
+			<name>HD 114729 b</name>
+			<mass errorminus="0.10000" errorplus="0.10000" type="Msini">0.84</mass>
+			<period errorminus="9.0" errorplus="9.0">1135.0</period>
+			<semimajoraxis errorminus="0.120000" errorplus="0.120000">2.08</semimajoraxis>
+			<eccentricity errorminus="0.18" errorplus="0.18">0.32</eccentricity>
+			<periastron errorminus="30.0" errorplus="30.0">73.0</periastron>
+			<periastrontime errorminus="67.0" errorplus="67.0">2450520.0</periastrontime>
+			<maximumrvtime errorminus="67.0" errorplus="67.0">2450520.0</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2002</discoveryyear>
+		</planet>
+	</star>
 </system>

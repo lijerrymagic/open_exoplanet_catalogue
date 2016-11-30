@@ -1,0 +1,29 @@
+<system>
+	<name>KELT-4 A</name>
+	<declination>+00 00 00</declination>
+	<star>
+		<name>KELT-4 A</name>
+		<mass errorminus="0.063" errorplus="0.072">1.204</mass>
+		<radius errorminus="0.068" errorplus="0.078">1.61</radius>
+		<temperature errorminus="76.0" errorplus="76.0">6207.0</temperature>
+		<age errorminus="0.81" errorplus="0.88">4.38</age>
+		<metallicity errorminus="0.071" errorplus="0.067">-0.116</metallicity>
+		<spectraltype>F</spectraltype>
+		<planet>
+			<name>KELT-4A b</name>
+			<mass errorminus="0.0683" errorplus="0.0717" type="Radial Velocity">0.884</mass>
+			<radius errorminus="0.076" errorplus="0.085">1.706</radius>
+			<period errorminus="4.9e-06" errorplus="4.9e-06">2.9895933</period>
+			<semimajoraxis errorminus="0.00077" errorplus="0.00085">0.04321</semimajoraxis>
+			<eccentricity errorminus="0.021" errorplus="0.016">0.03</eccentricity>
+			<periastron errorminus="130.0" errorplus="110.0">300.0</periastron>
+			<periastrontime errorminus="0.00022" errorplus="0.00022">2456190.30201</periastrontime>
+			<maximumrvtime errorminus="0.00022" errorplus="0.00022">2456190.30201</maximumrvtime>
+			<inclination errorminus="0.57" errorplus="0.48">83.11</inclination>
+			<temperature>1827.0</temperature>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2013</discoveryyear>
+		</planet>
+	</star>
+</system>

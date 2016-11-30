@@ -2,48 +2,43 @@
 	<name>HD 109271</name>
 	<rightascension>12 33 35</rightascension>
 	<declination>-11 37 18</declination>
-	<distance>62</distance>
+	<distance errorminus="3.22" errorplus="2.89">56.92</distance>
 	<star>
 		<name>HD 109271</name>
-		<name>HIP 61300</name>
-		<mass>1.047</mass>
-		<magV>8.05</magV>
-		<magB errorminus="0.02" errorplus="0.02">8.71</magB>
-		<magJ errorminus="0.026" errorplus="0.026">6.855</magJ>
+		<mass errorminus="0.024" errorplus="0.024">1.047</mass>
+		<magV errorminus="0.013" errorplus="0.013">8.05</magV>
+		<magB errorminus="0.018" errorplus="0.018">8.714</magB>
+		<magJ errorminus="0.025" errorplus="0.025">6.855</magJ>
 		<magH errorminus="0.026" errorplus="0.026">6.555</magH>
 		<magK errorminus="0.026" errorplus="0.026">6.495</magK>
-		<temperature>5783</temperature>
-		<age>7.3</age>
-		<metallicity>0.10</metallicity>
+		<temperature errorminus="62.0" errorplus="62.0">5783.0</temperature>
+		<age errorminus="1.2" errorplus="1.2">7.3</age>
+		<metallicity errorminus="0.05" errorplus="0.05">0.1</metallicity>
 		<spectraltype>G5V</spectraltype>
 		<planet>
-			<name>HD 109271 b</name>
-			<name>HIP 61300 b</name>
-			<list>Confirmed planets</list>
-			<mass>0.054</mass>
-			<period>7.8543</period>
-			<semimajoraxis>0.079</semimajoraxis>
-			<eccentricity>0.25</eccentricity>
-			<periastron>-64</periastron>
-			<temperature>1076.0</temperature>
-			<description>This planet was discovered with the European HARPS instrument. The system hosts at least two planetary companions. The architecture of this system is very similar to that of HD 698430. That might suggest that certain architectures are preferred in Nature.</description>
+			<name>HD 109271 c</name>
+			<mass errorminus="0.007" errorplus="0.007" type="Msini">0.076</mass>
+			<period errorminus="0.02" errorplus="0.02">30.93</period>
+			<semimajoraxis errorminus="0.003" errorplus="0.003">0.196</semimajoraxis>
+			<eccentricity errorminus="0.09" errorplus="0.09">0.15</eccentricity>
+			<periastron errorminus="120.0" errorplus="120.0">4.0</periastron>
+			<periastrontime errorminus="8.0" errorplus="8.0">2455733.0</periastrontime>
+			<maximumrvtime errorminus="8.0" errorplus="8.0">2455733.0</maximumrvtime>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>13/01/14</lastupdate>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 		</planet>
 		<planet>
-			<name>HD 109271 c</name>
-			<name>HIP 61300 c</name>
-			<list>Confirmed planets</list>
-			<mass>0.076</mass>
-			<period>30.93</period>
-			<semimajoraxis>0.196</semimajoraxis>
-			<eccentricity>0.15</eccentricity>
-			<periastron>4</periastron>
-			<temperature>684.9</temperature>
-			<description>This planet was discovered with the European HARPS instrument. The system hosts at least two planetary companions. The architecture of this system is very similar to that of HD 698430. That might suggest that certain architectures are preferred in Nature.</description>
+			<name>HD 109271 b</name>
+			<mass errorminus="0.004" errorplus="0.004" type="Msini">0.054</mass>
+			<period errorminus="0.0009" errorplus="0.0009">7.8543</period>
+			<semimajoraxis errorminus="0.001" errorplus="0.001">0.079</semimajoraxis>
+			<eccentricity errorminus="0.08" errorplus="0.08">0.25</eccentricity>
+			<periastron errorminus="20.0" errorplus="20.0">296.0</periastron>
+			<periastrontime errorminus="3.6" errorplus="3.6">2455719.1</periastrontime>
+			<maximumrvtime errorminus="3.6" errorplus="3.6">2455719.1</maximumrvtime>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>13/01/14</lastupdate>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 		</planet>
 	</star>

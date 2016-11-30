@@ -1,46 +1,33 @@
 <system>
 	<name>HD 27442</name>
 	<rightascension>04 16 29</rightascension>
-	<declination>-59 18 07</declination>
-	<distance>18.1</distance>
-	<binary>
-		<separation unit="arcsec">13.8</separation>
-		<separation unit="AU">250</separation>
-		<positionangle>36</positionangle>
-		<star>
-			<name>HD 27442 A</name>
-			<name>Epsilon Reticuli A</name>
-			<mass>1.2</mass>
-			<radius>6.6</radius>
-			<magV>4.44</magV>
-			<magB>5.517</magB>
-			<magR>3.62</magR>
-			<magI>3.08</magI>
-			<magJ errorminus="0.24" errorplus="0.24">2.37</magJ>
-			<magH errorminus="0.18" errorplus="0.18">1.81</magH>
-			<magK errorminus="0.22" errorplus="0.22">1.75</magK>
-			<metallicity>0.22</metallicity>
-			<spectraltype>K2 IV a</spectraltype>
-			<planet>
-				<name>HD 27442 A b</name>
-				<name>HD 27442 b</name>
-				<name>Epsilon Reticuli A b</name>
-				<list>Confirmed planets</list>
-				<list>Planets in binary systems, S-type</list>
-				<mass>1.35</mass>
-				<period>415.2</period>
-				<semimajoraxis>1.16</semimajoraxis>
-				<eccentricity>0.058</eccentricity>
-				<description>Epsilon Reticuli is a binary star system in the constellation of Reticulum. The secondary is a white dwarf star. The primary, an orange subgiant, is host to a Jupiter mass planet.</description>
-				<discoverymethod>RV</discoverymethod>
-				<lastupdate>12/12/07</lastupdate>
-				<discoveryyear>2000</discoveryyear>
-			</planet>
-		</star>
-		<star>
-			<name>HD 27442 B</name>
-			<name>Epsilon Reticuli B</name>
-			<mass>0.75</mass>
-		</star>
-	</binary>
+	<declination>-59 18 06</declination>
+	<distance errorminus="0.17" errorplus="0.17">18.24</distance>
+	<star>
+		<name>HD 27442</name>
+		<mass errorminus="0.1" errorplus="0.1">1.2</mass>
+		<radius>6.6</radius>
+		<magV>4.44</magV>
+		<magB>5.520</magB>
+		<magJ errorminus="0.236" errorplus="0.236">2.374</magJ>
+		<magH errorminus="0.184" errorplus="0.184">1.814</magH>
+		<magK errorminus="0.218" errorplus="0.218">1.745</magK>
+		<temperature errorminus="50.0" errorplus="50.0">4749.0</temperature>
+		<age>7.15</age>
+		<metallicity errorminus="0.030" errorplus="0.030">0.22</metallicity>
+		<spectraltype>K2 IV a</spectraltype>
+		<planet>
+			<name>HD 27442 b</name>
+			<mass errorminus="0.11" errorplus="0.11" type="Msini">1.35</mass>
+			<period errorminus="0.5" errorplus="0.5">415.2</period>
+			<semimajoraxis errorminus="0.11" errorplus="0.11">1.16</semimajoraxis>
+			<eccentricity errorminus="0.05" errorplus="0.05">0.058</eccentricity>
+			<periastron errorminus="20.0" errorplus="20.0">347.0</periastron>
+			<periastrontime errorminus="0.4" errorplus="0.4">2451849.3</periastrontime>
+			<maximumrvtime errorminus="0.4" errorplus="0.4">2451849.3</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2000</discoveryyear>
+		</planet>
+	</star>
 </system>

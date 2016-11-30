@@ -1,0 +1,55 @@
+<system>
+	<name>Proxima Centauri</name>
+	<name>Proxima Cen</name>
+	<rightascension>14 29 42</rightascension>
+	<declination>-62 40 46</declination>
+	<distance errorminus=".00" errorplus="0.00">1.29</distance>
+	<star>
+		<name>Proxima Cen</name>
+		<mass errorminus="0.01" errorplus="0.01">0.12</mass>
+		<radius errorminus="0.02" errorplus="0.02">0.14</radius>
+		<magV>11.110</magV>
+		<magB errorminus="0.020" errorplus="0.020">12.770</magB>
+		<magJ errorminus="0.023" errorplus="0.023">5.357</magJ>
+		<magH errorminus="0.057" errorplus="0.057">4.835</magH>
+		<magK errorminus="0.033" errorplus="0.033">4.384</magK>
+		<temperature errorminus="100.00" errorplus="100.00">3050.00</temperature>
+		<spectraltype>M5.5 V</spectraltype>
+		<planet>
+			<name>Proxima Cen b</name>
+			<mass errorminus="0.00053" errorplus="0.00060" type="Msini">0.00400</mass>
+			<period errorminus="0.00200000" errorplus="0.00100000">11.18600000</period>
+			<semimajoraxis errorminus="0.005100" errorplus="0.004100">0.048500</semimajoraxis>
+			<eccentricity>0.350000</eccentricity>
+			<periastron>310.0000</periastron>
+			<temperature errorminus="14" errorplus="6">234</temperature>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+	<star>
+		<name>Proxima Centauri</name>
+		<name>alpha Cen C</name>
+		<name>GL 551</name>
+		<name>HIP 70890</name>
+		<mass errorminus="0.015" errorplus="0.015">0.12</mass>
+		<radius errorminus="0.021" errorplus="0.021">0.141</radius>
+		<magV>11.13</magV>
+		<temperature errorminus="100.0" errorplus="100.0">3050.0</temperature>
+		<spectraltype>M5.5V</spectraltype>
+		<planet>
+			<name>Proxima Cen b</name>
+			<name>HIP 70890 b</name>
+			<name>GL 551 C b</name>
+			<name>alpha Cen C b</name>
+			<mass errorminus="0.0006" errorplus="0.0006" type="Radial Velocity">0.004</mass>
+			<period errorminus="0.001" errorplus="0.001">11.186</period>
+			<semimajoraxis errorminus="0.0041" errorplus="0.0041">0.0485</semimajoraxis>
+			<eccentricity errorminus="0.0" errorplus="0.35">0.0</eccentricity>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

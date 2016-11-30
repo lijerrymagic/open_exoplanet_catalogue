@@ -1,0 +1,58 @@
+<system>
+	<name>KOI-94</name>
+	<declination>+41 53 27</declination>
+	<star>
+		<name>KOI-94</name>
+		<name>Kepler-89</name>
+		<mass errorminus="0.04" errorplus="0.04">1.25</mass>
+		<radius>1.656</radius>
+		<magV>12.4</magV>
+		<temperature errorminus="30.0" errorplus="30.0">6116.0</temperature>
+		<age errorminus="0.3" errorplus="0.3">3.9</age>
+		<metallicity errorminus="0.04" errorplus="0.04">-0.01</metallicity>
+		<planet>
+			<name>Kepler-89 b</name>
+			<mass errorminus="0.014" errorplus="0.014">0.033</mass>
+			<radius errorminus="0.014" errorplus="0.014">0.153</radius>
+			<period errorminus="3.1e-05" errorplus="3.1e-05">3.7432451</period>
+			<semimajoraxis>0.05</semimajoraxis>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.00019" errorplus="0.00019">2454965.74047</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2012</discoveryyear>
+		</planet>
+		<planet>
+			<name>Kepler-89 c</name>
+			<mass errorminus="0.049" errorplus="0.018">0.049</mass>
+			<radius errorminus="0.008" errorplus="0.008">0.386</radius>
+			<period errorminus="2.6e-05" errorplus="2.6e-05">10.423707</period>
+			<semimajoraxis>0.099</semimajoraxis>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.00093" errorplus="0.00093">2454971.00718</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2012</discoveryyear>
+		</planet>
+		<planet>
+			<name>Kepler-89 d</name>
+			<mass errorminus="0.022" errorplus="0.021">0.164</mass>
+			<radius errorminus="0.0085" errorplus="0.0085">0.98</radius>
+			<period errorminus="1.1e-05" errorplus="1.1e-05">22.3430004</period>
+			<semimajoraxis>0.165</semimajoraxis>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.00019" errorplus="0.00019">2454965.74047</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2012</discoveryyear>
+		</planet>
+		<planet>
+			<name>Kepler-89 e</name>
+			<mass errorminus="0.007" errorplus="0.008">0.041</mass>
+			<radius errorminus="0.05" errorplus="0.05">0.55</radius>
+			<period errorminus="0.00012" errorplus="0.00012">54.319931</period>
+			<semimajoraxis>0.298</semimajoraxis>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.00079" errorplus="0.00079">2454994.23998</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2012</discoveryyear>
+		</planet>
+	</star>
+</system>

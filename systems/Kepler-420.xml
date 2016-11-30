@@ -1,0 +1,35 @@
+<system>
+	<name>Kepler-420</name>
+	<rightascension>19 24 54</rightascension>
+	<declination>+44 55 38</declination>
+	<distance errorminus="110.00" errorplus="110.00">900.00</distance>
+	<star>
+		<name>Kepler-420</name>
+		<mass errorminus="0.05" errorplus="0.05">0.99</mass>
+		<radius errorminus="0.14" errorplus="0.14">1.13</radius>
+		<magV errorminus="0.062" errorplus="0.062">14.867</magV>
+		<magB errorminus="0.098" errorplus="0.098">15.830</magB>
+		<magJ errorminus="0.024" errorplus="0.024">13.222</magJ>
+		<magH errorminus="0.023" errorplus="0.023">12.827</magH>
+		<magK errorminus="0.022" errorplus="0.022">12.726</magK>
+		<temperature errorminus="80.00" errorplus="80.00">5520.00</temperature>
+		<age errorminus="3.000" errorplus="3.000">9.300</age>
+		<metallicity errorminus="0.090" errorplus="0.090">0.270</metallicity>
+		<spectraltype>G5 V</spectraltype>
+		<planet>
+			<name>Kepler-420 b</name>
+			<mass errorminus="0.35000" errorplus="0.35000" type="Mass">1.45000</mass>
+			<radius errorminus="0.120" errorplus="0.120">0.940</radius>
+			<period errorminus="0.00003400" errorplus="0.00003400">86.64766100</period>
+			<semimajoraxis errorminus="0.006000" errorplus="0.006000">0.382000</semimajoraxis>
+			<eccentricity errorminus="0.045000" errorplus="0.045000">0.772000</eccentricity>
+			<periastron errorminus="17.0000" errorplus="17.0000">141.3000</periastron>
+			<inclination errorminus="0.380" errorplus="0.240">89.660</inclination>
+			<temperature errorminus="50" errorplus="50">511</temperature>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000300" errorplus="0.000300" unit="BJD-TDB">2455006.794540</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2014</discoveryyear>
+		</planet>
+	</star>
+</system>

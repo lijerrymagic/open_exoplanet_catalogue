@@ -1,32 +1,30 @@
 <system>
 	<name>HD 114613</name>
-	<rightascension>13 12 03.18502</rightascension>
-	<declination>-37 48 10.8901</declination>
-	<distance errorminus="0.13" errorplus="0.13">20.67</distance>
+	<rightascension>13 12 03</rightascension>
+	<declination>-36 11 48</declination>
+	<distance errorminus="0.34" errorplus="0.33">20.48</distance>
 	<star>
 		<name>HD 114613</name>
 		<mass>1.364</mass>
 		<magV>4.85</magV>
-		<magB>5.55</magB>
-		<magR>4.28</magR>
-		<magI>3.92</magI>
-		<magJ>3.64</magJ>
+		<magB>5.550</magB>
+		<magJ errorminus="0.252" errorplus="0.252">3.692</magJ>
 		<magH errorminus="0.206" errorplus="0.206">3.346</magH>
-		<magK>3.27</magK>
-		<temperature errorminus="17" errorplus="17">5729</temperature>
-		<metallicity errorminus="0.01" errorplus="0.01">0.19</metallicity>
-		<spectraltype>G4IV</spectraltype>
+		<magK errorminus="0.256" errorplus="0.256">3.303</magK>
+		<temperature errorminus="17.0" errorplus="17.0">5729.0</temperature>
+		<metallicity>0.18</metallicity>
+		<spectraltype>G3-4</spectraltype>
 		<planet>
 			<name>HD 114613 b</name>
-			<list>Confirmed planets</list>
-			<mass errorminus="0.04" errorplus="0.04">0.48</mass>
-			<period errorminus="105" errorplus="105">3827</period>
+			<mass errorminus="0.04" errorplus="0.04" type="Msini">0.48</mass>
+			<period errorminus="105.0" errorplus="105.0">3827.0</period>
 			<semimajoraxis errorminus="0.13" errorplus="0.13">5.16</semimajoraxis>
 			<eccentricity errorminus="0.08" errorplus="0.08">0.25</eccentricity>
-			<periastron errorminus="5" errorplus="5">244</periastron>
-			<description>HD 114613 b is a Jupiter analogue with a period of 10 years and a moderate eccentricity of 0.25. The planet was discovered by the Anglo-Australian Planet Search group.</description>
+			<periastron errorminus="5.0" errorplus="5.0">244.0</periastron>
+			<periastrontime>2455550.3</periastrontime>
+			<maximumrvtime>2455550.3</maximumrvtime>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>14/01/25</lastupdate>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

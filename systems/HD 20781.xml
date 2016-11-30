@@ -1,0 +1,29 @@
+<system>
+	<name>HD 20781</name>
+	<declination>-28 47 02</declination>
+	<star>
+		<name>HD 20781</name>
+		<magV>8.44</magV>
+		<spectraltype>G9.5V</spectraltype>
+		<planet>
+			<name>HD 20781 b</name>
+			<mass errorminus="0.0035" errorplus="0.0035">0.0379</mass>
+			<period errorminus="0.0201" errorplus="0.0201">29.15</period>
+			<semimajoraxis errorminus="0.0028" errorplus="0.0028">0.169</semimajoraxis>
+			<eccentricity errorminus="0.06" errorplus="0.06">0.11</eccentricity>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2011</discoveryyear>
+		</planet>
+		<planet>
+			<name>HD 20781 c</name>
+			<mass errorminus="0.0038" errorplus="0.0038">0.0496</mass>
+			<period errorminus="0.1161" errorplus="0.1161">85.131</period>
+			<semimajoraxis errorminus="0.0047" errorplus="0.0047">0.3456</semimajoraxis>
+			<eccentricity errorminus="0.09" errorplus="0.09">0.28</eccentricity>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2011</discoveryyear>
+		</planet>
+	</star>
+</system>

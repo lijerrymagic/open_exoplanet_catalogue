@@ -1,0 +1,83 @@
+<system>
+	<name>GJ 785</name>
+	<name>HD 192310</name>
+	<rightascension>20 15 17</rightascension>
+	<declination>-27 01 59</declination>
+	<distance errorminus="0.07" errorplus="0.07">8.82</distance>
+	<star>
+		<name>HD 192310</name>
+		<mass>0.80</mass>
+		<magV>5.730</magV>
+		<magB>6.608</magB>
+		<magJ errorminus="0.294" errorplus="0.294">4.112</magJ>
+		<magH errorminus="0.266" errorplus="0.266">3.582</magH>
+		<magK errorminus="0.232" errorplus="0.232">3.501</magK>
+		<temperature errorminus="49.00" errorplus="49.00">5166.00</temperature>
+		<age errorminus="0.900" errorplus="0.900">7.810</age>
+		<metallicity errorminus="0.030" errorplus="0.030">-0.040</metallicity>
+		<spectraltype>K3 V</spectraltype>
+		<planet>
+			<name>HD 192310 b</name>
+			<mass errorminus="0.00280" errorplus="0.00280" type="Msin(i)/sin(i)">0.05320</mass>
+			<period errorminus="0.10000000" errorplus="0.10000000">74.72000000</period>
+			<semimajoraxis errorminus="0.005000" errorplus="0.005000">0.320000</semimajoraxis>
+			<eccentricity errorminus="0.040000" errorplus="0.040000">0.130000</eccentricity>
+			<periastron errorminus="20.0000" errorplus="20.0000">173.0000</periastron>
+			<inclination>90.000</inclination>
+			<temperature>355</temperature>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2011</discoveryyear>
+		</planet>
+		<planet>
+			<name>HD 192310 c</name>
+			<mass errorminus="0.01600" errorplus="0.01600" type="Msin(i)/sin(i)">0.07600</mass>
+			<period errorminus="9.20000000" errorplus="9.20000000">525.80000000</period>
+			<semimajoraxis errorminus="0.025000" errorplus="0.025000">1.180000</semimajoraxis>
+			<eccentricity errorminus="0.110000" errorplus="0.110000">0.320000</eccentricity>
+			<periastron errorminus="21.0000" errorplus="21.0000">110.0000</periastron>
+			<inclination>90.000</inclination>
+			<temperature>185</temperature>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2011</discoveryyear>
+		</planet>
+	</star>
+	<star>
+		<name>GJ 785</name>
+		<mass errorminus="0.02" errorplus="0.02">0.78</mass>
+		<radius errorminus="0.02" errorplus="0.02">0.68</radius>
+		<magV>6.13</magV>
+		<temperature errorminus="50.0" errorplus="50.0">5144.0</temperature>
+		<metallicity errorminus="0.03" errorplus="0.03">0.08</metallicity>
+		<spectraltype>K1V</spectraltype>
+		<planet>
+			<name>GJ 785 b</name>
+			<name>HD 192310 b</name>
+			<mass errorminus="0.003" errorplus="0.003" type="Radial Velocity">0.0532</mass>
+			<period errorminus="0.1" errorplus="0.1">74.72</period>
+			<semimajoraxis errorminus="0.005" errorplus="0.005">0.32</semimajoraxis>
+			<eccentricity errorminus="0.04" errorplus="0.04">0.13</eccentricity>
+			<periastron errorminus="20.0" errorplus="20.0">173.0</periastron>
+			<temperature>355.0</temperature>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2010</discoveryyear>
+		</planet>
+		<planet>
+			<name>GJ 785 c</name>
+			<name>HD 192310 c</name>
+			<mass errorminus="0.02" errorplus="0.02" type="Radial Velocity">0.076</mass>
+			<period errorminus="9.2" errorplus="9.2">525.8</period>
+			<semimajoraxis errorminus="0.025" errorplus="0.025">1.18</semimajoraxis>
+			<eccentricity errorminus="0.11" errorplus="0.11">0.32</eccentricity>
+			<periastron errorminus="21.0" errorplus="21.0">110.0</periastron>
+			<periastrontime>2455151.02575</periastrontime>
+			<maximumrvtime>2455151.02575</maximumrvtime>
+			<temperature>185.0</temperature>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2011</discoveryyear>
+		</planet>
+	</star>
+</system>

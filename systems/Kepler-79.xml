@@ -1,91 +1,74 @@
 <system>
 	<name>Kepler-79</name>
-	<name>KOI-152</name>
-	<name>KIC 8394721</name>
-	<rightascension>20 02 04.114</rightascension>
-	<declination>+44 22 53.44</declination>
-	<distance>1100.38</distance>
+	<rightascension>20 02 04</rightascension>
+	<declination>+44 22 53</declination>
 	<star>
 		<name>Kepler-79</name>
 		<name>KOI-152</name>
-		<name>KIC 8394721</name>
-		<name>UCAC3 269-182620</name>
-		<mass errorminus="0.1000" errorplus="0.1000">1.1800</mass>
-		<radius errorminus=".252" errorplus="0.252">1.403</radius>
-		<magV>13.99</magV>
-		<magB>14.68</magB>
-		<magR errorminus="0.13" errorplus="0.13">14.20</magR>
+		<mass errorminus="0.045" errorplus="0.044">1.165</mass>
+		<radius errorminus="0.027" errorplus="0.026">1.302</radius>
+		<magV>14.11</magV>
 		<magJ errorminus="0.025" errorplus="0.025">12.913</magJ>
 		<magH errorminus="0.025" errorplus="0.025">12.653</magH>
-		<magK errorminus="0.03" errorplus="0.03">12.61</magK>
-		<temperature errorminus="100" errorplus="100">6189</temperature>
+		<magK errorminus="0.031" errorplus="0.031">12.606</magK>
+		<temperature errorminus="117.0" errorplus="83.0">6174.0</temperature>
+		<age errorminus="0.6" errorplus="0.91">3.44</age>
+		<metallicity errorminus="0.009" errorplus="0.062">-0.073</metallicity>
 		<planet>
-			<name>Kepler-79 d</name>
-			<name>KOI-152 d</name>
-			<name>KOI-152.01</name>
-			<name>KIC 8394721 d</name>
-			<name>KIC 8394721.01</name>
-			<name>UCAC3 269-182620 d</name>
-			<list>Confirmed planets</list>
-			<radius errorminus="0.03281" errorplus="0.12394">0.69168</radius>
-			<period errorminus=".000073" errorplus="0.000073">52.090590</period>
-			<description>Kepler-79 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-79 d are still unknown, the object is highly unlikely to be a false positive.</description>
+			<name>Kepler-79 b</name>
+			<mass errorminus="0.018872" errorplus="0.023276" type="Mass">0.034285</mass>
+			<radius errorminus="0.006245" errorplus="0.006245">0.309568</radius>
+			<period errorminus="0.0002" errorplus="0.0002">13.4845</period>
+			<semimajoraxis errorminus="0.002" errorplus="0.002">0.117</semimajoraxis>
+			<eccentricity errorminus="0.006" errorplus="0.012">0.015</eccentricity>
+			<inclination errorminus="0.09" errorplus="0.07">88.78</inclination>
+			<temperature>868.0</temperature>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0007700" errorplus="0.0007700">2454991.7450800</transittime>
-			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
-			<discoveryyear>2014</discoveryyear>
+			<transittime errorminus=".002000" errorplus="0.002000" unit="JD">2455684.307000</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2013</discoveryyear>
 		</planet>
 		<planet>
 			<name>Kepler-79 c</name>
-			<name>KOI-152 c</name>
-			<name>KOI-152.02</name>
-			<name>KIC 8394721 c</name>
-			<name>KIC 8394721.02</name>
-			<name>UCAC3 269-182620 c</name>
-			<list>Confirmed planets</list>
-			<radius errorminus="0.06379" errorplus="0.06379">0.35450</radius>
-			<period errorminus=".000078" errorplus="0.000078">27.401994</period>
-			<description>Kepler-79 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-79 c are still unknown, the object is highly unlikely to be a false positive.</description>
+			<mass errorminus="0.007234" errorplus="0.005976" type="Mass">0.018558</mass>
+			<radius errorminus="0.007" errorplus="0.007">0.332</radius>
+			<period errorminus="0.0006" errorplus="0.0008">27.4029</period>
+			<semimajoraxis errorminus="0.003" errorplus="0.002">0.187</semimajoraxis>
+			<eccentricity errorminus="0.021" errorplus="0.027">0.03</eccentricity>
+			<inclination errorminus="0.09" errorplus="0.07">89.48</inclination>
+			<temperature>685.0</temperature>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0016100" errorplus="0.0016100">2454966.6323900</transittime>
-			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
-			<discoveryyear>2014</discoveryyear>
-		</planet>
-		<planet>
-			<name>Kepler-79 b</name>
-			<name>KOI-152 b</name>
-			<name>KOI-152.03</name>
-			<name>KIC 8394721 b</name>
-			<name>KIC 8394721.03</name>
-			<name>UCAC3 269-182620 b</name>
-			<list>Confirmed planets</list>
-			<radius errorminus="0.06015" errorplus="0.06015">0.33171</radius>
-			<period errorminus=".000036" errorplus="0.000036">13.484686</period>
-			<description>Kepler-79 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-79 b are still unknown, the object is highly unlikely to be a false positive.</description>
-			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0015800" errorplus="0.0015800">2454969.6133500</transittime>
-			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
-			<discoveryyear>2014</discoveryyear>
+			<transittime errorminus=".004000" errorplus="0.004000" unit="JD">2455706.475000</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2013</discoveryyear>
 		</planet>
 		<planet>
 			<name>Kepler-79 e</name>
-			<name>KOI-152 e</name>
-			<name>KOI-152.04</name>
-			<name>KIC 8394721 e</name>
-			<name>KIC 8394721.04</name>
-			<name>UCAC3 269-182620 e</name>
-			<list>Confirmed planets</list>
-			<radius errorminus="0.06288" errorplus="0.06288">0.30620</radius>
-			<period errorminus=".001365" errorplus="0.001365">81.065298</period>
-			<description>Kepler-79 e has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-79 e are still unknown, the object is highly unlikely to be a false positive.</description>
+			<mass errorminus="0.0034" errorplus="0.0037" type="Mass">0.0129</mass>
+			<radius errorminus="0.1" errorplus="0.1">0.312</radius>
+			<period errorminus="0.0013" errorplus="0.0013">81.0659</period>
+			<semimajoraxis errorminus="0.005" errorplus="0.005">0.386</semimajoraxis>
+			<eccentricity errorminus="0.005" errorplus="0.044">0.012</eccentricity>
+			<inclination errorminus="0.02" errorplus="0.02">89.13</inclination>
+			<temperature>477.0</temperature>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0096900" errorplus="0.0096900">2454972.5290800</transittime>
-			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
-			<discoveryyear>2014</discoveryyear>
+			<transittime errorminus=".005000" errorplus="0.003000" unit="JD">2455702.126000</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2013</discoveryyear>
+		</planet>
+		<planet>
+			<name>Kepler-79 d</name>
+			<mass errorminus="0.005033" errorplus="0.006605" type="Mass">0.018872</mass>
+			<radius errorminus="0.012" errorplus="0.012">0.64</radius>
+			<period errorminus="0.001" errorplus="0.001">52.0902</period>
+			<semimajoraxis errorminus="0.004" errorplus="0.004">0.287</semimajoraxis>
+			<eccentricity errorminus="0.023" errorplus="0.059">0.025</eccentricity>
+			<inclination errorminus="0.03" errorplus="0.07">89.93</inclination>
+			<temperature>553.0</temperature>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".001000" errorplus="0.002000" unit="JD">2455721.011000</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2013</discoveryyear>
 		</planet>
 	</star>
 </system>

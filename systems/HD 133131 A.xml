@@ -1,0 +1,45 @@
+<system>
+	<name>HD 133131 A</name>
+	<rightascension>15 03 35</rightascension>
+	<declination>-27 50 27</declination>
+	<distance>47.00</distance>
+	<star>
+		<name>HD 133131 A</name>
+		<mass>0.95</mass>
+		<magV>8.4</magV>
+		<magB errorminus="0.022" errorplus="0.022">9.053</magB>
+		<magJ errorminus="0.024" errorplus="0.024">7.256</magJ>
+		<magH errorminus="0.038" errorplus="0.038">6.949</magH>
+		<magK errorminus="0.020" errorplus="0.020">6.895</magK>
+		<temperature errorminus="19.0" errorplus="19.0">5799.0</temperature>
+		<age>9.7</age>
+		<metallicity errorminus="0.016" errorplus="0.016">-0.306</metallicity>
+		<spectraltype>G2V</spectraltype>
+		<planet>
+			<name>HD 133131 A b</name>
+			<mass errorminus="0.04" errorplus="0.04" type="Msini">1.43</mass>
+			<period errorminus="3.0" errorplus="3.0">649.0</period>
+			<semimajoraxis errorminus="0.005" errorplus="0.005">1.44</semimajoraxis>
+			<eccentricity errorminus="0.03" errorplus="0.03">0.32</eccentricity>
+			<periastron errorminus="4.7000" errorplus="4.7000">16.0000</periastron>
+			<periastrontime errorminus="23.000000" errorplus="23.000000">2452327.000000</periastrontime>
+			<maximumrvtime errorminus="23.000000" errorplus="23.000000">2452327.000000</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+		<planet>
+			<name>HD 133131 A c</name>
+			<mass errorminus="0.14" errorplus="0.14" type="Radial Velocity">0.48</mass>
+			<period errorminus="970.0" errorplus="970.0">3407.0</period>
+			<semimajoraxis errorminus="0.82" errorplus="0.82">4.36</semimajoraxis>
+			<eccentricity errorminus="0.22" errorplus="0.22">0.47</eccentricity>
+			<periastron errorminus="37.0000" errorplus="37.0000">100.0000</periastron>
+			<periastrontime errorminus="1171.0" errorplus="1171.0">2452277.0</periastrontime>
+			<maximumrvtime errorminus="1171.0" errorplus="1171.0">2452277.0</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

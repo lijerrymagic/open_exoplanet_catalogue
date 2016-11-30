@@ -1,39 +1,33 @@
 <system>
 	<name>WASP-72</name>
 	<rightascension>02 44 09</rightascension>
-	<declination>-30 10 08</declination>
-	<distance errorminus="60" errorplus="60">340</distance>
+	<declination>-30 10 09</declination>
+	<distance errorminus="60.00" errorplus="60.00">340.00</distance>
 	<star>
 		<name>WASP-72</name>
-		<mass>1.23</mass>
-		<radius>1.37</radius>
-		<magV>10.88</magV>
-		<magB errorminus="0.07" errorplus="0.07">11.51</magB>
-		<magR>10.47</magR>
-		<magI errorminus="0.03" errorplus="0.03">10.428</magI>
-		<magJ errorminus="0.024" errorplus="0.024">9.964</magJ>
-		<magH errorminus="0.024" errorplus="0.024">9.724</magH>
-		<magK errorminus="0.021" errorplus="0.021">9.617</magK>
-		<temperature errorminus="100" errorplus="100">6250</temperature>
-		<metallicity>-0.06</metallicity>
+		<mass errorminus="0.055" errorplus="0.055">1.386</mass>
+		<radius errorminus="0.24" errorplus="0.24">1.98</radius>
+		<magV>9.6</magV>
+		<magJ errorminus="0.021" errorplus="0.021">9.964</magJ>
+		<magH errorminus="0.022" errorplus="0.022">9.724</magH>
+		<magK errorminus="0.019" errorplus="0.019">9.617</magK>
+		<temperature errorminus="100.0" errorplus="100.0">6250.0</temperature>
+		<age errorminus="1.900" errorplus="4.000">3.700</age>
+		<metallicity errorminus="0.09" errorplus="0.09">-0.06</metallicity>
 		<spectraltype>F7</spectraltype>
 		<planet>
 			<name>WASP-72 b</name>
-			<name>1SWASPJ024409.60-301008.5 b</name>
-			<list>Confirmed planets</list>
-			<mass>1.410</mass>
-			<radius>1.01</radius>
-			<period>2.21672</period>
-			<semimajoraxis>0.03655</semimajoraxis>
-			<eccentricity>0</eccentricity>
-			<inclination>86.8</inclination>
+			<mass errorminus="0.056" errorplus="0.059" type="Mass">1.461</mass>
+			<radius errorminus="0.2" errorplus="0.2">1.27</radius>
+			<period errorminus="8.1e-06" errorplus="8.1e-06">2.2167421</period>
+			<semimajoraxis errorminus="0.0005" errorplus="0.0005">0.03708</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="2.600" errorplus="3.200">81.600</inclination>
 			<temperature errorminus="130" errorplus="120">2210</temperature>
-			<description>Despite its extreme irradiation, this planet has a size consistant with that of Jupiter. That makes it a possible outlier among the Hot Jupiters of similar masses, suggesting a significant enrichment in heavy elements.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0021" errorplus="0.0021" unit="HJD">2455583.6529</transittime>
-			<istransiting>1</istransiting>
-			<lastupdate>12/10/17</lastupdate>
-			<discoveryyear>2012</discoveryyear>
+			<transittime errorminus=".002100" errorplus="0.002100" unit="HJD-TDB">2455583.652900</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2013</discoveryyear>
 		</planet>
 	</star>
 </system>

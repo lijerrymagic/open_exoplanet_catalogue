@@ -1,48 +1,35 @@
 <system>
 	<name>Kepler-57</name>
 	<rightascension>19 34 33</rightascension>
-	<declination>+44 39 25</declination>
-	<distance>570.05</distance>
+	<declination>+44 39 24</declination>
 	<star>
 		<name>Kepler-57</name>
-		<name>KOI-1270</name>
-		<name>KIC 8564587</name>
 		<mass>0.83</mass>
 		<radius>0.73</radius>
+		<magV>15.5</magV>
 		<magJ errorminus="0.024" errorplus="0.024">13.437</magJ>
 		<magH errorminus="0.022" errorplus="0.022">13.022</magH>
 		<magK errorminus="0.028" errorplus="0.028">12.897</magK>
 		<temperature>5145.0</temperature>
+		<metallicity>-0.045</metallicity>
 		<planet>
 			<name>Kepler-57 b</name>
-			<name>KOI-1270.01</name>
-			<name>KOI-1270 b</name>
-			<name>KIC 8564587 b</name>
-			<list>Confirmed planets</list>
-			<mass>0.015814</mass>
-			<radius>0.199575</radius>
-			<period>5.7293196</period>
-			<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 5.73 days for 1.1185 hours. Periodic transit timing variations confirm its planetary nature.</description>
+			<mass errorminus="18.86" errorplus="0.0" type="Mass">18.86</mass>
+			<radius>0.2</radius>
+			<period errorminus="1.8e-05" errorplus="1.8e-05">5.7293196</period>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.001" errorplus="0.001" unit="BJD">2455071.5584</transittime>
-			<istransiting>1</istransiting>
-			<lastupdate>12/08/19</lastupdate>
+			<transittime errorminus="0.001" errorplus="0.001" unit="BJD">2454971.5584</transittime>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 		</planet>
 		<planet>
 			<name>Kepler-57 c</name>
-			<name>KOI-1270.02</name>
-			<name>KOI-1270 c</name>
-			<name>KIC 8564587 c</name>
-			<list>Confirmed planets</list>
-			<mass>0.007759</mass>
-			<radius>0.141252</radius>
-			<period>11.6092567</period>
-			<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 11.61 days for 1.7074 hours. Periodic transit timing variations confirm its planetary nature.</description>
+			<mass errorminus="6.95" errorplus="0.0" type="Mass">6.95</mass>
+			<radius>0.14</radius>
+			<period errorminus="8.6e-05" errorplus="8.6e-05">11.6092567</period>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0027" errorplus="0.0027" unit="BJD">2455066.99083</transittime>
-			<istransiting>1</istransiting>
-			<lastupdate>12/08/19</lastupdate>
+			<transittime errorminus="0.0027" errorplus="0.0027" unit="BJD">2454966.99083</transittime>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 		</planet>
 	</star>

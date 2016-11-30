@@ -1,39 +1,32 @@
 <system>
 	<name>HD 6434</name>
-	<rightascension>01 04 40.15077</rightascension>
-	<declination>-39 29 17.5822</declination>
-	<distance errorminus="1.03" errorplus="1.03">41.4</distance>
+	<rightascension>01 04 40</rightascension>
+	<declination>-39 29 17</declination>
+	<distance errorminus="1.50" errorplus="1.40">40.32</distance>
 	<star>
 		<name>HD 6434</name>
-		<name>HIP 5054</name>
-		<name>TYC 7533-1111-1</name>
-		<name>SAO 192911</name>
-		<name>GJ 9037</name>
-		<name>CD-40 239</name>
-		<name>CPD-40 98</name>
-		<name>2MASS J01044015-3929173</name>
-		<mass errorminus="0.04" errorplus="0.04">0.89</mass>
-		<radius errorminus="0.05" errorplus="0.05">1.14</radius>
-		<magV errorminus="0.12" errorplus="0.12">7.72</magV>
-		<magB>8.32</magB>
+		<mass errorminus="0.04" errorplus="0.04">0.79</mass>
+		<radius errorminus="0.05" errorplus="0.05">0.57</radius>
+		<magV errorminus="0.120" errorplus="0.120">7.72</magV>
+		<magB errorminus="0.016" errorplus="0.016">8.331</magB>
 		<magJ errorminus="0.020" errorplus="0.020">6.577</magJ>
-		<magH errorminus="0.03" errorplus="0.03">6.27</magH>
+		<magH errorminus="0.033" errorplus="0.033">6.272</magH>
 		<magK errorminus="0.026" errorplus="0.026">6.187</magK>
-		<temperature errorminus="92" errorplus="92">5690</temperature>
-		<age errorminus="2.12" errorplus="2.12">11.27</age>
-		<metallicity errorminus="0.05" errorplus="0.05">-0.48</metallicity>
+		<temperature errorminus="92.00" errorplus="92.00">5835.0</temperature>
+		<age errorminus="2.120" errorplus="2.120">3.8</age>
+		<metallicity errorminus="0.050" errorplus="0.050">-0.52</metallicity>
 		<spectraltype>G3 IV</spectraltype>
 		<planet>
 			<name>HD 6434 b</name>
-			<list>Confirmed planets</list>
-			<mass errorminus="0.01" errorplus="0.01" type="msini">0.44</mass>
-			<period errorminus="0.0008" errorplus="0.0008">22.0170</period>
-			<semimajoraxis errorminus="0.002" errorplus="0.002">0.148</semimajoraxis>
-			<eccentricity errorminus="0.025" errorplus="0.025">0.146</eccentricity>
-			<periastron errorminus="10.5" errorplus="10.5">163.2</periastron>
-			<periastrontime errorminus="0.638" errorplus="0.638">2451909.308</periastrontime>
+			<mass errorminus="0.01000" errorplus="0.01000" type="Msini">0.39</mass>
+			<period errorminus="0.0009" errorplus="0.0009">21.998</period>
+			<semimajoraxis errorminus="0.002000" errorplus="0.002000">0.14</semimajoraxis>
+			<eccentricity errorminus="0.03" errorplus="0.03">0.17</eccentricity>
+			<periastron errorminus="11.0" errorplus="11.0">156.0</periastron>
+			<periastrontime errorminus="0.6" errorplus="0.6">51490.8</periastrontime>
+			<maximumrvtime errorminus="0.6" errorplus="0.6">51490.8</maximumrvtime>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/10/16</lastupdate>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2000</discoveryyear>
 		</planet>
 	</star>

@@ -1,50 +1,35 @@
 <system>
 	<name>Kepler-387</name>
-	<name>KOI-2443</name>
-	<name>KIC 9209624</name>
 	<rightascension>19 11 11</rightascension>
 	<declination>+45 39 24</declination>
-	<distance>738.47</distance>
 	<star>
 		<name>Kepler-387</name>
-		<name>KOI-2443</name>
-		<name>KIC 9209624</name>
-		<mass errorminus="0.1200" errorplus="0.1200">1.1300</mass>
-		<radius errorminus=".240" errorplus="0.240">1.046</radius>
+		<mass>1.03</mass>
+		<radius errorminus="0.24" errorplus="0.24">1.05</radius>
+		<magV>13.987</magV>
 		<magJ errorminus="0.025" errorplus="0.025">12.909</magJ>
 		<magH errorminus="0.021" errorplus="0.021">12.608</magH>
 		<magK errorminus="0.022" errorplus="0.022">12.536</magK>
-		<temperature errorminus="54" errorplus="154">5774</temperature>
+		<temperature errorminus="154.0" errorplus="154.0">5774.0</temperature>
+		<metallicity>-0.233</metallicity>
 		<planet>
 			<name>Kepler-387 b</name>
-			<name>KOI-2443 b</name>
-			<name>KOI-2443.01</name>
-			<name>KIC 9209624 b</name>
-			<name>KIC 9209624.01</name>
-			<list>Confirmed planets</list>
-			<radius errorminus="0.02187" errorplus="0.02187">0.09386</radius>
-			<period errorminus=".000094" errorplus="0.000094">6.791636</period>
-			<description>Kepler-387 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-387 b are still unknown, the object is highly unlikely to be a false positive.</description>
+			<radius errorminus="0.021" errorplus="0.021">0.092</radius>
+			<period errorminus="9.4e-05" errorplus="9.4e-05">6.791636</period>
+			<semimajoraxis>0.068</semimajoraxis>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0081700" errorplus="0.0081700">2454969.4873000</transittime>
-			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<transittime errorminus=".008170" errorplus="0.008170" unit="BJD">2454969.487300</transittime>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
 			<name>Kepler-387 c</name>
-			<name>KOI-2443 c</name>
-			<name>KOI-2443.02</name>
-			<name>KIC 9209624 c</name>
-			<name>KIC 9209624.02</name>
-			<list>Confirmed planets</list>
-			<radius errorminus="0.02005" errorplus="0.02005">0.08111</radius>
-			<period errorminus=".000329" errorplus="0.000329">11.837549</period>
-			<description>Kepler-387 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-387 c are still unknown, the object is highly unlikely to be a false positive.</description>
+			<radius errorminus="0.02" errorplus="0.02">0.079</radius>
+			<period errorminus="0.000329" errorplus="0.000329">11.837549</period>
+			<semimajoraxis>0.098</semimajoraxis>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0167700" errorplus="0.0167700">2454975.2121000</transittime>
-			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<transittime errorminus=".016770" errorplus="0.016770" unit="BJD">2454975.212100</transittime>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

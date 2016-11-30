@@ -1,38 +1,34 @@
 <system>
 	<name>HAT-P-52</name>
-	<rightascension>02 50 53.20</rightascension>
-	<declination>+29 01 20.6</declination>
-	<distance errorminus="21" errorplus="21">385</distance>
+	<rightascension>02 50 53</rightascension>
+	<declination>+29 01 21</declination>
+	<distance errorminus="21.00" errorplus="21.00">385.00</distance>
 	<star>
 		<name>HAT-P-52</name>
+		<name>2MASS 02505320+2901206</name>
 		<name>GSC 1793-01136</name>
-		<name>2MASS J02505320+2901206</name>
 		<mass errorminus="0.027" errorplus="0.027">0.887</mass>
 		<radius errorminus="0.047" errorplus="0.047">0.893</radius>
-		<magV errorminus="0.020" errorplus="0.020">14.068</magV>
+		<magV errorminus="0.020" errorplus="0.020">14.07</magV>
 		<magB errorminus="0.050" errorplus="0.050">15.183</magB>
-		<magJ errorminus="0.022" errorplus="0.022">12.195</magJ>
-		<magH errorminus="0.022" errorplus="0.022">11.745</magH>
-		<magK errorminus="0.021" errorplus="0.021">11.621</magK>
-		<temperature errorminus="50" errorplus="50">5131</temperature>
+		<magJ errorminus="0.018" errorplus="0.018">12.195</magJ>
+		<magH errorminus="0.020" errorplus="0.020">11.745</magH>
+		<magK errorminus="0.020" errorplus="0.020">11.621</magK>
+		<temperature errorminus="50.0" errorplus="50.0">5131.0</temperature>
 		<age errorminus="4.1" errorplus="4.1">9.4</age>
-		<metallicity errorminus="0.080" errorplus="0.080">0.280</metallicity>
+		<metallicity errorminus="0.08" errorplus="0.08">0.28</metallicity>
 		<planet>
 			<name>HAT-P-52 b</name>
-			<name>GSC 1793-01136 b</name>
-			<name>2MASS J02505320+2901206 b</name>
-			<list>Confirmed planets</list>
-			<mass errorminus="0.029" errorplus="0.029">0.818</mass>
+			<mass errorminus="0.0296" errorplus="0.0298" type="Radial Velocity">0.819</mass>
 			<radius errorminus="0.072" errorplus="0.072">1.009</radius>
-			<period errorminus="0.0000094" errorplus="0.0000094">2.7535953</period>
+			<period errorminus="9.4e-06" errorplus="9.4e-06">2.7535953</period>
 			<semimajoraxis errorminus="0.00038" errorplus="0.00038">0.03694</semimajoraxis>
+			<eccentricity errorminus="0.047" errorplus="0.0">0.047</eccentricity>
 			<inclination errorminus="0.86" errorplus="0.86">87.02</inclination>
-			<temperature errorminus="37" errorplus="37">1218</temperature>
-			<description>This Jupiter-mass planet was discovered by the HATNet transit survey.</description>
+			<temperature errorminus="37" errorplus="37">1218.0</temperature>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.00041" errorplus="0.00041">2455853.48006</transittime>
-			<istransiting>1</istransiting>
-			<lastupdate>15/03/13</lastupdate>
+			<transittime errorminus="0.00041" errorplus="0.00041" unit="BJD-UTC">2455852.10329</transittime>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 		</planet>
 	</star>

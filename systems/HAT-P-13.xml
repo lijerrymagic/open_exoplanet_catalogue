@@ -1,55 +1,45 @@
 <system>
 	<name>HAT-P-13</name>
-	<rightascension>08 39 32</rightascension>
-	<declination>+47 21 07</declination>
-	<distance>214</distance>
+	<rightascension>08 39 31</rightascension>
+	<declination>+47 21 06</declination>
+	<distance errorminus="12.00" errorplus="12.00">214.00</distance>
 	<star>
 		<name>HAT-P-13</name>
-		<mass>1.22</mass>
-		<radius>1.56</radius>
-		<magV errorminus="0.06" errorplus="0.06">10.42</magV>
-		<magB errorminus="0.08" errorplus="0.08">11.15</magB>
-		<magR>10.40</magR>
+		<mass errorminus="0.1" errorplus="0.1">1.22</mass>
+		<radius errorminus="0.08" errorplus="0.08">1.56</radius>
+		<magV>10.62</magV>
 		<magJ errorminus="0.018" errorplus="0.018">9.328</magJ>
 		<magH errorminus="0.017" errorplus="0.017">9.058</magH>
 		<magK errorminus="0.017" errorplus="0.017">8.975</magK>
-		<temperature>5638.0</temperature>
-		<metallicity errorminus="0.08" errorplus="0.08">0.41</metallicity>
+		<temperature errorminus="90.0" errorplus="90.0">5638.0</temperature>
+		<age errorminus="0.8" errorplus="0.8">5.0</age>
+		<metallicity errorminus="0.08" errorplus="0.08">0.43</metallicity>
 		<spectraltype>G4</spectraltype>
 		<planet>
 			<name>HAT-P-13 b</name>
-			<name>TYC 3416-00543-1 b</name>
-			<name>2MASS J08393180+4721073 b</name>
-			<list>Confirmed planets</list>
-			<mass>0.85</mass>
-			<radius>1.28</radius>
-			<period>2.916243</period>
-			<semimajoraxis>0.0426</semimajoraxis>
-			<eccentricity>0.0142</eccentricity>
-			<inclination>83.3</inclination>
-			<temperature>1504.3</temperature>
-			<description>The star HAT-P-13 is located in the constalltion Ursa Major and hosts at least two extrasolar planets. Only the inner planet is transiting. There might be an unconfirmed third planet in the system.</description>
+			<mass errorminus="0.038" errorplus="0.038" type="Mass">0.85</mass>
+			<radius errorminus="0.079" errorplus="0.079">1.28</radius>
+			<period errorminus="3e-06" errorplus="3e-06">2.916243</period>
+			<semimajoraxis errorminus="0.0012" errorplus="0.0012">0.0426</semimajoraxis>
+			<eccentricity errorminus="0.0044" errorplus="0.0044">0.0142</eccentricity>
+			<periastron errorminus="38.0" errorplus="38.0">223.0</periastron>
+			<inclination errorminus="0.62" errorplus="0.62">83.3</inclination>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.00038" errorplus="0.00038" unit="BJD">2454779.92979</transittime>
-			<istransiting>1</istransiting>
-			<lastupdate>12/04/08</lastupdate>
+			<transittime errorminus="0.00034" errorplus="0.00034" unit="BJD">2455176.5388</transittime>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 		</planet>
 		<planet>
 			<name>HAT-P-13 c</name>
-			<name>TYC 3416-00543-1 c</name>
-			<name>2MASS J08393180+4721073 c</name>
-			<list>Confirmed planets</list>
-			<mass>14.5</mass>
-			<period>448.2</period>
-			<semimajoraxis>1.186</semimajoraxis>
-			<eccentricity>0.666</eccentricity>
-			<temperature>276.2</temperature>
-			<description>The star HAT-P-13 is located in the constalltion Ursa Major and hosts at least two extrasolar planets. Only the inner planet is transiting. There might be an unconfirmed third planet in the system.</description>
+			<mass errorminus="0.28" errorplus="0.28" type="Msini">14.28</mass>
+			<period errorminus="0.22" errorplus="0.22">446.27</period>
+			<semimajoraxis errorminus="0.033" errorplus="0.033">1.186</semimajoraxis>
+			<eccentricity errorminus="0.0054" errorplus="0.0054">0.6616</eccentricity>
+			<periastron errorminus="0.35" errorplus="0.35">175.29</periastron>
+			<periastrontime errorminus="0.48" errorplus="0.48">2454890.05</periastrontime>
+			<maximumrvtime errorminus="0.48" errorplus="0.48">2454890.05</maximumrvtime>
 			<discoverymethod>RV</discoverymethod>
-			<transittime errorminus="1.8" errorplus="1.8" unit="BJD">2454870.4</transittime>
-			<istransiting>1</istransiting>
-			<lastupdate>14/02/02</lastupdate>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 		</planet>
 	</star>

@@ -1,0 +1,27 @@
+<system>
+	<name>NGC 2682 YBP 1514</name>
+	<rightascension>08 51 00</rightascension>
+	<declination>+11 53 11</declination>
+	<star>
+		<name>NGC 2682 YBP 1514</name>
+		<mass errorminus="0.01" errorplus="0.01">0.96</mass>
+		<magV>14.770</magV>
+		<magJ errorminus="0.021" errorplus="0.021">13.474</magJ>
+		<magH errorminus="0.021" errorplus="0.021">13.157</magH>
+		<magK errorminus="0.026" errorplus="0.026">13.105</magK>
+		<temperature errorminus="45.00" errorplus="45.00">5725.00</temperature>
+		<spectraltype>G5 V</spectraltype>
+		<planet>
+			<name>NGC 2682 YBP 1514 b</name>
+			<mass errorminus="0.38000" errorplus="0.38000" type="Msini">0.40000</mass>
+			<period errorminus="0.00100000" errorplus="0.00100000">5.11800000</period>
+			<eccentricity errorminus="0.090000" errorplus="0.090000">0.280000</eccentricity>
+			<periastron errorminus="16.0900" errorplus="16.0900">327.3300</periastron>
+			<periastrontime errorminus="0.300000" errorplus="0.300000">2455986.300000</periastrontime>
+			<maximumrvtime errorminus="0.300000" errorplus="0.300000">2455986.300000</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2014</discoveryyear>
+		</planet>
+	</star>
+</system>

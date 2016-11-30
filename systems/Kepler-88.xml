@@ -1,0 +1,43 @@
+<system>
+	<name>Kepler-88</name>
+	<declination>+40 40 09</declination>
+	<star>
+		<name>Kepler-88</name>
+		<name>KOI-142</name>
+		<mass errorminus="0.026" errorplus="0.023">1.022</mass>
+		<radius errorminus="0.024" errorplus="0.02">0.961</radius>
+		<magV>13.5</magV>
+		<magJ>11.882</magJ>
+		<magH>11.517</magH>
+		<magK>11.454</magK>
+		<temperature errorminus="67.0" errorplus="67.0">5513.0</temperature>
+		<age errorminus="1.2" errorplus="0.77">2.45</age>
+		<metallicity errorminus="0.08" errorplus="0.08">0.37</metallicity>
+		<spectraltype>B</spectraltype>
+		<planet>
+			<name>Kepler-88 b</name>
+			<name>KOI-142.01</name>
+			<mass errorminus="0.00786584022905327" errorplus="0.00786584022905327" type="Theoretical">0.0273731239971</mass>
+			<radius errorminus="0.0321171061059972" errorplus="0.0347935316148303">0.337229614113</radius>
+			<period errorminus="0.0013" errorplus="0.00011">10.95416</period>
+			<eccentricity errorminus="0.00031" errorplus="0.00047">0.05593</eccentricity>
+			<periastron errorminus="0.81" errorplus="1.45">90.59</periastron>
+			<inclination errorminus="0.074" errorplus="0.07">89.055</inclination>
+			<discoverymethod>transit</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2013</discoveryyear>
+		</planet>
+		<planet>
+			<name>Kepler-88 c</name>
+			<mass errorminus="0.0342925767685" errorplus="0.0301692736403">0.626869808164</mass>
+			<period errorminus="0.0017" errorplus="0.0019">22.3395</period>
+			<semimajoraxis errorminus="0.0021" errorplus="0.0021">0.1529</semimajoraxis>
+			<eccentricity errorminus="0.0028" errorplus="0.0014">0.05628</eccentricity>
+			<periastron errorminus="0.99" errorplus="1.82">270.76</periastron>
+			<inclination errorminus="1.3" errorplus="1.6">86.2</inclination>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2013</discoveryyear>
+		</planet>
+	</star>
+</system>

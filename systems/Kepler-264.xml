@@ -1,50 +1,35 @@
 <system>
 	<name>Kepler-264</name>
-	<name>KOI-1001</name>
-	<name>KIC 1871056</name>
 	<rightascension>19 28 10</rightascension>
 	<declination>+37 22 34</declination>
-	<distance>804.00</distance>
 	<star>
 		<name>Kepler-264</name>
-		<name>KOI-1001</name>
-		<name>KIC 1871056</name>
-		<mass errorminus="0.1500" errorplus="0.1500">1.3700</mass>
-		<radius errorminus=".314" errorplus="0.314">1.550</radius>
+		<mass>1.32</mass>
+		<radius errorminus="0.31" errorplus="0.31">1.55</radius>
+		<magV>13.038</magV>
 		<magJ errorminus="0.022" errorplus="0.022">11.918</magJ>
 		<magH errorminus="0.022" errorplus="0.022">11.692</magH>
 		<magK errorminus="0.020" errorplus="0.020">11.591</magK>
-		<temperature errorminus="100" errorplus="100">6158</temperature>
+		<temperature errorminus="100.0" errorplus="100.0">6158.0</temperature>
+		<metallicity>-0.19</metallicity>
 		<planet>
 			<name>Kepler-264 b</name>
-			<name>KOI-1001 b</name>
-			<name>KOI-1001.01</name>
-			<name>KIC 1871056 b</name>
-			<name>KIC 1871056.01</name>
-			<list>Confirmed planets</list>
-			<radius errorminus="0.06744" errorplus="0.06744">0.30346</radius>
-			<period errorminus=".000538" errorplus="0.000538">40.806231</period>
-			<description>Kepler-264 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-264 b are still unknown, the object is highly unlikely to be a false positive.</description>
+			<radius errorminus="0.066" errorplus="0.066">0.297</radius>
+			<period errorminus="0.000538" errorplus="0.000538">40.806231</period>
+			<semimajoraxis>0.249</semimajoraxis>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0079000" errorplus="0.0079000">2454988.7120900</transittime>
-			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<transittime errorminus=".007900" errorplus="0.007900" unit="BJD">2454988.712090</transittime>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
 			<name>Kepler-264 c</name>
-			<name>KOI-1001 c</name>
-			<name>KOI-1001.02</name>
-			<name>KIC 1871056 c</name>
-			<name>KIC 1871056.02</name>
-			<list>Confirmed planets</list>
-			<radius errorminus="0.05286" errorplus="0.05286">0.25790</radius>
-			<period errorminus=".003678" errorplus="0.003678">140.101261</period>
-			<description>Kepler-264 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-264 c are still unknown, the object is highly unlikely to be a false positive.</description>
+			<radius errorminus="0.052" errorplus="0.052">0.252</radius>
+			<period errorminus="0.003678" errorplus="0.003678">140.101261</period>
+			<semimajoraxis>0.566</semimajoraxis>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0118700" errorplus="0.0118700">2455049.2207800</transittime>
-			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<transittime errorminus=".011870" errorplus="0.011870" unit="BJD">2455049.220780</transittime>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

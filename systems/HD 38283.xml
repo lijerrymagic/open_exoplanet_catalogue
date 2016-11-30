@@ -1,30 +1,30 @@
 <system>
 	<name>HD 38283</name>
 	<rightascension>05 37 02</rightascension>
-	<declination>-73 41 58</declination>
-	<distance>37.7</distance>
+	<declination>-73 41 57</declination>
+	<distance errorminus="0.82" errorplus="0.78">37.78</distance>
 	<star>
 		<name>HD 38283</name>
-		<mass>1.085</mass>
-		<magV>6.7</magV>
-		<magB errorminus="0.01" errorplus="0.01">7.26</magB>
-		<magI errorminus="0.02" errorplus="0.02">8.35</magI>
+		<mass errorminus="0.02" errorplus="0.02">1.085</mass>
+		<magV errorminus="0.010" errorplus="0.010">6.7</magV>
+		<magB errorminus="0.015" errorplus="0.015">7.260</magB>
 		<magJ errorminus="0.018" errorplus="0.018">5.645</magJ>
 		<magH errorminus="0.044" errorplus="0.044">5.339</magH>
 		<magK errorminus="0.026" errorplus="0.026">5.267</magK>
-		<temperature>5945.0</temperature>
-		<metallicity>-0.24</metallicity>
+		<temperature errorminus="100.0" errorplus="100.0">5945.0</temperature>
+		<age errorminus="1.5" errorplus="1.5">5.4</age>
+		<metallicity errorminus="0.07" errorplus="0.07">-0.24</metallicity>
 		<spectraltype>F9.5V</spectraltype>
 		<planet>
 			<name>HD 38283 b</name>
-			<list>Confirmed planets</list>
-			<mass>0.34</mass>
-			<period>363.2</period>
-			<semimajoraxis>1.02</semimajoraxis>
-			<eccentricity>0.41</eccentricity>
-			<temperature>309.9</temperature>
+			<mass errorminus="0.02" errorplus="0.02" type="Msini">0.34</mass>
+			<period errorminus="1.6" errorplus="1.6">363.2</period>
+			<semimajoraxis errorminus="0.07" errorplus="0.07">1.02</semimajoraxis>
+			<eccentricity errorminus="0.16" errorplus="0.16">0.41</eccentricity>
+			<periastrontime errorminus="12.0" errorplus="12.0">2450802.6</periastrontime>
+			<maximumrvtime errorminus="12.0" errorplus="12.0">2450802.6</maximumrvtime>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/04/13</lastupdate>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 		</planet>
 	</star>

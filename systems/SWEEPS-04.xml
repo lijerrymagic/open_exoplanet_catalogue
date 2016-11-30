@@ -1,0 +1,21 @@
+<system>
+	<name>SWEEPS-04</name>
+	<declination>-29 11 21</declination>
+	<star>
+		<name>SWEEPS-04</name>
+		<mass>1.24</mass>
+		<radius>1.18</radius>
+		<magV>18.8</magV>
+		<planet>
+			<name>SWEEPS-04</name>
+			<mass errorminus="inf" errorplus="nan">3.8</mass>
+			<radius errorminus="0.1" errorplus="0.1">0.81</radius>
+			<period>4.2</period>
+			<semimajoraxis>0.055</semimajoraxis>
+			<inclination errorminus="nan" errorplus="inf">87.0</inclination>
+			<discoverymethod>transit</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2006</discoveryyear>
+		</planet>
+	</star>
+</system>

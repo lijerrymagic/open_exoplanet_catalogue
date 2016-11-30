@@ -1,29 +1,31 @@
 <system>
 	<name>HD 190647</name>
-	<rightascension>20 07 20</rightascension>
-	<declination>-35 32 19</declination>
-	<distance>54.2</distance>
+	<rightascension>20 07 19</rightascension>
+	<declination>-35 32 18</declination>
+	<distance errorminus="3.44" errorplus="3.05">54.23</distance>
 	<star>
 		<name>HD 190647</name>
-		<mass>1.1</mass>
-		<magV>7.78</magV>
-		<magB errorminus="0.02" errorplus="0.02">8.54</magB>
+		<mass errorminus="0.1" errorplus="0.1">1.1</mass>
+		<magV errorminus="0.013" errorplus="0.013">7.78</magV>
+		<magB errorminus="0.018" errorplus="0.018">8.539</magB>
 		<magJ errorminus="0.024" errorplus="0.024">6.546</magJ>
-		<magH errorminus="0.023" errorplus="0.023">6.251</magH>
+		<magH errorminus="0.022" errorplus="0.022">6.251</magH>
 		<magK errorminus="0.038" errorplus="0.038">6.161</magK>
-		<temperature>5628.0</temperature>
-		<metallicity>0.24</metallicity>
+		<temperature errorminus="20.0" errorplus="20.0">5628.0</temperature>
+		<age errorminus="inf" errorplus="nan">2.0</age>
+		<metallicity errorminus="0.03" errorplus="0.03">0.24</metallicity>
 		<spectraltype>G5</spectraltype>
 		<planet>
 			<name>HD 190647 b</name>
-			<list>Confirmed planets</list>
-			<mass>1.9</mass>
-			<period>1038.1</period>
-			<semimajoraxis>2.07</semimajoraxis>
-			<eccentricity>0.18</eccentricity>
-			<temperature>209.5</temperature>
+			<mass errorminus="0.06" errorplus="0.06" type="Msini">1.9</mass>
+			<period errorminus="4.9" errorplus="4.9">1038.1</period>
+			<semimajoraxis errorminus="0.06" errorplus="0.06">2.07</semimajoraxis>
+			<eccentricity errorminus="0.02" errorplus="0.02">0.18</eccentricity>
+			<periastron errorminus="9.4" errorplus="9.4">232.5</periastron>
+			<periastrontime errorminus="24.0" errorplus="24.0">2453869.0</periastrontime>
+			<maximumrvtime errorminus="24.0" errorplus="24.0">2453869.0</maximumrvtime>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>07/04/07</lastupdate>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 		</planet>
 	</star>

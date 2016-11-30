@@ -1,39 +1,32 @@
 <system>
 	<name>WASP-121</name>
-	<rightascension>07 10 24.058</rightascension>
-	<declination>-39 05 50.55</declination>
-	<distance errorminus="90" errorplus="90">270</distance>
+	<rightascension>07 10 24</rightascension>
+	<declination>-39 05 51</declination>
+	<distance errorminus="90.00" errorplus="90.00">270.00</distance>
 	<star>
 		<name>WASP-121</name>
-		<name>2MASS 07102406-3905506</name>
-		<name>TYC 7630-352-1</name>
-		<mass errorminus="0.079" errorplus="0.080">1.353</mass>
-		<radius errorminus="0.030" errorplus="0.030">1.458</radius>
-		<magV errorminus="0.04" errorplus="0.04">10.51</magV>
-		<magB errorminus="0.05" errorplus="0.05">11.00</magB>
-		<magJ errorminus="0.021" errorplus="0.021">9.625</magJ>
-		<magH errorminus="0.025" errorplus="0.025">9.439</magH>
-		<magK errorminus="0.022" errorplus="0.022">9.374</magK>
-		<temperature errorminus="140" errorplus="140">6459</temperature>
-		<age errorminus="1.0" errorplus="1.0">1.5</age>
+		<mass errorminus="0.079" errorplus="0.06">1.353</mass>
+		<radius errorminus="0.03" errorplus="0.03">1.458</radius>
+		<magV>10.4</magV>
+		<magJ errorminus="0.017" errorplus="0.017">9.625</magJ>
+		<magH errorminus="0.023" errorplus="0.023">9.439</magH>
+		<magK errorminus="0.020" errorplus="0.020">9.374</magK>
+		<temperature errorminus="140.0" errorplus="140.0">6460.0</temperature>
+		<age errorminus="1.000" errorplus="1.000">1.500</age>
 		<metallicity errorminus="0.09" errorplus="0.09">0.13</metallicity>
-		<spectraltype>F6 V</spectraltype>
+		<spectraltype>F6V</spectraltype>
 		<planet>
 			<name>WASP-121 b</name>
-			<name>2MASS 07102406-3905506 b</name>
-			<name>TYC 7630-352-1 b</name>
-			<list>Confirmed planets</list>
-			<mass errorminus="0.062" errorplus="0.064">1.183</mass>
-			<radius errorminus="0.039" errorplus="0.039">1.807</radius>
-			<period errorminus="0.00000025" errorplus="0.00000020">1.2749255</period>
-			<semimajoraxis errorminus="0.00050" errorplus="0.00049">0.02544</semimajoraxis>
+			<mass errorminus="0.06449" errorplus="0.06467" type="Radial Velocity">1.184</mass>
+			<radius errorminus="0.044" errorplus="0.044">1.865</radius>
+			<period errorminus="2.5e-07" errorplus="2.5e-07">1.2749255</period>
+			<semimajoraxis errorminus="0.0005" errorplus="0.0005">0.02544</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
 			<inclination errorminus="0.6" errorplus="0.6">87.6</inclination>
 			<temperature errorminus="52" errorplus="52">2358</temperature>
-			<description>This planet is a remarkable short-period transiting hot Jupiter discovered by the WASP-South survey in close collaboration with the Euler TRAPPIST telescopes.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.00010" errorplus="0.00011" unit="HJD">2456636.34578</transittime>
-			<istransiting>1</istransiting>
-			<lastupdate>15/06/08</lastupdate>
+			<transittime errorminus="0.0001" errorplus="0.0001" unit="HJD">2456635.70832</transittime>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 		</planet>
 	</star>

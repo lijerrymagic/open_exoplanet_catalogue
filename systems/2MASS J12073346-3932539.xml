@@ -1,0 +1,25 @@
+<system>
+	<name>2MASS J12073346-3932539</name>
+	<rightascension>12 07 33</rightascension>
+	<declination>-39 32 54</declination>
+	<distance errorminus="1.10" errorplus="1.10">52.40</distance>
+	<star>
+		<name>2MASS J12073346-3932539</name>
+		<mass>0.02</mass>
+		<magV errorminus="0.190" errorplus="0.190">20.150</magV>
+		<magJ errorminus="0.026" errorplus="0.026">12.995</magJ>
+		<magH errorminus="0.027" errorplus="0.027">12.388</magH>
+		<magK errorminus="0.026" errorplus="0.026">11.945</magK>
+		<age errorminus="0.003" errorplus="0.004">0.008</age>
+		<spectraltype>M8</spectraltype>
+		<planet>
+			<name>2MASS J12073346-3932539 b</name>
+			<mass errorminus="1.00000" errorplus="1.00000" type="Mass">4.00000</mass>
+			<semimajoraxis errorminus="5.000000" errorplus="5.000000">46.000000</semimajoraxis>
+			<temperature errorminus="150" errorplus="150">1150</temperature>
+			<discoverymethod>imaging</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2004</discoveryyear>
+		</planet>
+	</star>
+</system>

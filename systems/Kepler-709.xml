@@ -2,22 +2,25 @@
 	<name>Kepler-709</name>
 	<rightascension>19 28 25</rightascension>
 	<declination>+42 22 49</declination>
+	<distance errorminus="45.96" errorplus="41.44">668.00</distance>
 	<star>
 		<name>Kepler-709</name>
-		<mass errorminus="0.05" errorplus="0.04">0.80</mass>
+		<mass errorminus="0.05" errorplus="0.04">0.8</mass>
 		<radius errorminus="0.05" errorplus="0.04">0.77</radius>
-		<temperature errorminus="83.4" errorplus="83.6">5071.0</temperature>
-		<metallicity errorminus="0.18" errorplus="0.16">-0.08</metallicity>
+		<magV>15.219</magV>
+		<magJ errorminus="0.024" errorplus="0.024">13.753</magJ>
+		<magH errorminus="0.021" errorplus="0.021">13.284</magH>
+		<magK errorminus="0.034" errorplus="0.034">13.145</magK>
+		<temperature errorminus="83.42" errorplus="83.59">5071.0</temperature>
+		<age errorminus="2.990" errorplus="6.020">4.900</age>
+		<metallicity errorminus="0.184" errorplus="0.161">-0.08</metallicity>
 		<planet>
 			<name>Kepler-709 b</name>
-			<list>Confirmed planets</list>
 			<radius errorminus="0.017" errorplus="0.016">0.261</radius>
-			<period errorminus="0.000026440" errorplus="0.000026440">16.085249540</period>
-			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+			<period errorminus="2.644e-05" errorplus="2.644e-05">16.08524954</period>
 			<discoverymethod>transit</discoverymethod>
-			<istransiting>1</istransiting>
-			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<transittime errorminus=".001280" errorplus="0.001280" unit="JD">2455013.280780</transittime>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

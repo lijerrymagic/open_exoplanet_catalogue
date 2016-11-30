@@ -1,41 +1,31 @@
 <system>
 	<name>Kepler-8</name>
 	<rightascension>18 45 09</rightascension>
-	<declination>+42 27 04</declination>
-	<distance errorminus="180" errorplus="180">1330</distance>
+	<declination>+42 27 03</declination>
+	<distance errorminus="180.00" errorplus="180.00">1330.00</distance>
 	<star>
 		<name>Kepler-8</name>
-		<name>KOI-10</name>
-		<name>KIC 6922244</name>
-		<mass errorminus="0.10" errorplus="0.09">1.13</mass>
-		<radius errorminus="0.13" errorplus="0.12">1.45</radius>
-		<magV>13.9</magV>
-		<magB>14.3</magB>
-		<magR>13.3</magR>
+		<mass errorminus="0.063" errorplus="0.063">1.213</mass>
+		<radius errorminus="0.062" errorplus="0.062">1.486</radius>
+		<magV errorminus="0.324" errorplus="0.324">13.9</magV>
 		<magJ errorminus="0.023" errorplus="0.023">12.576</magJ>
 		<magH errorminus="0.018" errorplus="0.018">12.324</magH>
-		<magK errorminus="0.016" errorplus="0.016">12.293</magK>
-		<temperature errorminus="75" errorplus="75">6251</temperature>
-		<metallicity errorminus="0.09" errorplus="0.09">0.05</metallicity>
-		<spectraltype>F</spectraltype>
+		<magK errorminus="0.015" errorplus="0.015">12.293</magK>
+		<temperature errorminus="150.0" errorplus="150.0">6213.0</temperature>
+		<age errorminus="1.5" errorplus="1.5">3.84</age>
+		<metallicity errorminus="0.03" errorplus="0.03">-0.055</metallicity>
 		<planet>
 			<name>Kepler-8 b</name>
-			<name>2MASS J18450914+4227038 b</name>
-			<name>KIC 6922244 b</name>
-			<name>KOI-10.01</name>
-			<name>KOI-10 b</name>
-			<list>Confirmed planets</list>
-			<mass errorminus="0.12" errorplus="0.13">0.59</mass>
-			<radius errorminus="0.06" errorplus="0.05">1.42</radius>
-			<period errorminus="0.00005" errorplus="0.0003">3.52254</period>
-			<semimajoraxis errorminus="0.0012" errorplus="0.0006">0.0483</semimajoraxis>
+			<mass errorminus="0.19" errorplus="0.13" type="Mass">0.603</mass>
+			<radius errorminus="0.058" errorplus="0.058">1.419</radius>
+			<period errorminus="5e-05" errorplus="5e-05">3.52254</period>
+			<semimajoraxis errorminus="0.0012" errorplus="0.0012">0.0483</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
 			<inclination errorminus="0.33" errorplus="0.33">84.07</inclination>
-			<temperature>1519.5</temperature>
+			<temperature errorminus="40" errorplus="40">1638.0</temperature>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0004" errorplus="0.0003" unit="BJD">2454954.1190</transittime>
-			<istransiting>1</istransiting>
-			<lastupdate>15/12/03</lastupdate>
+			<transittime errorminus="0.0004" errorplus="0.0004" unit="BJD">2454954.1182</transittime>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 		</planet>
 	</star>

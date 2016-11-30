@@ -2,38 +2,32 @@
 	<name>CoRoT-13</name>
 	<rightascension>06 50 53</rightascension>
 	<declination>-05 05 11</declination>
-	<distance>1310</distance>
+	<distance errorminus="100.00" errorplus="100.00">1060.00</distance>
 	<star>
 		<name>CoRoT-13</name>
-		<mass>1.09</mass>
-		<radius>1.01</radius>
-		<magV>15.04</magV>
-		<magB errorminus="0.42" errorplus="0.42">15.33</magB>
-		<magR errorminus="0.36" errorplus="0.36">15.17</magR>
-		<magI errorminus="0.03" errorplus="0.03">14.19</magI>
+		<mass errorminus="0.02" errorplus="0.02">1.09</mass>
+		<radius errorminus="0.03" errorplus="0.03">1.01</radius>
+		<magV errorminus="0.041" errorplus="0.041">15.04</magV>
+		<magB errorminus="0.077" errorplus="0.077">15.777</magB>
 		<magJ errorminus="0.024" errorplus="0.024">13.710</magJ>
 		<magH errorminus="0.029" errorplus="0.029">13.406</magH>
-		<magK errorminus="0.04" errorplus="0.04">13.38</magK>
-		<temperature>5945.0</temperature>
-		<metallicity>0.01</metallicity>
+		<magK errorminus="0.039" errorplus="0.039">13.376</magK>
+		<temperature errorminus="90.0" errorplus="90.0">5945.0</temperature>
+		<age errorminus="1.52" errorplus="1.52">1.64</age>
+		<metallicity errorminus="0.07" errorplus="0.07">0.01</metallicity>
 		<spectraltype>G0V</spectraltype>
 		<planet>
 			<name>CoRoT-13 b</name>
-			<name>CoRoT-Exo-13 b</name>
-			<name>2MASS J06505307-0505112 b</name>
-			<name>CoRoTID 110839339 b</name>
-			<list>Confirmed planets</list>
-			<mass>1.308</mass>
-			<radius>0.885</radius>
-			<period>4.03519</period>
-			<semimajoraxis>0.051</semimajoraxis>
+			<mass errorminus="0.066" errorplus="0.066" type="Mass">1.308</mass>
+			<radius errorminus="0.014" errorplus="0.014">0.885</radius>
+			<period errorminus="3e-05" errorplus="3e-05">4.03519</period>
+			<semimajoraxis errorminus="0.0031" errorplus="0.0031">0.051</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
-			<inclination>88.02</inclination>
-			<temperature>1166.5</temperature>
+			<inclination errorminus="0.036" errorplus="0.036">88.02</inclination>
+			<temperature>1700</temperature>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0006" errorplus="0.0006" unit="BJD">2454790.8099</transittime>
-			<istransiting>1</istransiting>
-			<lastupdate>10/07/12</lastupdate>
+			<transittime errorminus="0.0006" errorplus="0.0006" unit="HJD">2454790.8091</transittime>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 		</planet>
 	</star>

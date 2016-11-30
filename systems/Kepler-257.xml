@@ -1,66 +1,44 @@
 <system>
 	<name>Kepler-257</name>
-	<name>KOI-941</name>
-	<name>KIC 9480189</name>
 	<rightascension>19 49 15</rightascension>
 	<declination>+46 01 23</declination>
-	<distance>1167.03</distance>
 	<star>
 		<name>Kepler-257</name>
-		<name>KOI-941</name>
-		<name>KIC 9480189</name>
-		<mass errorminus="0.1400" errorplus="0.1400">0.7400</mass>
-		<radius errorminus=".518" errorplus="0.518">1.037</radius>
+		<radius errorminus="0.52" errorplus="0.52">1.04</radius>
+		<magV>15.471</magV>
 		<magJ errorminus="0.023" errorplus="0.023">13.916</magJ>
-		<magH errorminus="0.026" errorplus="0.026">13.448</magH>
-		<magK>13.371</magK>
-		<temperature errorminus="200" errorplus="200">5180</temperature>
+		<magH errorminus="0.025" errorplus="0.025">13.448</magH>
+		<magK>13.372</magK>
+		<temperature errorminus="200.0" errorplus="200.0">5180.0</temperature>
+		<metallicity>0.315</metallicity>
 		<planet>
-			<name>Kepler-257 c</name>
-			<name>KOI-941 c</name>
-			<name>KOI-941.01</name>
-			<name>KIC 9480189 c</name>
-			<name>KIC 9480189.01</name>
-			<list>Confirmed planets</list>
-			<radius errorminus="0.06561" errorplus="0.24787">0.49301</radius>
-			<period errorminus=".000008" errorplus="0.000008">6.581484</period>
-			<description>Kepler-257 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-257 c are still unknown, the object is highly unlikely to be a false positive.</description>
+			<name>Kepler-257 b</name>
+			<radius errorminus="0.117" errorplus="0.117">0.233</radius>
+			<period errorminus="6e-06" errorplus="6e-06">2.382667</period>
+			<semimajoraxis>0.034</semimajoraxis>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0006300" errorplus="0.0006300">2455007.7864300</transittime>
-			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<transittime errorminus=".001250" errorplus="0.001250" unit="BJD">2455003.663300</transittime>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
-			<name>Kepler-257 b</name>
-			<name>KOI-941 b</name>
-			<name>KOI-941.02</name>
-			<name>KIC 9480189 b</name>
-			<name>KIC 9480189.02</name>
-			<list>Confirmed planets</list>
-			<radius errorminus="0.02825" errorplus="0.11938">0.23785</radius>
-			<period errorminus=".000006" errorplus="0.000006">2.382667</period>
-			<description>Kepler-257 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-257 b are still unknown, the object is highly unlikely to be a false positive.</description>
+			<name>Kepler-257 c</name>
+			<radius errorminus="0.243" errorplus="0.243">0.483</radius>
+			<period errorminus="8e-06" errorplus="8e-06">6.581484</period>
+			<semimajoraxis>0.066</semimajoraxis>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0012500" errorplus="0.0012500">2455003.6633000</transittime>
-			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<transittime errorminus=".000630" errorplus="0.000630" unit="BJD">2455007.786430</transittime>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
 			<name>Kepler-257 d</name>
-			<name>KOI-941 d</name>
-			<name>KOI-941.03</name>
-			<name>KIC 9480189 d</name>
-			<name>KIC 9480189.03</name>
-			<list>Confirmed planets</list>
-			<radius errorminus="0.04374" errorplus="0.22600">0.45109</radius>
-			<period errorminus=".000051" errorplus="0.000051">24.664551</period>
-			<description>Kepler-257 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-257 d are still unknown, the object is highly unlikely to be a false positive.</description>
+			<radius errorminus="0.221" errorplus="0.221">0.442</radius>
+			<period errorminus="5.1e-05" errorplus="5.1e-05">24.664551</period>
+			<semimajoraxis>0.16</semimajoraxis>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0010200" errorplus="0.0010200">2455022.0205200</transittime>
-			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<transittime errorminus=".001020" errorplus="0.001020" unit="BJD">2455022.020520</transittime>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

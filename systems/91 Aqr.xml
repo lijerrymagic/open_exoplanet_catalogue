@@ -1,0 +1,33 @@
+<system>
+	<name>91 Aqr</name>
+	<rightascension>23 15 53</rightascension>
+	<declination>-09 05 15</declination>
+	<distance errorminus="1.92" errorplus="1.77">45.52</distance>
+	<star>
+		<name>91 Aqr</name>
+		<mass errorminus="0.1" errorplus="0.1">1.4</mass>
+		<radius errorminus="0.1" errorplus="0.1">11.0</radius>
+		<magV>4.21</magV>
+		<magB>5.360</magB>
+		<magJ errorminus="0.246" errorplus="0.246">2.263</magJ>
+		<magH errorminus="0.216" errorplus="0.216">1.690</magH>
+		<magK errorminus="0.236" errorplus="0.236">1.597</magK>
+		<temperature errorminus="18.0" errorplus="18.0">4665.0</temperature>
+		<age errorminus="0.63" errorplus="0.63">3.56</age>
+		<metallicity errorminus="0.1" errorplus="0.1">-0.03</metallicity>
+		<spectraltype>K0 III</spectraltype>
+		<planet>
+			<name>91 Aqr b</name>
+			<mass type="Msini">3.2</mass>
+			<period errorminus="0.1" errorplus="0.1">181.4</period>
+			<semimajoraxis>0.7</semimajoraxis>
+			<eccentricity errorminus="0.026" errorplus="0.026">0.027</eccentricity>
+			<periastron errorminus="0.8" errorplus="0.8">177.3</periastron>
+			<periastrontime errorminus="24.0" errorplus="24.0">2453472.1</periastrontime>
+			<maximumrvtime errorminus="24.0" errorplus="24.0">2453472.1</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2003</discoveryyear>
+		</planet>
+	</star>
+</system>

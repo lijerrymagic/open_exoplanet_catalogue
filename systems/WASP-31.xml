@@ -1,37 +1,30 @@
 <system>
 	<name>WASP-31</name>
 	<rightascension>11 17 45</rightascension>
-	<declination>-19 03 17</declination>
-	<distance>400</distance>
+	<declination>-19 03 16</declination>
+	<distance errorminus="30.00" errorplus="30.00">360.00</distance>
 	<star>
 		<name>WASP-31</name>
-		<mass>1.16</mass>
-		<radius>1.24</radius>
-		<magV>11.7</magV>
-		<magB errorminus="0.18" errorplus="0.18">12.01</magB>
-		<magR errorminus="0.08" errorplus="0.08">11.98</magR>
+		<mass errorminus="0.026" errorplus="0.026">1.16</mass>
+		<radius errorminus="0.04" errorplus="0.04">1.24</radius>
+		<magV errorminus="0.200" errorplus="0.200">11.7</magV>
 		<magJ errorminus="0.022" errorplus="0.022">10.912</magJ>
 		<magH errorminus="0.022" errorplus="0.022">10.709</magH>
 		<magK errorminus="0.027" errorplus="0.027">10.650</magK>
-		<temperature>6200.0</temperature>
+		<temperature errorminus="100.0" errorplus="100.0">6200.0</temperature>
 		<metallicity errorminus="0.09" errorplus="0.09">-0.19</metallicity>
 		<spectraltype>F</spectraltype>
 		<planet>
 			<name>WASP-31 b</name>
-			<name>TYC 6087-1053-1 b</name>
-			<name>2MASS J11174536-1903171 b</name>
-			<list>Confirmed planets</list>
-			<mass>0.478</mass>
-			<radius>1.537</radius>
-			<period>3.405909</period>
-			<semimajoraxis>0.04657</semimajoraxis>
+			<mass errorminus="0.03" errorplus="0.03" type="Mass">0.478</mass>
+			<radius errorminus="0.06" errorplus="0.06">1.537</radius>
+			<period errorminus="5e-06" errorplus="5e-06">3.405909</period>
+			<semimajoraxis errorminus="0.00034" errorplus="0.00034">0.04657</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
-			<inclination>84.54</inclination>
-			<temperature>1410.6</temperature>
+			<inclination errorminus="0.027" errorplus="0.027">84.54</inclination>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0003" errorplus="0.0003" unit="BJD">2455192.6895</transittime>
-			<istransiting>1</istransiting>
-			<lastupdate>12/07/05</lastupdate>
+			<transittime errorminus="0.0003" errorplus="0.0003" unit="HJD">2455192.6887</transittime>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 		</planet>
 	</star>

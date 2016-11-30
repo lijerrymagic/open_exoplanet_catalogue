@@ -1,0 +1,31 @@
+<system>
+	<name>GJ 328</name>
+	<rightascension>08 55 07</rightascension>
+	<declination>+01 32 56</declination>
+	<distance errorminus="0.92" errorplus="0.85">20.03</distance>
+	<star>
+		<name>GJ 328</name>
+		<mass errorminus="0.05" errorplus="0.05">0.69</mass>
+		<magV errorminus="0.009" errorplus="0.009">9.98</magV>
+		<magB errorminus="0.009" errorplus="0.009">11.350</magB>
+		<magJ errorminus="0.027" errorplus="0.027">7.191</magJ>
+		<magH errorminus="0.018" errorplus="0.018">6.523</magH>
+		<magK errorminus="0.026" errorplus="0.026">6.352</magK>
+		<temperature errorminus="100.0" errorplus="100.0">3900.0</temperature>
+		<metallicity errorminus="0.15" errorplus="0.15">0.0</metallicity>
+		<spectraltype>K7</spectraltype>
+		<planet>
+			<name>GJ 328 b</name>
+			<mass errorminus="13.0" errorplus="13.0" type="Msini">2.3</mass>
+			<period errorminus="300.0" errorplus="300.0">4100.0</period>
+			<semimajoraxis errorminus="0.2" errorplus="0.2">4.5</semimajoraxis>
+			<eccentricity errorminus="0.05" errorplus="0.05">0.37</eccentricity>
+			<periastron errorminus="3.0000" errorplus="3.0000">290.0000</periastron>
+			<periastrontime errorminus="100.0" errorplus="100.0">2454500.0</periastrontime>
+			<maximumrvtime errorminus="100.0" errorplus="100.0">2454500.0</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2013</discoveryyear>
+		</planet>
+	</star>
+</system>

@@ -1,23 +1,26 @@
 <system>
 	<name>Kepler-1483</name>
 	<rightascension>19 41 38</rightascension>
-	<declination>+42 09 03</declination>
+	<declination>+42 09 02</declination>
+	<distance errorminus="254.14" errorplus="556.29">1327.00</distance>
 	<star>
 		<name>Kepler-1483</name>
 		<mass errorminus="0.14" errorplus="0.21">1.25</mass>
-		<radius errorminus="0.25" errorplus="0.60">1.40</radius>
-		<temperature errorminus="223.8" errorplus="208.7">6337.0</temperature>
-		<metallicity errorminus="0.16" errorplus="0.13">0.04</metallicity>
+		<radius errorminus="0.25" errorplus="0.6">1.4</radius>
+		<magV>14.440</magV>
+		<magJ errorminus="0.022" errorplus="0.022">13.397</magJ>
+		<magH errorminus="0.020" errorplus="0.020">13.12</magH>
+		<magK errorminus="0.027" errorplus="0.027">13.077</magK>
+		<temperature errorminus="223.77" errorplus="208.71">6337.0</temperature>
+		<age errorminus="0.735" errorplus="0.997">2.400</age>
+		<metallicity errorminus="0.159" errorplus="0.132">0.04</metallicity>
 		<planet>
 			<name>Kepler-1483 b</name>
-			<list>Confirmed planets</list>
 			<radius errorminus="0.027" errorplus="0.059">0.136</radius>
-			<period errorminus="0.000105300" errorplus="0.000105300">9.508515600</period>
-			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+			<period errorminus="0.0001053" errorplus="0.0001053">9.5085156</period>
 			<discoverymethod>transit</discoverymethod>
-			<istransiting>1</istransiting>
-			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<transittime errorminus=".009340" errorplus="0.009340" unit="JD">2454973.558710</transittime>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

@@ -1,44 +1,44 @@
 <system>
 	<name>HD 108874</name>
 	<rightascension>12 30 26</rightascension>
-	<declination>+22 52 47</declination>
-	<distance>68.5</distance>
+	<declination>+22 52 46</declination>
+	<distance errorminus="5.80" errorplus="5.80">68.50</distance>
 	<star>
 		<name>HD 108874</name>
-		<mass>1</mass>
+		<mass errorminus="0.04" errorplus="0.04">1.0</mass>
 		<radius>1.22</radius>
 		<magV>8.76</magV>
-		<magB errorminus="0.02" errorplus="0.02">9.49</magB>
-		<magR>8.3</magR>
-		<magI>7.9</magI>
-		<magJ>7.48</magJ>
-		<magH>7.11</magH>
-		<magK>7.06</magK>
-		<temperature>5407.0</temperature>
-		<metallicity>0.14</metallicity>
+		<magJ errorminus="0.020" errorplus="0.020">7.479</magJ>
+		<magH errorminus="0.029" errorplus="0.029">7.110</magH>
+		<magK errorminus="0.024" errorplus="0.024">7.060</magK>
+		<temperature errorminus="44.00" errorplus="44.00">5407.0</temperature>
+		<age>7.26</age>
+		<metallicity errorminus="0.030" errorplus="0.030">0.14</metallicity>
 		<spectraltype>G5</spectraltype>
 		<planet>
 			<name>HD 108874 b</name>
-			<list>Confirmed planets</list>
-			<mass>1.36</mass>
-			<period>395.4</period>
-			<semimajoraxis>1.051</semimajoraxis>
-			<eccentricity>0.07</eccentricity>
-			<temperature>256.8</temperature>
+			<mass errorminus="0.13" errorplus="0.13" type="Msini">1.36</mass>
+			<period errorminus="2.5" errorplus="2.5">395.4</period>
+			<semimajoraxis errorminus="0.02" errorplus="0.02">1.051</semimajoraxis>
+			<eccentricity errorminus="0.04" errorplus="0.04">0.07</eccentricity>
+			<periastron errorminus="36.0" errorplus="36.0">248.4</periastron>
+			<periastrontime errorminus="60.0" errorplus="60.0">60131.5</periastrontime>
+			<maximumrvtime errorminus="60.0" errorplus="60.0">60131.5</maximumrvtime>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/29</lastupdate>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2003</discoveryyear>
 		</planet>
 		<planet>
 			<name>HD 108874 c</name>
-			<list>Confirmed planets</list>
-			<mass>1.018</mass>
-			<period>1605.8</period>
-			<semimajoraxis>2.68</semimajoraxis>
-			<eccentricity>0.25</eccentricity>
-			<temperature>160.2</temperature>
+			<mass errorminus="0.3" errorplus="0.3" type="Msini">1.018</mass>
+			<period errorminus="88.0" errorplus="88.0">1605.8</period>
+			<semimajoraxis errorminus="0.25" errorplus="0.25">2.68</semimajoraxis>
+			<eccentricity errorminus="0.07" errorplus="0.07">0.25</eccentricity>
+			<periastron errorminus="23.0" errorplus="23.0">17.3</periastron>
+			<periastrontime errorminus="180.0" errorplus="180.0">14584.8</periastrontime>
+			<maximumrvtime errorminus="180.0" errorplus="180.0">14584.8</maximumrvtime>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/29</lastupdate>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2005</discoveryyear>
 		</planet>
 	</star>

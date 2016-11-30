@@ -1,0 +1,32 @@
+<system>
+	<name>K2-13</name>
+	<rightascension>11 20 37</rightascension>
+	<declination>+02 30 09</declination>
+	<distance errorminus="18.00" errorplus="34.00">290.00</distance>
+	<star>
+		<name>K2-13</name>
+		<name>EPIC 201629650</name>
+		<mass errorminus="0.04" errorplus="0.04">0.8</mass>
+		<radius errorminus="0.05" errorplus="0.09">0.78</radius>
+		<magV errorminus="0.040" errorplus="0.040">12.901</magV>
+		<magB errorminus="0.030" errorplus="0.030">13.609</magB>
+		<magJ errorminus="0.026" errorplus="0.026">11.571</magJ>
+		<magH errorminus="0.024" errorplus="0.024">11.260</magH>
+		<magK errorminus="0.026" errorplus="0.026">11.169</magK>
+		<temperature errorminus="82.0" errorplus="45.0">5698.0</temperature>
+		<age errorminus="0.09" errorplus="0.05">0.78</age>
+		<metallicity errorminus="0.14" errorplus="0.12">-0.54</metallicity>
+		<planet>
+			<name>K2-13 b</name>
+			<name>EPIC 201629650 b</name>
+			<radius errorminus="0.085" errorplus="0.085">0.169</radius>
+			<period errorminus="0.32477" errorplus="0.32477">39.91488</period>
+			<semimajoraxis errorminus="0.0061" errorplus="0.0061">0.2114</semimajoraxis>
+			<temperature errorminus="126" errorplus="126">511</temperature>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".014600" errorplus="0.014600" unit="BJD">2456812.525000</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2015</discoveryyear>
+		</planet>
+	</star>
+</system>

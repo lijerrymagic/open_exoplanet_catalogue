@@ -1,0 +1,33 @@
+<system>
+	<name>BD-11 4672</name>
+	<rightascension>18 33 28</rightascension>
+	<declination>-11 38 10</declination>
+	<distance>27.30</distance>
+	<star>
+		<name>BD-11 4672</name>
+		<mass errorminus="0.014" errorplus="0.014">0.571</mass>
+		<radius errorminus="0.02" errorplus="0.02">0.52</radius>
+		<magV>10.02</magV>
+		<magB>11.210</magB>
+		<magJ errorminus="0.023" errorplus="0.023">7.651</magJ>
+		<magH errorminus="0.031" errorplus="0.031">7.031</magH>
+		<magK errorminus="0.024" errorplus="0.024">6.867</magK>
+		<temperature errorminus="100.0" errorplus="100.0">4475.0</temperature>
+		<age errorminus="4.0" errorplus="4.0">4.4</age>
+		<metallicity errorminus="0.05" errorplus="0.05">-0.48</metallicity>
+		<spectraltype>K7V</spectraltype>
+		<planet>
+			<name>BD-11 4672 b</name>
+			<mass errorminus="0.05" errorplus="0.05" type="Radial Velocity">0.53</mass>
+			<period errorminus="33.0" errorplus="33.0">1667.0</period>
+			<semimajoraxis errorminus="0.07" errorplus="0.07">2.28</semimajoraxis>
+			<eccentricity errorminus="0.05" errorplus="0.05">0.05</eccentricity>
+			<periastron errorminus="143.0000" errorplus="77.0000">231.0000</periastron>
+			<periastrontime errorminus="38.0" errorplus="46.0">2455899.0</periastrontime>
+			<maximumrvtime errorminus="38.0" errorplus="46.0">2455899.0</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2010</discoveryyear>
+		</planet>
+	</star>
+</system>

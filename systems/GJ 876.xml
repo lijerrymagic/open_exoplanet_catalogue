@@ -1,0 +1,76 @@
+<system>
+	<name>GJ 876</name>
+	<rightascension>22 53 16</rightascension>
+	<declination>-14 15 12</declination>
+	<distance errorminus="0.05" errorplus="0.05">4.70</distance>
+	<star>
+		<name>GJ 876</name>
+		<mass errorminus="0.03" errorplus="0.03">0.334</mass>
+		<radius>0.36</radius>
+		<magV errorminus="0.015" errorplus="0.015">10.17</magV>
+		<magB errorminus="0.021" errorplus="0.021">11.750</magB>
+		<magJ errorminus="0.019" errorplus="0.019">5.934</magJ>
+		<magH errorminus="0.049" errorplus="0.049">5.349</magH>
+		<magK errorminus="0.021" errorplus="0.021">5.010</magK>
+		<temperature errorminus="300.0" errorplus="300.0">3350.0</temperature>
+		<age errorminus="2.4" errorplus="2.4">2.5</age>
+		<metallicity errorminus="0.2" errorplus="0.2">0.05</metallicity>
+		<spectraltype>M4 V</spectraltype>
+		<planet>
+			<name>GJ 876 c</name>
+			<mass errorminus="0.0289" errorplus="0.0319" type="Mass">0.856</mass>
+			<period errorminus="0.19" errorplus="0.19">30.23</period>
+			<semimajoraxis errorminus="2.4e-05" errorplus="2.4e-05">0.12959</semimajoraxis>
+			<eccentricity errorminus="0.001" errorplus="0.001">0.002</eccentricity>
+			<periastron errorminus="5.0" errorplus="5.0">225.2</periastron>
+			<periastrontime>2450602.093000</periastrontime>
+			<maximumrvtime>2450602.093000</maximumrvtime>
+			<inclination errorminus="2.06" errorplus="2.06">48.07</inclination>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2000</discoveryyear>
+		</planet>
+		<planet>
+			<name>GJ 876 d</name>
+			<mass errorminus="0.0013" errorplus="0.0013" type="Mass">0.022</mass>
+			<period errorminus="0.01" errorplus="0.01">1.94</period>
+			<semimajoraxis errorminus="1.5e-07" errorplus="1.5e-07">0.02080665</semimajoraxis>
+			<eccentricity errorminus="0.04" errorplus="0.04">0.081</eccentricity>
+			<periastron errorminus="23.0" errorplus="23.0">157.4</periastron>
+			<periastrontime>2450602.093000</periastrontime>
+			<maximumrvtime>2450602.093000</maximumrvtime>
+			<inclination>50.0</inclination>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2005</discoveryyear>
+		</planet>
+		<planet>
+			<name>GJ 876 e</name>
+			<mass errorminus="0.0012" errorplus="0.0012" type="Mass">0.045</mass>
+			<period errorminus="90.04" errorplus="90.04">124.69</period>
+			<semimajoraxis errorminus="0.0013" errorplus="0.0013">0.3343</semimajoraxis>
+			<eccentricity errorminus="0.048" errorplus="0.048">0.073</eccentricity>
+			<periastron errorminus="15.8" errorplus="15.8">360.0</periastron>
+			<periastrontime>2450602.093000</periastrontime>
+			<maximumrvtime>2450602.093000</maximumrvtime>
+			<inclination>59.5</inclination>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2010</discoveryyear>
+		</planet>
+		<planet>
+			<name>GJ 876 b</name>
+			<mass errorminus="0.01361" errorplus="0.0355" type="Mass">1.938</mass>
+			<period errorminus="3.81" errorplus="3.81">61.03</period>
+			<semimajoraxis errorminus="2e-05" errorplus="2e-05">0.208317</semimajoraxis>
+			<eccentricity errorminus="0.001" errorplus="0.001">0.0</eccentricity>
+			<periastron errorminus="1.1" errorplus="1.1">116.7</periastron>
+			<periastrontime>2450602.093000</periastrontime>
+			<maximumrvtime>2450602.093000</maximumrvtime>
+			<inclination errorminus="6.0" errorplus="6.0">84.0</inclination>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2000</discoveryyear>
+		</planet>
+	</star>
+</system>

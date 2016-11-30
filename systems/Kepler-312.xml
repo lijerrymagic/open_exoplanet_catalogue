@@ -1,49 +1,35 @@
 <system>
 	<name>Kepler-312</name>
-	<name>KOI-1628</name>
-	<name>KIC 6975129</name>
 	<rightascension>19 53 34</rightascension>
 	<declination>+42 27 35</declination>
-	<distance>720.22</distance>
 	<star>
 		<name>Kepler-312</name>
-		<name>KOI-1628</name>
-		<name>KIC 6975129</name>
-		<radius errorminus=".283" errorplus="0.283">1.467</radius>
+		<mass>1.23</mass>
+		<radius errorminus="0.28" errorplus="0.28">1.47</radius>
+		<magV>12.949</magV>
 		<magJ errorminus="0.020" errorplus="0.020">11.902</magJ>
 		<magH errorminus="0.017" errorplus="0.017">11.664</magH>
 		<magK errorminus="0.017" errorplus="0.017">11.596</magK>
-		<temperature errorminus="100" errorplus="100">6115</temperature>
+		<temperature errorminus="100.0" errorplus="100.0">6115.0</temperature>
+		<metallicity>0.076</metallicity>
 		<planet>
 			<name>Kepler-312 c</name>
-			<name>KOI-1628 c</name>
-			<name>KOI-1628.01</name>
-			<name>KIC 6975129 c</name>
-			<name>KIC 6975129.01</name>
-			<list>Confirmed planets</list>
-			<radius errorminus="0.05559" errorplus="0.05559">0.28706</radius>
-			<period errorminus=".000068" errorplus="0.000068">19.747412</period>
-			<description>Kepler-312 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-312 c are still unknown, the object is highly unlikely to be a false positive.</description>
+			<radius errorminus="0.054" errorplus="0.054">0.281</radius>
+			<period errorminus="6.8e-05" errorplus="6.8e-05">19.747412</period>
+			<semimajoraxis>0.153</semimajoraxis>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0019100" errorplus="0.0019100">2454980.1036000</transittime>
-			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<transittime errorminus=".001910" errorplus="0.001910" unit="BJD">2454980.103600</transittime>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
 			<name>Kepler-312 b</name>
-			<name>KOI-1628 b</name>
-			<name>KOI-1628.02</name>
-			<name>KIC 6975129 b</name>
-			<name>KIC 6975129.02</name>
-			<list>Confirmed planets</list>
-			<radius errorminus="0.02278" errorplus="0.02278">0.11756</radius>
-			<period errorminus=".000012" errorplus="0.000012">1.772419</period>
-			<description>Kepler-312 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-312 b are still unknown, the object is highly unlikely to be a false positive.</description>
+			<radius errorminus="0.022" errorplus="0.022">0.115</radius>
+			<period errorminus="1.2e-05" errorplus="1.2e-05">1.772419</period>
+			<semimajoraxis>0.031</semimajoraxis>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0038100" errorplus="0.0038100">2454965.0877800</transittime>
-			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<transittime errorminus=".003810" errorplus="0.003810" unit="BJD">2454965.087780</transittime>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

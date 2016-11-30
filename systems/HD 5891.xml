@@ -1,31 +1,32 @@
 <system>
 	<name>HD 5891</name>
-	<rightascension>01 00 59</rightascension>
-	<declination>+20 17 56</declination>
-	<distance>251</distance>
+	<rightascension>01 00 33</rightascension>
+	<declination>+20 17 33</declination>
+	<distance errorminus="33.56" errorplus="23.21">150.60</distance>
 	<star>
 		<name>HD 5891</name>
-		<mass>1.91</mass>
-		<radius>8.7</radius>
+		<mass errorminus="0.13" errorplus="0.13">1.91</mass>
+		<radius errorminus="0.2" errorplus="0.2">8.7</radius>
 		<magV>8.25</magV>
-		<magB errorminus="0.02" errorplus="0.02">9.11</magB>
+		<magB errorminus="0.022" errorplus="0.022">9.113</magB>
 		<magJ errorminus="0.018" errorplus="0.018">6.239</magJ>
-		<magH errorminus="0.023" errorplus="0.023">5.725</magH>
+		<magH errorminus="0.022" errorplus="0.022">5.725</magH>
 		<magK errorminus="0.016" errorplus="0.016">5.621</magK>
-		<temperature>4907.0</temperature>
-		<metallicity>-0.02</metallicity>
+		<temperature errorminus="44.0" errorplus="44.0">4907.0</temperature>
+		<age errorminus="0.8" errorplus="0.8">1.5</age>
+		<metallicity errorminus="0.03" errorplus="0.03">-0.02</metallicity>
 		<spectraltype>G5D</spectraltype>
 		<planet>
 			<name>HD 5891 b</name>
-			<list>Confirmed planets</list>
-			<mass>7.6</mass>
-			<period>177.11</period>
-			<semimajoraxis>0.76</semimajoraxis>
-			<eccentricity>0.066</eccentricity>
-			<temperature>731.8</temperature>
-			<description>The star HD 5891 hosts a Jupiter-like planet. It was discovered as part of a Doppler survey at the Keck Observatory.</description>
+			<mass errorminus="0.4" errorplus="0.4" type="Msini">7.6</mass>
+			<period errorminus="0.31" errorplus="0.31">177.11</period>
+			<semimajoraxis errorminus="0.02" errorplus="0.02">0.76</semimajoraxis>
+			<eccentricity errorminus="0.02" errorplus="0.02">0.066</eccentricity>
+			<periastron errorminus="30.0" errorplus="30.0">360.0</periastron>
+			<periastrontime errorminus="10.0" errorplus="10.0">2455432.0</periastrontime>
+			<maximumrvtime errorminus="10.0" errorplus="10.0">2455432.0</maximumrvtime>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/08/23</lastupdate>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 		</planet>
 	</star>

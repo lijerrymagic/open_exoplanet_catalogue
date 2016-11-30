@@ -2,74 +2,51 @@
 	<name>Kepler-65</name>
 	<rightascension>19 14 45</rightascension>
 	<declination>+41 09 04</declination>
-	<distance>246.65</distance>
 	<star>
 		<name>Kepler-65</name>
-		<name>KOI-85</name>
-		<name>KIC 5866724</name>
-		<mass>1.25</mass>
-		<radius>1.41</radius>
-		<magV errorminus="0.06" errorplus="0.06">10.92</magV>
-		<magB errorminus="0.07" errorplus="0.07">11.62</magB>
+		<mass errorminus="0.03" errorplus="0.029">1.199</mass>
+		<radius errorminus="0.012" errorplus="0.012">1.399</radius>
+		<magV>11.018</magV>
+		<magB>10.882</magB>
 		<magJ errorminus="0.018" errorplus="0.018">10.066</magJ>
 		<magH errorminus="0.021" errorplus="0.021">9.852</magH>
 		<magK errorminus="0.017" errorplus="0.017">9.806</magK>
-		<temperature>6211</temperature>
-		<age>2.9</age>
-		<metallicity>0.17</metallicity>
-		<spectraltype>F</spectraltype>
+		<temperature errorminus="66.0" errorplus="66.0">6211.0</temperature>
+		<age errorminus="0.59" errorplus="0.48">3.89</age>
+		<metallicity errorminus="0.06" errorplus="0.06">0.17</metallicity>
+		<spectraltype>B</spectraltype>
 		<planet>
 			<name>Kepler-65 b</name>
-			<name>KOI-85.02</name>
-			<name>KOI-85 b</name>
-			<name>KIC 5866724 b</name>
-			<list>Confirmed planets</list>
 			<radius errorminus="0.0015" errorplus="0.0015">0.1257</radius>
-			<period errorminus="0.0000025" errorplus="0.0000025">2.1549156</period>
-			<semimajoraxis>0.035</semimajoraxis>
+			<period errorminus="2.5e-06" errorplus="2.5e-06">2.1549156</period>
+			<semimajoraxis errorminus="0.001" errorplus="0.002">0.035</semimajoraxis>
 			<eccentricity errorminus="0.02" errorplus="0.17">0.02</eccentricity>
-			<inclination>81</inclination>
-			<description>This object was found by the Kepler mission. It is very likely that the transit signals are caused by planets because of statistical arguments, the fact that the system seems to host three planets and significant transit timing variations. The outer two planets are near a 7:5 commensurability.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0013" errorplus="0.0013" unit="BJD">2454966.4990</transittime>
-			<istransiting>1</istransiting>
-			<lastupdate>13/02/17</lastupdate>
-			<discoveryyear>2013</discoveryyear>
-		</planet>
-		<planet>
-			<name>Kepler-65 c</name>
-			<name>KOI-85.01</name>
-			<name>KOI-85 c</name>
-			<name>KIC 5866724 c</name>
-			<list>Confirmed planets</list>
-			<radius errorminus="0.0029" errorplus="0.0029">0.2294</radius>
-			<period errorminus="0.0000023" errorplus="0.0000023">5.8599408</period>
-			<semimajoraxis>0.068</semimajoraxis>
-			<eccentricity errorminus="0.08" errorplus="0.12">0.08</eccentricity>
-			<inclination>81</inclination>
-			<description>This object was found by the Kepler mission. It is very likely that the transit signals are caused by planets because of statistical arguments, the fact that the system seems to host three planets and significant transit timing variations. The planet Kepler-65 c is near a 7:5 commensurability with the planet Kepler-65 d.</description>
-			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0003" errorplus="0.0003" unit="BJD">2454965.0391</transittime>
-			<istransiting>1</istransiting>
-			<lastupdate>13/02/17</lastupdate>
+			<transittime errorminus=".001300" errorplus="0.001300" unit="BJD">2454966.499000</transittime>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 		</planet>
 		<planet>
 			<name>Kepler-65 d</name>
-			<name>KOI-85.03</name>
-			<name>KOI-85 d</name>
-			<name>KIC 5866724 d</name>
-			<list>Confirmed planets</list>
 			<radius errorminus="0.0036" errorplus="0.0036">0.1344</radius>
-			<period errorminus="0.000021" errorplus="0.000021">8.131231</period>
-			<semimajoraxis>0.084</semimajoraxis>
+			<period errorminus="2.1e-05" errorplus="2.1e-05">8.131231</period>
+			<semimajoraxis errorminus="0.002" errorplus="0.006">0.084</semimajoraxis>
 			<eccentricity errorminus="0.1" errorplus="0.23">0.1</eccentricity>
-			<inclination>81</inclination>
-			<description>This object was found by the Kepler mission. It is very likely that the transit signals are caused by planets because of statistical arguments, the fact that the system seems to host three planets and significant transit timing variations. Only an upper mass limit is known for this system (10 Earth masses). It is near a 7:5 commensurability with the planet Kepler-65 c.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0016" errorplus="0.0016" unit="BJD">2454970.9905</transittime>
-			<istransiting>1</istransiting>
-			<lastupdate>13/02/17</lastupdate>
+			<transittime errorminus=".001600" errorplus="0.001600" unit="BJD">2454970.990500</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2013</discoveryyear>
+		</planet>
+		<planet>
+			<name>Kepler-65 c</name>
+			<mass errorminus="0.058" errorplus="0.064" type="Radial Velocity">0.084</mass>
+			<radius errorminus="0.0029" errorplus="0.0029">0.2294</radius>
+			<period errorminus="2.3e-06" errorplus="2.3e-06">5.8599408</period>
+			<semimajoraxis errorminus="0.002" errorplus="0.004">0.068</semimajoraxis>
+			<eccentricity errorminus="0.08" errorplus="0.13">0.08</eccentricity>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000300" errorplus="0.000300" unit="BJD">2454965.039100</transittime>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 		</planet>
 	</star>

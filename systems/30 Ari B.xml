@@ -1,0 +1,33 @@
+<system>
+	<name>30 Ari B</name>
+	<rightascension>02 36 57</rightascension>
+	<declination>+24 38 53</declination>
+	<distance errorminus="1.79" errorplus="1.64">39.43</distance>
+	<star>
+		<name>30 Ari B</name>
+		<mass errorminus="0.08" errorplus="0.08">1.22</mass>
+		<radius errorminus="0.07" errorplus="0.07">1.23</radius>
+		<magV>7.1</magV>
+		<magB errorminus="0.016" errorplus="0.016">7.458</magB>
+		<magJ errorminus="0.020" errorplus="0.020">6.080</magJ>
+		<magH errorminus="0.029" errorplus="0.029">5.908</magH>
+		<magK errorminus="0.021" errorplus="0.021">5.822</magK>
+		<temperature errorminus="98.0" errorplus="98.0">6484.0</temperature>
+		<age errorminus="0.03" errorplus="0.03">0.91</age>
+		<metallicity errorminus="0.08" errorplus="0.08">0.12</metallicity>
+		<spectraltype>F6V</spectraltype>
+		<planet>
+			<name>30 Ari B b</name>
+			<mass errorminus="0.94" errorplus="0.94" type="Msini">9.88</mass>
+			<period errorminus="2.5" errorplus="2.5">335.1</period>
+			<semimajoraxis errorminus="0.012" errorplus="0.012">0.995</semimajoraxis>
+			<eccentricity errorminus="0.092" errorplus="0.092">0.289</eccentricity>
+			<periastron errorminus="18.0" errorplus="18.0">307.0</periastron>
+			<periastrontime errorminus="20.0" errorplus="20.0">2454538.0</periastrontime>
+			<maximumrvtime errorminus="20.0" errorplus="20.0">2454538.0</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2009</discoveryyear>
+		</planet>
+	</star>
+</system>

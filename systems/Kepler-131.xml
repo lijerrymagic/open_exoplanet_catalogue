@@ -1,52 +1,39 @@
 <system>
 	<name>Kepler-131</name>
-	<name>KOI-283</name>
-	<name>KIC 5695396</name>
 	<rightascension>19 14 07</rightascension>
 	<declination>+40 56 32</declination>
-	<distance>226.3</distance>
 	<star>
 		<name>Kepler-131</name>
-		<name>KOI-283</name>
 		<name>KIC 5695396</name>
+		<name>KOI-283</name>
 		<mass errorminus="0.06" errorplus="0.06">1.02</mass>
-		<radius errorminus="0.10" errorplus="0.10">1.03</radius>
-		<magV errorminus="0.10" errorplus="0.10">11.49</magV>
-		<magB errorminus="0.16" errorplus="0.16">12.22</magB>
+		<radius errorminus="0.1" errorplus="0.1">1.03</radius>
+		<magV>11.525</magV>
+		<magB>11.334</magB>
 		<magJ errorminus="0.022" errorplus="0.022">10.418</magJ>
 		<magH errorminus="0.022" errorplus="0.022">10.127</magH>
 		<magK errorminus="0.017" errorplus="0.017">10.079</magK>
-		<temperature errorminus="74" errorplus="74">5685</temperature>
+		<temperature errorminus="74.0" errorplus="74.0">5685.0</temperature>
 		<age>3.66</age>
 		<metallicity errorminus="0.07" errorplus="0.07">0.12</metallicity>
 		<planet>
 			<name>Kepler-131 b</name>
-			<name>KOI-283.01</name>
-			<name>KOI-283 b</name>
-			<name>KIC 5695396 b</name>
-			<list>Confirmed planets</list>
-			<mass errorminus="0.011010" errorplus="0.011010">0.050740</mass>
-			<radius errorminus="0.018226" errorplus="0.018226">0.219624</radius>
-			<period>16.0920</period>
-			<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
+			<mass errorminus="0.011" errorplus="0.011" type="Radial Velocity">0.05075</mass>
+			<radius errorminus="0.018" errorplus="0.018">0.215</radius>
+			<period>16.092</period>
 			<discoverymethod>transit</discoverymethod>
-			<istransiting>1</istransiting>
-			<lastupdate>14/02/24</lastupdate>
+			<transittime unit="BJD">2455003.597950</transittime>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
 			<name>Kepler-131 c</name>
-			<name>KOI-283.02</name>
-			<name>KOI-283 c</name>
-			<name>KIC 5695396 c</name>
-			<list>Confirmed planets</list>
-			<mass errorminus="0.018560" errorplus="0.018560">0.025952</mass>
-			<radius errorminus="0.006379" errorplus="0.006379">0.076549</radius>
-			<period>25.5169</period>
-			<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
+			<mass errorminus="0.019" errorplus="0.019" type="Radial Velocity">0.026</mass>
+			<radius errorminus="0.006" errorplus="0.006">0.075</radius>
+			<period>25.516</period>
 			<discoverymethod>transit</discoverymethod>
-			<istransiting>1</istransiting>
-			<lastupdate>14/02/24</lastupdate>
+			<transittime unit="BJD">2454987.423420</transittime>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

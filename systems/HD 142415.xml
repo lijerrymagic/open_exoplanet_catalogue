@@ -2,30 +2,31 @@
 	<name>HD 142415</name>
 	<rightascension>15 57 40</rightascension>
 	<declination>-60 12 00</declination>
-	<distance>34.2</distance>
+	<distance errorminus="1.03" errorplus="0.98">34.57</distance>
 	<star>
 		<name>HD 142415</name>
 		<mass>1.09</mass>
 		<radius>1.03</radius>
-		<magV>7.34</magV>
-		<magB>7.94</magB>
-		<magR>7.3</magR>
+		<magV errorminus="0.010" errorplus="0.010">7.34</magV>
+		<magB errorminus="0.015" errorplus="0.015">7.959</magB>
 		<magJ errorminus="0.019" errorplus="0.019">6.235</magJ>
-		<magH errorminus="0.05" errorplus="0.05">5.99</magH>
-		<magK errorminus="0.023" errorplus="0.023">5.892</magK>
+		<magH errorminus="0.049" errorplus="0.049">5.990</magH>
+		<magK errorminus="0.022" errorplus="0.022">5.892</magK>
 		<temperature>5834.0</temperature>
-		<metallicity>0.21</metallicity>
+		<age>1.49</age>
+		<metallicity errorminus="0.05" errorplus="0.05">0.21</metallicity>
 		<spectraltype>G1 V</spectraltype>
 		<planet>
 			<name>HD 142415 b</name>
-			<list>Confirmed planets</list>
-			<mass>1.62</mass>
-			<period>386.3</period>
+			<mass type="Msini">1.62</mass>
+			<period errorminus="1.6" errorplus="1.6">386.3</period>
 			<semimajoraxis>1.05</semimajoraxis>
 			<eccentricity>0.5</eccentricity>
-			<temperature>250.5</temperature>
+			<periastron errorminus="4.0" errorplus="4.0">255.0</periastron>
+			<periastrontime errorminus="4.0" errorplus="4.0">51519.0</periastrontime>
+			<maximumrvtime errorminus="4.0" errorplus="4.0">51519.0</maximumrvtime>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/29</lastupdate>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2003</discoveryyear>
 		</planet>
 	</star>

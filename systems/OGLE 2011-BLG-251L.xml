@@ -1,0 +1,19 @@
+<system>
+	<name>OGLE 2011-BLG-251L</name>
+	<rightascension>17 38 14</rightascension>
+	<declination>-27 08 10</declination>
+	<distance errorminus="610.00" errorplus="610.00">2570.00</distance>
+	<star>
+		<name>OGLE 2011-BLG-251L</name>
+		<mass errorminus="0.11" errorplus="0.11">0.26</mass>
+		<spectraltype>M</spectraltype>
+		<planet>
+			<name>OGLE 2011-BLG-251L b</name>
+			<mass errorminus="0.21000" errorplus="0.21000" type="Mass">0.53000</mass>
+			<semimajoraxis errorminus="0.750000" errorplus="0.750000">2.720000</semimajoraxis>
+			<discoverymethod>microlensing</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2012</discoveryyear>
+		</planet>
+	</star>
+</system>

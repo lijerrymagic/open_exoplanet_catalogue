@@ -1,0 +1,36 @@
+<system>
+	<name>HATS-26</name>
+	<rightascension>09 39 42</rightascension>
+	<declination>-28 35 08</declination>
+	<distance errorminus="49.00" errorplus="69.00">907.00</distance>
+	<star>
+		<name>HATS-26</name>
+		<name>2MASS 09394244-2835081</name>
+		<name>GSC 6614-01083</name>
+		<mass errorminus="0.056" errorplus="0.113">1.299</mass>
+		<radius errorminus="0.11" errorplus="0.15">2.04</radius>
+		<magV errorminus="0.030" errorplus="0.030">12.955</magV>
+		<magB errorminus="0.030" errorplus="0.030">13.553</magB>
+		<magJ errorminus="0.021" errorplus="0.021">11.839</magJ>
+		<magH errorminus="0.022" errorplus="0.022">11.510</magH>
+		<magK errorminus="0.019" errorplus="0.019">11.435</magK>
+		<temperature errorminus="81.0" errorplus="81.0">6071.0</temperature>
+		<age errorminus="0.62" errorplus="0.94">4.04</age>
+		<metallicity errorminus="0.05" errorplus="0.05">-0.02</metallicity>
+		<spectraltype>F</spectraltype>
+		<planet>
+			<name>HATS-26 b</name>
+			<mass errorminus="0.076" errorplus="0.076" type="Radial Velocity">0.65</mass>
+			<radius errorminus="0.21" errorplus="0.21">1.75</radius>
+			<period errorminus="7.6e-06" errorplus="7.6e-06">3.3023881</period>
+			<semimajoraxis errorminus="0.00068" errorplus="0.00133">0.04735</semimajoraxis>
+			<eccentricity errorminus="0.122" errorplus="0.122">0.122</eccentricity>
+			<inclination errorminus="1.9" errorplus="1.9">86.2</inclination>
+			<temperature errorminus="61" errorplus="61">1918</temperature>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.0012" errorplus="0.0012" unit="BJD">2456867.4232</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

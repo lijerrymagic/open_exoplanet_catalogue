@@ -1,49 +1,35 @@
 <system>
 	<name>Kepler-352</name>
-	<name>KOI-2029</name>
-	<name>KIC 9489524</name>
 	<rightascension>19 59 35</rightascension>
 	<declination>+46 03 07</declination>
-	<distance>279.58</distance>
 	<star>
 		<name>Kepler-352</name>
-		<name>KOI-2029</name>
-		<name>KIC 9489524</name>
-		<radius errorminus=".053" errorplus="0.053">0.781</radius>
-		<magJ errorminus="0.023" errorplus="0.023">11.610</magJ>
-		<magH errorminus="0.03" errorplus="0.03">11.18</magH>
+		<mass>0.79</mass>
+		<radius errorminus="0.05" errorplus="0.05">0.78</radius>
+		<magV>12.957</magV>
+		<magJ errorminus="0.022" errorplus="0.022">11.61</magJ>
+		<magH errorminus="0.030" errorplus="0.030">11.178</magH>
 		<magK errorminus="0.022" errorplus="0.022">11.132</magK>
-		<temperature errorminus="100" errorplus="100">5212</temperature>
+		<temperature errorminus="100.0" errorplus="100.0">5212.0</temperature>
+		<metallicity>-0.175</metallicity>
 		<planet>
-			<name>Kepler-352 c</name>
-			<name>KOI-2029 c</name>
-			<name>KOI-2029.01</name>
-			<name>KIC 9489524 c</name>
-			<name>KIC 9489524.01</name>
-			<list>Confirmed planets</list>
-			<radius errorminus="0.00911" errorplus="0.00911">0.11300</radius>
-			<period errorminus=".000272" errorplus="0.000272">16.332995</period>
-			<description>Kepler-352 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-352 c are still unknown, the object is highly unlikely to be a false positive.</description>
+			<name>Kepler-352 b</name>
+			<radius errorminus="0.007" errorplus="0.007">0.077</radius>
+			<period errorminus="0.000194" errorplus="0.000194">10.05537</period>
+			<semimajoraxis>0.085</semimajoraxis>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0051200" errorplus="0.0051200">2454969.9064800</transittime>
-			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<transittime errorminus=".005470" errorplus="0.005470" unit="BJD">2455006.233020</transittime>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
-			<name>Kepler-352 b</name>
-			<name>KOI-2029 b</name>
-			<name>KOI-2029.02</name>
-			<name>KIC 9489524 b</name>
-			<name>KIC 9489524.02</name>
-			<list>Confirmed planets</list>
-			<radius errorminus="0.00729" errorplus="0.00729">0.07837</radius>
-			<period errorminus=".000194" errorplus="0.000194">10.055370</period>
-			<description>Kepler-352 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-352 b are still unknown, the object is highly unlikely to be a false positive.</description>
+			<name>Kepler-352 c</name>
+			<radius errorminus="0.009" errorplus="0.009">0.111</radius>
+			<period errorminus="0.000272" errorplus="0.000272">16.332995</period>
+			<semimajoraxis>0.118</semimajoraxis>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0054700" errorplus="0.0054700">2455006.2330200</transittime>
-			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<transittime errorminus=".005120" errorplus="0.005120" unit="BJD">2454969.906480</transittime>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

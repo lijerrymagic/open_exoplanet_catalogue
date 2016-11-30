@@ -1,49 +1,34 @@
 <system>
 	<name>Kepler-225</name>
-	<name>KOI-736</name>
-	<name>KIC 10340423</name>
 	<rightascension>19 28 46</rightascension>
 	<declination>+47 27 25</declination>
-	<distance>342.18</distance>
 	<star>
 		<name>Kepler-225</name>
-		<name>KOI-736</name>
-		<name>KIC 10340423</name>
-		<radius errorminus=".020" errorplus="0.020">0.480</radius>
+		<radius errorminus="0.02" errorplus="0.02">0.48</radius>
+		<magV>15.962</magV>
 		<magJ errorminus="0.028" errorplus="0.028">14.032</magJ>
 		<magH errorminus="0.026" errorplus="0.026">13.341</magH>
-		<magK errorminus="0.04" errorplus="0.04">13.25</magK>
-		<temperature errorminus="50" errorplus="150">3682</temperature>
+		<magK errorminus="0.039" errorplus="0.039">13.253</magK>
+		<temperature errorminus="150.0" errorplus="150.0">3682.0</temperature>
+		<metallicity>-0.185</metallicity>
 		<planet>
-			<name>Kepler-225 c</name>
-			<name>KOI-736 c</name>
-			<name>KOI-736.01</name>
-			<name>KIC 10340423 c</name>
-			<name>KIC 10340423.01</name>
-			<list>Confirmed planets</list>
-			<radius errorminus="0.00911" errorplus="0.00911">0.16768</radius>
-			<period errorminus=".000076" errorplus="0.000076">18.794234</period>
-			<description>Kepler-225 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-225 c are still unknown, the object is highly unlikely to be a false positive.</description>
+			<name>Kepler-225 b</name>
+			<radius errorminus="0.006" errorplus="0.006">0.107</radius>
+			<period errorminus="4.1e-05" errorplus="4.1e-05">6.738975</period>
+			<semimajoraxis>0.056</semimajoraxis>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0021600" errorplus="0.0021600">2455010.7935000</transittime>
-			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<transittime errorminus=".003600" errorplus="0.003600" unit="BJD">2454968.276580</transittime>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
-			<name>Kepler-225 b</name>
-			<name>KOI-736 b</name>
-			<name>KOI-736.02</name>
-			<name>KIC 10340423 b</name>
-			<name>KIC 10340423.02</name>
-			<list>Confirmed planets</list>
-			<radius errorminus="0.00638" errorplus="0.00638">0.10936</radius>
-			<period errorminus=".000041" errorplus="0.000041">6.738975</period>
-			<description>Kepler-225 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-225 b are still unknown, the object is highly unlikely to be a false positive.</description>
+			<name>Kepler-225 c</name>
+			<radius errorminus="0.009" errorplus="0.009">0.164</radius>
+			<period errorminus="7.6e-05" errorplus="7.6e-05">18.794234</period>
+			<semimajoraxis>0.111</semimajoraxis>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0036000" errorplus="0.0036000">2454968.2765800</transittime>
-			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<transittime errorminus=".002160" errorplus="0.002160" unit="BJD">2455010.793500</transittime>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

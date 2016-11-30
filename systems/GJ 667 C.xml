@@ -1,0 +1,90 @@
+<system>
+	<name>GJ 667 C</name>
+	<rightascension>17 18 58</rightascension>
+	<declination>-34 59 22</declination>
+	<distance>6.80</distance>
+	<star>
+		<name>GJ 667 C</name>
+		<mass errorminus="0.02" errorplus="0.02">0.33</mass>
+		<magV errorminus="0.100" errorplus="0.100">10.22</magV>
+		<magJ errorminus="0.021" errorplus="0.021">6.848</magJ>
+		<magH errorminus="0.044" errorplus="0.044">6.322</magH>
+		<magK errorminus="0.020" errorplus="0.020">6.036</magK>
+		<temperature errorminus="50.00" errorplus="50.00">3600.0</temperature>
+		<age errorminus="inf" errorplus="nan">2.0</age>
+		<metallicity errorminus="0.100" errorplus="0.100">-0.55</metallicity>
+		<spectraltype>M1.5V</spectraltype>
+		<planet>
+			<name>GJ 667 C b</name>
+			<mass errorminus="0.0041" errorplus="0.0044" type="Msini">0.0176</mass>
+			<period errorminus="0.0017" errorplus="0.0017">7.2004</period>
+			<semimajoraxis errorminus="0.0053" errorplus="0.0044">0.0505</semimajoraxis>
+			<eccentricity errorminus="0.11" errorplus="0.1">0.13</eccentricity>
+			<periastron errorminus="360.0" errorplus="360.0">5.7</periastron>
+			<periastrontime errorminus="0.6" errorplus="0.6">2454443.1</periastrontime>
+			<maximumrvtime errorminus="0.6" errorplus="0.6">2454443.1</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2009</discoveryyear>
+		</planet>
+		<planet>
+			<name>GJ 667 C c</name>
+			<mass errorminus="0.0038" errorplus="0.0047" type="Msini">0.012</mass>
+			<period errorminus="0.03" errorplus="0.03">28.14</period>
+			<semimajoraxis errorminus="0.013" errorplus="0.012">0.125</semimajoraxis>
+			<eccentricity errorminus="0.02" errorplus="0.15">0.02</eccentricity>
+			<periastron errorminus="360.0" errorplus="360.0">292.0</periastron>
+			<periastrontime errorminus="1.0" errorplus="1.0">2454462.0</periastrontime>
+			<maximumrvtime errorminus="1.0" errorplus="1.0">2454462.0</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2011</discoveryyear>
+		</planet>
+		<planet>
+			<name>GJ 667 C f</name>
+			<mass errorminus="0.0038" errorplus="0.0044" type="Msini">0.0085</mass>
+			<period errorminus="0.211" errorplus="0.194">39.026</period>
+			<semimajoraxis errorminus="0.017" errorplus="0.014">0.156</semimajoraxis>
+			<eccentricity errorminus="0.03" errorplus="0.16">0.03</eccentricity>
+			<periastron errorminus="360.0" errorplus="360.0">103.0</periastron>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2013</discoveryyear>
+		</planet>
+		<planet>
+			<name>GJ 667 C g</name>
+			<mass errorminus="0.0072" errorplus="0.0082" type="Msini">0.0145</mass>
+			<period errorminus="7.9" errorplus="13.8">256.2</period>
+			<semimajoraxis errorminus="0.058" errorplus="0.052">0.549</semimajoraxis>
+			<eccentricity errorminus="0.08" errorplus="0.41">0.08</eccentricity>
+			<periastron errorminus="360.0" errorplus="360.0">51.56</periastron>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2013</discoveryyear>
+		</planet>
+		<planet>
+			<name>GJ 667 C e</name>
+			<mass errorminus="0.0044" errorplus="0.005" type="Msini">0.0085</mass>
+			<period errorminus="0.55" errorplus="0.55">62.24</period>
+			<semimajoraxis errorminus="0.02" errorplus="0.02">0.213</semimajoraxis>
+			<eccentricity errorminus="0.02" errorplus="0.004">0.02</eccentricity>
+			<periastron errorminus="360.0" errorplus="360.0">28.65</periastron>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2013</discoveryyear>
+		</planet>
+		<planet>
+			<name>GJ 667 C d</name>
+			<mass errorminus="0.00535" errorplus="0.00566">0.01604</mass>
+			<period errorminus="0.89" errorplus="0.81">91.61</period>
+			<semimajoraxis errorminus="0.03" errorplus="0.024">0.276</semimajoraxis>
+			<eccentricity errorminus="0.03" errorplus="0.2">0.03</eccentricity>
+			<periastron errorminus="360.0" errorplus="360.0">40.11</periastron>
+			<periastrontime errorminus="1.0" errorplus="1.0">2454499.0</periastrontime>
+			<maximumrvtime errorminus="1.0" errorplus="1.0">2454499.0</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2012</discoveryyear>
+		</planet>
+	</star>
+</system>

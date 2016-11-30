@@ -1,31 +1,32 @@
 <system>
 	<name>WASP-119</name>
-	<rightascension>03 43 44.02</rightascension>
-	<declination>-65 11 37.8</declination>
-	<distance errorminus="29" errorplus="29">333</distance>
+	<rightascension>03 43 44</rightascension>
+	<declination>-65 11 38</declination>
+	<distance errorminus="29.00" errorplus="29.00">333.00</distance>
 	<star>
 		<name>WASP-119</name>
-		<name>2MASS J03434402-6511378</name>
 		<mass errorminus="0.06" errorplus="0.06">1.02</mass>
-		<magV errorminus="0.4" errorplus="0.4">12.2</magV>
-		<temperature errorminus="100" errorplus="100">5650</temperature>
-		<metallicity errorminus="0.1" errorplus="0.10">0.14</metallicity>
+		<radius errorminus="0.1" errorplus="0.1">1.2</radius>
+		<magV errorminus="0.400" errorplus="0.400">12.2</magV>
+		<magJ errorminus="0.019" errorplus="0.019">10.924</magJ>
+		<magH errorminus="0.022" errorplus="0.022">10.612</magH>
+		<magK errorminus="0.019" errorplus="0.019">10.545</magK>
+		<temperature errorminus="100.0" errorplus="100.0">5650.0</temperature>
+		<age errorminus="2.5" errorplus="2.5">8.0</age>
+		<metallicity errorminus="0.1" errorplus="0.1">0.14</metallicity>
 		<spectraltype>G5</spectraltype>
 		<planet>
 			<name>WASP-119 b</name>
-			<name>2MASS J03434402-6511378 b</name>
-			<list>Confirmed planets</list>
-			<mass errorminus="0.08" errorplus="0.08">1.23</mass>
-			<radius errorminus="0.02" errorplus="0.02">1.4</radius>
-			<period>2.49979</period>
+			<mass errorminus="0.0831" errorplus="0.0851" type="Radial Velocity">1.23</mass>
+			<radius errorminus="0.2" errorplus="0.2">1.4</radius>
+			<period errorminus="1e-05" errorplus="1e-05">2.49979</period>
 			<semimajoraxis errorminus="0.0007" errorplus="0.0007">0.0363</semimajoraxis>
-			<inclination errorminus="2" errorplus="2">85</inclination>
-			<temperature errorminus="80" errorplus="80">1600</temperature>
-			<description>This Hot Jupiter was discovered by WASP-South.</description>
+			<eccentricity errorminus="0.058" errorplus="0.0">0.058</eccentricity>
+			<inclination errorminus="2.0" errorplus="2.0">85.0</inclination>
+			<temperature errorminus="80" errorplus="80">1600.0</temperature>
 			<discoverymethod>transit</discoverymethod>
-			<transittime unit="HJD">2546537.547</transittime>
-			<istransiting>1</istransiting>
-			<lastupdate>16/02/04</lastupdate>
+			<transittime errorminus="0.002" errorplus="0.002" unit="HJD">2456537.547</transittime>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

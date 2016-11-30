@@ -1,0 +1,31 @@
+<system>
+	<name>K2-27</name>
+	<rightascension>11 26 03</rightascension>
+	<declination>+00 19 51</declination>
+	<star>
+		<name>K2-27</name>
+		<name>EPIC 201546283</name>
+		<mass errorminus="0.05" errorplus="0.05">0.89</mass>
+		<radius errorminus="0.06" errorplus="0.06">0.85</radius>
+		<magV errorminus="0.020" errorplus="0.020">12.644</magV>
+		<magB errorminus="0.070" errorplus="0.070">13.506</magB>
+		<magJ errorminus="0.024" errorplus="0.024">11.157</magJ>
+		<magH errorminus="0.029" errorplus="0.029">10.794</magH>
+		<magK errorminus="0.024" errorplus="0.024">10.704</magK>
+		<temperature errorminus="70.0" errorplus="70.0">5320.0</temperature>
+		<metallicity errorminus="0.07" errorplus="0.07">0.14</metallicity>
+		<planet>
+			<name>K2-27 b</name>
+			<name>EPIC 201546283 b</name>
+			<mass errorminus="0.023" errorplus="0.023" type="Radial Velocity">0.0916</mass>
+			<radius errorminus="0.029" errorplus="0.029">0.397</radius>
+			<period errorminus="0.00013" errorplus="0.00013">6.77145</period>
+			<eccentricity errorminus="0.1" errorplus="0.1">0.16</eccentricity>
+			<inclination>88.4</inclination>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.001" errorplus="0.001" unit="BJD">2456812.8451</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

@@ -1,50 +1,34 @@
 <system>
 	<name>Kepler-216</name>
-	<name>KOI-708</name>
-	<name>KIC 9530945</name>
 	<rightascension>19 34 54</rightascension>
 	<declination>+46 07 44</declination>
-	<distance>994.93</distance>
 	<star>
 		<name>Kepler-216</name>
-		<name>KOI-708</name>
-		<name>KIC 9530945</name>
-		<mass errorminus="0.0800" errorplus="0.0800">1.1290</mass>
-		<radius errorminus=".243" errorplus="0.243">1.260</radius>
+		<radius errorminus="0.24" errorplus="0.24">1.26</radius>
+		<magV>13.998</magV>
 		<magJ errorminus="0.021" errorplus="0.021">12.956</magJ>
 		<magH errorminus="0.022" errorplus="0.022">12.695</magH>
 		<magK errorminus="0.021" errorplus="0.021">12.621</magK>
-		<temperature errorminus="20" errorplus="120">6091</temperature>
+		<temperature errorminus="120.0" errorplus="120.0">6091.0</temperature>
+		<metallicity>-0.183</metallicity>
 		<planet>
-			<name>Kepler-216 c</name>
-			<name>KOI-708 c</name>
-			<name>KOI-708.01</name>
-			<name>KIC 9530945 c</name>
-			<name>KIC 9530945.01</name>
-			<list>Confirmed planets</list>
-			<radius errorminus="0.05377" errorplus="0.05377">0.27704</radius>
-			<period errorminus=".000057" errorplus="0.000057">17.406669</period>
-			<description>Kepler-216 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-216 c are still unknown, the object is highly unlikely to be a false positive.</description>
+			<name>Kepler-216 b</name>
+			<radius errorminus="0.041" errorplus="0.041">0.21</radius>
+			<period errorminus="3.1e-05" errorplus="3.1e-05">7.693641</period>
+			<semimajoraxis>0.079</semimajoraxis>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0017200" errorplus="0.0017200">2455004.0060700</transittime>
-			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<transittime errorminus=".002370" errorplus="0.002370" unit="BJD">2455009.501060</transittime>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
-			<name>Kepler-216 b</name>
-			<name>KOI-708 b</name>
-			<name>KOI-708.02</name>
-			<name>KIC 9530945 b</name>
-			<name>KIC 9530945.02</name>
-			<list>Confirmed planets</list>
-			<radius errorminus="0.04192" errorplus="0.04192">0.21416</radius>
-			<period errorminus=".000031" errorplus="0.000031">7.693641</period>
-			<description>Kepler-216 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-216 b are still unknown, the object is highly unlikely to be a false positive.</description>
+			<name>Kepler-216 c</name>
+			<radius errorminus="0.053" errorplus="0.053">0.271</radius>
+			<period errorminus="5.7e-05" errorplus="5.7e-05">17.406669</period>
+			<semimajoraxis>0.136</semimajoraxis>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0023700" errorplus="0.0023700">2455009.5010600</transittime>
-			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<transittime errorminus=".001720" errorplus="0.001720" unit="BJD">2455004.006070</transittime>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

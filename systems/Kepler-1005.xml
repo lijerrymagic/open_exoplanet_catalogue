@@ -1,23 +1,26 @@
 <system>
 	<name>Kepler-1005</name>
-	<rightascension>19 05 09</rightascension>
-	<declination>+43 19 14</declination>
+	<rightascension>19 05 08</rightascension>
+	<declination>+43 19 13</declination>
+	<distance errorminus="50.36" errorplus="72.05">515.00</distance>
 	<star>
 		<name>Kepler-1005</name>
-		<mass errorminus="0.04" errorplus="0.04">1.00</mass>
-		<radius errorminus="0.10" errorplus="0.15">1.06</radius>
-		<temperature errorminus="67.9" errorplus="68.0">5782.0</temperature>
-		<metallicity errorminus="0.10" errorplus="0.09">0.02</metallicity>
+		<mass errorminus="0.04" errorplus="0.04">1.0</mass>
+		<radius errorminus="0.1" errorplus="0.15">1.06</radius>
+		<magV>13.250</magV>
+		<magJ errorminus="0.021" errorplus="0.021">12.091</magJ>
+		<magH errorminus="0.017" errorplus="0.017">11.788</magH>
+		<magK errorminus="0.014" errorplus="0.014">11.718</magK>
+		<temperature errorminus="67.92" errorplus="68.03">5782.0</temperature>
+		<age errorminus="3.360" errorplus="2.090">6.170</age>
+		<metallicity errorminus="0.103" errorplus="0.089">0.02</metallicity>
 		<planet>
 			<name>Kepler-1005 b</name>
-			<list>Confirmed planets</list>
 			<radius errorminus="0.013" errorplus="0.019">0.134</radius>
-			<period errorminus="0.000013200" errorplus="0.000013200">6.498015250</period>
-			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+			<period errorminus="1.32e-05" errorplus="1.32e-05">6.49801525</period>
 			<discoverymethod>transit</discoverymethod>
-			<istransiting>1</istransiting>
-			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<transittime errorminus=".001690" errorplus="0.001690" unit="JD">2454969.001250</transittime>
+			<lastupdate>16/11/29</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

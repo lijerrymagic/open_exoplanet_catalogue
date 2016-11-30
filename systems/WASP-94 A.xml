@@ -1,0 +1,33 @@
+<system>
+	<name>WASP-94 A</name>
+	<rightascension>20 55 07</rightascension>
+	<declination>-34 08 07</declination>
+	<distance errorminus="20.00" errorplus="20.00">180.00</distance>
+	<star>
+		<name>WASP-94 A</name>
+		<mass errorminus="0.1" errorplus="0.1">1.29</mass>
+		<radius errorminus="0.13" errorplus="0.13">1.36</radius>
+		<magV>10.1</magV>
+		<magJ errorminus="0.024" errorplus="0.024">9.159</magJ>
+		<magH errorminus="0.020" errorplus="0.020">8.916</magH>
+		<magK errorminus="0.023" errorplus="0.023">8.874</magK>
+		<temperature errorminus="80.0" errorplus="80.0">6170.0</temperature>
+		<age>4.000</age>
+		<metallicity errorminus="0.15" errorplus="0.15">0.26</metallicity>
+		<spectraltype>F8</spectraltype>
+		<planet>
+			<name>WASP-94 A b</name>
+			<mass errorminus="0.032" errorplus="0.035" type="Mass">0.452</mass>
+			<radius errorminus="0.05" errorplus="0.06">1.72</radius>
+			<period errorminus="3e-06" errorplus="4.4e-06">3.9501907</period>
+			<semimajoraxis errorminus="0.001" errorplus="0.001">0.055</semimajoraxis>
+			<eccentricity errorminus="0.0" errorplus="0.13">0.0</eccentricity>
+			<inclination errorminus="0.7" errorplus="0.7">88.7</inclination>
+			<temperature errorminus="22" errorplus="25">1604.0</temperature>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000260" errorplus="0.000260" unit="HJD">2456416.401380</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2014</discoveryyear>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,34 @@
+<system>
+	<name>GJ 3470</name>
+	<rightascension>07 59 05</rightascension>
+	<declination>+15 23 30</declination>
+	<distance errorminus="2.90" errorplus="2.90">25.20</distance>
+	<star>
+		<name>GJ 3470</name>
+		<mass errorminus="0.047" errorplus="0.047">0.539</mass>
+		<radius errorminus="0.012" errorplus="0.012">0.55</radius>
+		<magV errorminus="0.012" errorplus="0.012">12.27</magV>
+		<magJ errorminus="0.025" errorplus="0.025">8.794</magJ>
+		<magH errorminus="0.022" errorplus="0.022">8.206</magH>
+		<magK errorminus="0.022" errorplus="0.022">7.989</magK>
+		<temperature errorminus="100.0" errorplus="100.0">3600.0</temperature>
+		<age errorminus="0.7" errorplus="0.7">1.0</age>
+		<metallicity errorminus="0.1" errorplus="0.1">0.2</metallicity>
+		<spectraltype>M1.5</spectraltype>
+		<planet>
+			<name>GJ 3470 b</name>
+			<mass errorminus="0.00513931672341" errorplus="0.00514531263071" type="Mass">0.0437533292587</mass>
+			<radius errorminus="0.0526363683403842" errorplus="0.0526363683403842">0.373807429400356</radius>
+			<period errorminus="5e-05" errorplus="5e-05">3.33671</period>
+			<semimajoraxis errorminus="0.001" errorplus="0.001">0.03557</semimajoraxis>
+			<eccentricity errorminus="0.012000" errorplus="0.016000">0.017000</eccentricity>
+			<periastron errorminus="1.2000" errorplus="0.9600">1.7000</periastron>
+			<inclination errorminus="0.5" errorplus="0.5">88.3</inclination>
+			<temperature errorminus="98" errorplus="98">604</temperature>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.00015" errorplus="0.00015" unit="BJD-TDB">2456090.4769</transittime>
+			<lastupdate>16/11/29</lastupdate>
+			<discoveryyear>2012</discoveryyear>
+		</planet>
+	</star>
+</system>
